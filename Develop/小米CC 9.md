@@ -1,74 +1,38 @@
-### 小米CC 9  开发版/内测版
-
-[miui_PYXIS_20.5.11_fdb96ed4d4_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_PYXIS_20.5.11_fdb96ed4d4_10.0.zip)
-
-[miui_PYXIS_20.5.7_3324c10e52_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip)
-
-[miui_PYXIS_20.5.6_a42394fd53_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_PYXIS_20.5.6_a42394fd53_10.0.zip)
-
-[miui_PYXIS_20.4.30_5e81299b72_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_PYXIS_20.4.30_5e81299b72_10.0.zip)
-
-[miui_PYXIS_20.4.28_cc107ca05a_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_PYXIS_20.4.28_cc107ca05a_10.0.zip)
-
-[miui_PYXIS_20.4.27_a8055982b0_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_PYXIS_20.4.27_a8055982b0_10.0.zip)
-
-[miui_PYXIS_20.3.26_857cc8af87_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip)
-
-[miui_PYXIS_20.3.25_8cb9cd1079_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_PYXIS_20.3.25_8cb9cd1079_10.0.zip)
-
-[miui_PYXIS_20.3.24_188cf5045c_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_PYXIS_20.3.24_188cf5045c_10.0.zip)
-
-[miui_PYXIS_20.3.23_9853498f6e_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_PYXIS_20.3.23_9853498f6e_10.0.zip)
-
-[miui_PYXIS_20.3.19_6ec6e95f41_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_PYXIS_20.3.19_6ec6e95f41_10.0.zip)
-
-[miui_PYXIS_20.3.18_d1a6cb66a5_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_PYXIS_20.3.18_d1a6cb66a5_10.0.zip)
-
-[miui_PYXIS_20.3.17_eba1f92051_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_PYXIS_20.3.17_eba1f92051_10.0.zip)
-
-[miui_PYXIS_20.3.16_bb47b31876_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_PYXIS_20.3.16_bb47b31876_10.0.zip)
-
-[miui_PYXIS_20.3.12_282b270e73_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_PYXIS_20.3.12_282b270e73_10.0.zip)
-
-[miui_PYXIS_20.3.11_d55f5168b0_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_PYXIS_20.3.11_d55f5168b0_10.0.zip)
-
-[miui_PYXIS_20.3.9_b66c109701_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_PYXIS_20.3.9_b66c109701_10.0.zip)
-
-[miui_PYXIS_20.3.5_b58b304d01_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_PYXIS_20.3.5_b58b304d01_10.0.zip)
-
-[miui_PYXIS_20.3.4_fec2722be0_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_PYXIS_20.3.4_fec2722be0_10.0.zip)
-
-[miui_PYXIS_20.2.27_a902b4bb87_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_PYXIS_20.2.27_a902b4bb87_10.0.zip)
-
-[miui_PYXIS_20.2.26_2fddc884f0_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_PYXIS_20.2.26_2fddc884f0_10.0.zip)
-
-[miui_PYXIS_20.2.25_65e77b5dc3_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_PYXIS_20.2.25_65e77b5dc3_10.0.zip)
-
-[miui_PYXIS_20.1.21_c911a13d7b_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_PYXIS_20.1.21_c911a13d7b_10.0.zip)
-
-[miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip)
-
-[miui_PYXIS_20.1.15_61c1a682e1_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_PYXIS_20.1.15_61c1a682e1_10.0.zip)
-
-[miui_PYXIS_20.1.14_1a369176f5_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_PYXIS_20.1.14_1a369176f5_10.0.zip)
-
-[miui_PYXIS_20.1.9_211c7e7e97_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_PYXIS_20.1.9_211c7e7e97_10.0.zip)
-
-[miui_PYXIS_20.1.8_92db2bf4c3_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_PYXIS_20.1.8_92db2bf4c3_10.0.zip)
-
-[miui_PYXIS_20.1.7_1f70bfe040_10.0.zip](https://hugeota.d.miui.com/20.1.7/miui_PYXIS_20.1.7_1f70bfe040_10.0.zip)
-
-[miui_PYXIS_20.1.2_0f1d993080_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_PYXIS_20.1.2_0f1d993080_10.0.zip)
-
-[miui_PYXIS_9.12.31_2f797762b6_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_PYXIS_9.12.31_2f797762b6_10.0.zip)
-
-[miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip)
-
-[miui_PYXIS_9.12.23_fa4cad718f_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_PYXIS_9.12.23_fa4cad718f_10.0.zip)
-
-[miui_PYXIS_9.12.2_8bd845dcdc_10.0.zip](https://hugeota.d.miui.com/9.12.2/miui_PYXIS_9.12.2_8bd845dcdc_10.0.zip)
-
-[miui_PYXIS_9.8.20_6f4b21f8b5_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_PYXIS_9.8.20_6f4b21f8b5_9.0.zip)
-
-[miui_PYXIS_9.8.15_7abdab6da2_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_PYXIS_9.8.15_7abdab6da2_9.0.zip)
-
+| 小米CC 9  开发版/内测版    |
+| ---- |
+| [miui_PYXIS_20.5.11_fdb96ed4d4_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_PYXIS_20.5.11_fdb96ed4d4_10.0.zip)    |
+| [miui_PYXIS_20.5.7_3324c10e52_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip)    |
+| [miui_PYXIS_20.5.6_a42394fd53_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_PYXIS_20.5.6_a42394fd53_10.0.zip)    |
+| [miui_PYXIS_20.4.30_5e81299b72_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_PYXIS_20.4.30_5e81299b72_10.0.zip)    |
+| [miui_PYXIS_20.4.28_cc107ca05a_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_PYXIS_20.4.28_cc107ca05a_10.0.zip)    |
+| [miui_PYXIS_20.4.27_a8055982b0_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_PYXIS_20.4.27_a8055982b0_10.0.zip)    |
+| [miui_PYXIS_20.3.26_857cc8af87_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip)    |
+| [miui_PYXIS_20.3.25_8cb9cd1079_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_PYXIS_20.3.25_8cb9cd1079_10.0.zip)    |
+| [miui_PYXIS_20.3.24_188cf5045c_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_PYXIS_20.3.24_188cf5045c_10.0.zip)    |
+| [miui_PYXIS_20.3.23_9853498f6e_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_PYXIS_20.3.23_9853498f6e_10.0.zip)    |
+| [miui_PYXIS_20.3.19_6ec6e95f41_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_PYXIS_20.3.19_6ec6e95f41_10.0.zip)    |
+| [miui_PYXIS_20.3.18_d1a6cb66a5_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_PYXIS_20.3.18_d1a6cb66a5_10.0.zip)    |
+| [miui_PYXIS_20.3.17_eba1f92051_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_PYXIS_20.3.17_eba1f92051_10.0.zip)    |
+| [miui_PYXIS_20.3.16_bb47b31876_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_PYXIS_20.3.16_bb47b31876_10.0.zip)    |
+| [miui_PYXIS_20.3.12_282b270e73_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_PYXIS_20.3.12_282b270e73_10.0.zip)    |
+| [miui_PYXIS_20.3.11_d55f5168b0_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_PYXIS_20.3.11_d55f5168b0_10.0.zip)    |
+| [miui_PYXIS_20.3.9_b66c109701_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_PYXIS_20.3.9_b66c109701_10.0.zip)    |
+| [miui_PYXIS_20.3.5_b58b304d01_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_PYXIS_20.3.5_b58b304d01_10.0.zip)    |
+| [miui_PYXIS_20.3.4_fec2722be0_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_PYXIS_20.3.4_fec2722be0_10.0.zip)    |
+| [miui_PYXIS_20.2.27_a902b4bb87_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_PYXIS_20.2.27_a902b4bb87_10.0.zip)    |
+| [miui_PYXIS_20.2.26_2fddc884f0_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_PYXIS_20.2.26_2fddc884f0_10.0.zip)    |
+| [miui_PYXIS_20.2.25_65e77b5dc3_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_PYXIS_20.2.25_65e77b5dc3_10.0.zip)    |
+| [miui_PYXIS_20.1.21_c911a13d7b_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_PYXIS_20.1.21_c911a13d7b_10.0.zip)    |
+| [miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip)    |
+| [miui_PYXIS_20.1.15_61c1a682e1_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_PYXIS_20.1.15_61c1a682e1_10.0.zip)    |
+| [miui_PYXIS_20.1.14_1a369176f5_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_PYXIS_20.1.14_1a369176f5_10.0.zip)    |
+| [miui_PYXIS_20.1.9_211c7e7e97_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_PYXIS_20.1.9_211c7e7e97_10.0.zip)    |
+| [miui_PYXIS_20.1.8_92db2bf4c3_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_PYXIS_20.1.8_92db2bf4c3_10.0.zip)    |
+| [miui_PYXIS_20.1.7_1f70bfe040_10.0.zip](https://hugeota.d.miui.com/20.1.7/miui_PYXIS_20.1.7_1f70bfe040_10.0.zip)    |
+| [miui_PYXIS_20.1.2_0f1d993080_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_PYXIS_20.1.2_0f1d993080_10.0.zip)    |
+| [miui_PYXIS_9.12.31_2f797762b6_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_PYXIS_9.12.31_2f797762b6_10.0.zip)    |
+| [miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip)    |
+| [miui_PYXIS_9.12.23_fa4cad718f_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_PYXIS_9.12.23_fa4cad718f_10.0.zip)    |
+| [miui_PYXIS_9.12.2_8bd845dcdc_10.0.zip](https://hugeota.d.miui.com/9.12.2/miui_PYXIS_9.12.2_8bd845dcdc_10.0.zip)    |
+| [miui_PYXIS_9.8.20_6f4b21f8b5_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_PYXIS_9.8.20_6f4b21f8b5_9.0.zip)    |
+| [miui_PYXIS_9.8.15_7abdab6da2_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_PYXIS_9.8.15_7abdab6da2_9.0.zip)    |

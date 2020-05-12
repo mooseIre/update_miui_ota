@@ -1,52 +1,27 @@
-### Redmi Note7 Pro  开发版/内测版
-
-[miui_VIOLET_20.5.11_ff799af26b_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_VIOLET_20.5.11_ff799af26b_10.0.zip)
-
-[miui_VIOLET_20.5.6_c0d4b0e09c_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_VIOLET_20.5.6_c0d4b0e09c_10.0.zip)
-
-[miui_VIOLET_20.4.30_0a72a359e3_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_VIOLET_20.4.30_0a72a359e3_10.0.zip)
-
-[miui_VIOLET_20.4.28_cbe35aec33_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_VIOLET_20.4.28_cbe35aec33_10.0.zip)
-
-[miui_VIOLET_20.4.27_172d429ff5_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_VIOLET_20.4.27_172d429ff5_10.0.zip)
-
-[miui_VIOLET_20.3.26_3a91bbe202_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_VIOLET_20.3.26_3a91bbe202_10.0.zip)
-
-[miui_VIOLET_20.3.25_896b7624bb_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_VIOLET_20.3.25_896b7624bb_10.0.zip)
-
-[miui_VIOLET_20.3.24_ed711bd7ad_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_VIOLET_20.3.24_ed711bd7ad_10.0.zip)
-
-[miui_VIOLET_20.3.23_f559a47b5b_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_VIOLET_20.3.23_f559a47b5b_10.0.zip)
-
-[miui_VIOLET_20.3.19_2d772673b8_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_VIOLET_20.3.19_2d772673b8_10.0.zip)
-
-[miui_VIOLET_20.3.17_735f731e35_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_VIOLET_20.3.17_735f731e35_10.0.zip)
-
-[miui_VIOLET_20.3.16_e8efa875ec_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_VIOLET_20.3.16_e8efa875ec_10.0.zip)
-
-[miui_VIOLET_20.3.12_5949f150d4_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_VIOLET_20.3.12_5949f150d4_10.0.zip)
-
-[miui_VIOLET_20.3.11_280340fcc0_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_VIOLET_20.3.11_280340fcc0_10.0.zip)
-
-[miui_VIOLET_20.3.5_5225b86870_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_VIOLET_20.3.5_5225b86870_10.0.zip)
-
-[miui_VIOLET_20.3.4_472252b640_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_VIOLET_20.3.4_472252b640_10.0.zip)
-
-[miui_VIOLET_9.11.7_d05fe890bd_9.0.zip](https://hugeota.d.miui.com/9.11.7/miui_VIOLET_9.11.7_d05fe890bd_9.0.zip)
-
-[miui_VIOLET_9.10.24_e5cadaab87_9.0.zip](https://hugeota.d.miui.com/9.10.24/miui_VIOLET_9.10.24_e5cadaab87_9.0.zip)
-
-[miui_VIOLET_9.10.10_d082faf7f0_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_VIOLET_9.10.10_d082faf7f0_9.0.zip)
-
-[miui_VIOLET_9.10.8_3922aeecc4_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_VIOLET_9.10.8_3922aeecc4_9.0.zip)
-
-[miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip)
-
-[miui_VIOLET_9.8.15_e8055d326d_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_VIOLET_9.8.15_e8055d326d_9.0.zip)
-
-[miui_VIOLET_9.8.9_601e2c82fb_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_VIOLET_9.8.9_601e2c82fb_9.0.zip)
-
-[miui_VIOLET_9.8.1_08f4d6c279_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_VIOLET_9.8.1_08f4d6c279_9.0.zip)
-
-[miui_VIOLET_9.7.25_b784f59c29_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_VIOLET_9.7.25_b784f59c29_9.0.zip)
-
+| Redmi Note7 Pro  开发版/内测版    |
+| ---- |
+| [miui_VIOLET_20.5.11_ff799af26b_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_VIOLET_20.5.11_ff799af26b_10.0.zip)    |
+| [miui_VIOLET_20.5.6_c0d4b0e09c_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_VIOLET_20.5.6_c0d4b0e09c_10.0.zip)    |
+| [miui_VIOLET_20.4.30_0a72a359e3_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_VIOLET_20.4.30_0a72a359e3_10.0.zip)    |
+| [miui_VIOLET_20.4.28_cbe35aec33_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_VIOLET_20.4.28_cbe35aec33_10.0.zip)    |
+| [miui_VIOLET_20.4.27_172d429ff5_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_VIOLET_20.4.27_172d429ff5_10.0.zip)    |
+| [miui_VIOLET_20.3.26_3a91bbe202_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_VIOLET_20.3.26_3a91bbe202_10.0.zip)    |
+| [miui_VIOLET_20.3.25_896b7624bb_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_VIOLET_20.3.25_896b7624bb_10.0.zip)    |
+| [miui_VIOLET_20.3.24_ed711bd7ad_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_VIOLET_20.3.24_ed711bd7ad_10.0.zip)    |
+| [miui_VIOLET_20.3.23_f559a47b5b_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_VIOLET_20.3.23_f559a47b5b_10.0.zip)    |
+| [miui_VIOLET_20.3.19_2d772673b8_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_VIOLET_20.3.19_2d772673b8_10.0.zip)    |
+| [miui_VIOLET_20.3.17_735f731e35_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_VIOLET_20.3.17_735f731e35_10.0.zip)    |
+| [miui_VIOLET_20.3.16_e8efa875ec_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_VIOLET_20.3.16_e8efa875ec_10.0.zip)    |
+| [miui_VIOLET_20.3.12_5949f150d4_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_VIOLET_20.3.12_5949f150d4_10.0.zip)    |
+| [miui_VIOLET_20.3.11_280340fcc0_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_VIOLET_20.3.11_280340fcc0_10.0.zip)    |
+| [miui_VIOLET_20.3.5_5225b86870_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_VIOLET_20.3.5_5225b86870_10.0.zip)    |
+| [miui_VIOLET_20.3.4_472252b640_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_VIOLET_20.3.4_472252b640_10.0.zip)    |
+| [miui_VIOLET_9.11.7_d05fe890bd_9.0.zip](https://hugeota.d.miui.com/9.11.7/miui_VIOLET_9.11.7_d05fe890bd_9.0.zip)    |
+| [miui_VIOLET_9.10.24_e5cadaab87_9.0.zip](https://hugeota.d.miui.com/9.10.24/miui_VIOLET_9.10.24_e5cadaab87_9.0.zip)    |
+| [miui_VIOLET_9.10.10_d082faf7f0_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_VIOLET_9.10.10_d082faf7f0_9.0.zip)    |
+| [miui_VIOLET_9.10.8_3922aeecc4_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_VIOLET_9.10.8_3922aeecc4_9.0.zip)    |
+| [miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip)    |
+| [miui_VIOLET_9.8.15_e8055d326d_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_VIOLET_9.8.15_e8055d326d_9.0.zip)    |
+| [miui_VIOLET_9.8.9_601e2c82fb_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_VIOLET_9.8.9_601e2c82fb_9.0.zip)    |
+| [miui_VIOLET_9.8.1_08f4d6c279_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_VIOLET_9.8.1_08f4d6c279_9.0.zip)    |
+| [miui_VIOLET_9.7.25_b784f59c29_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_VIOLET_9.7.25_b784f59c29_9.0.zip)    |

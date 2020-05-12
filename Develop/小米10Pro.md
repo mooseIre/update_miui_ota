@@ -1,38 +1,20 @@
-### 小米10Pro  开发版/内测版
-
-[miui_CMI_20.5.11_88991c4f15_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_CMI_20.5.11_88991c4f15_10.0.zip)
-
-[miui_CMI_20.5.7_fc0b456e4b_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_CMI_20.5.7_fc0b456e4b_10.0.zip)
-
-[miui_CMI_20.5.6_693537f0a3_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_CMI_20.5.6_693537f0a3_10.0.zip)
-
-[miui_CMI_20.5.3_da24daf335_10.0.zip](https://hugeota.d.miui.com/20.5.3/miui_CMI_20.5.3_da24daf335_10.0.zip)
-
-[miui_CMI_20.4.30_fa276fb9d5_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_CMI_20.4.30_fa276fb9d5_10.0.zip)
-
-[miui_CMI_20.4.27_b415ab6c37_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_CMI_20.4.27_b415ab6c37_10.0.zip)
-
-[miui_CMI_20.3.28_0614aede0e_10.0.zip](https://hugeota.d.miui.com/20.3.28/miui_CMI_20.3.28_0614aede0e_10.0.zip)
-
-[miui_CMI_20.3.26_17012be77b_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_CMI_20.3.26_17012be77b_10.0.zip)
-
-[miui_CMI_20.3.25_5fed28141c_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_CMI_20.3.25_5fed28141c_10.0.zip)
-
-[miui_CMI_20.3.19_7bb354ce01_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_CMI_20.3.19_7bb354ce01_10.0.zip)
-
-[miui_CMI_20.3.16_15bd0528cc_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_CMI_20.3.16_15bd0528cc_10.0.zip)
-
-[miui_CMI_20.3.12_81361ac41c_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_CMI_20.3.12_81361ac41c_10.0.zip)
-
-[miui_CMI_20.3.5_ce04b4f9ba_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_CMI_20.3.5_ce04b4f9ba_10.0.zip)
-
-[miui_CMI_20.3.4_96432297c1_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_CMI_20.3.4_96432297c1_10.0.zip)
-
-[miui_CMI_20.2.27_d4ca1abc0d_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_CMI_20.2.27_d4ca1abc0d_10.0.zip)
-
-[miui_CMI_20.2.26_fdeece71b6_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_CMI_20.2.26_fdeece71b6_10.0.zip)
-
-[miui_CMI_20.2.25_7d2e6b9ba4_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_CMI_20.2.25_7d2e6b9ba4_10.0.zip)
-
-[miui_CMI_20.2.21_bb7154550b_10.0.zip](https://hugeota.d.miui.com/20.2.21/miui_CMI_20.2.21_bb7154550b_10.0.zip)
-
+| 小米10Pro  开发版/内测版    |
+| ---- |
+| [miui_CMI_20.5.11_88991c4f15_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_CMI_20.5.11_88991c4f15_10.0.zip)    |
+| [miui_CMI_20.5.7_fc0b456e4b_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_CMI_20.5.7_fc0b456e4b_10.0.zip)    |
+| [miui_CMI_20.5.6_693537f0a3_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_CMI_20.5.6_693537f0a3_10.0.zip)    |
+| [miui_CMI_20.5.3_da24daf335_10.0.zip](https://hugeota.d.miui.com/20.5.3/miui_CMI_20.5.3_da24daf335_10.0.zip)    |
+| [miui_CMI_20.4.30_fa276fb9d5_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_CMI_20.4.30_fa276fb9d5_10.0.zip)    |
+| [miui_CMI_20.4.27_b415ab6c37_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_CMI_20.4.27_b415ab6c37_10.0.zip)    |
+| [miui_CMI_20.3.28_0614aede0e_10.0.zip](https://hugeota.d.miui.com/20.3.28/miui_CMI_20.3.28_0614aede0e_10.0.zip)    |
+| [miui_CMI_20.3.26_17012be77b_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_CMI_20.3.26_17012be77b_10.0.zip)    |
+| [miui_CMI_20.3.25_5fed28141c_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_CMI_20.3.25_5fed28141c_10.0.zip)    |
+| [miui_CMI_20.3.19_7bb354ce01_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_CMI_20.3.19_7bb354ce01_10.0.zip)    |
+| [miui_CMI_20.3.16_15bd0528cc_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_CMI_20.3.16_15bd0528cc_10.0.zip)    |
+| [miui_CMI_20.3.12_81361ac41c_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_CMI_20.3.12_81361ac41c_10.0.zip)    |
+| [miui_CMI_20.3.5_ce04b4f9ba_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_CMI_20.3.5_ce04b4f9ba_10.0.zip)    |
+| [miui_CMI_20.3.4_96432297c1_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_CMI_20.3.4_96432297c1_10.0.zip)    |
+| [miui_CMI_20.2.27_d4ca1abc0d_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_CMI_20.2.27_d4ca1abc0d_10.0.zip)    |
+| [miui_CMI_20.2.26_fdeece71b6_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_CMI_20.2.26_fdeece71b6_10.0.zip)    |
+| [miui_CMI_20.2.25_7d2e6b9ba4_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_CMI_20.2.25_7d2e6b9ba4_10.0.zip)    |
+| [miui_CMI_20.2.21_bb7154550b_10.0.zip](https://hugeota.d.miui.com/20.2.21/miui_CMI_20.2.21_bb7154550b_10.0.zip)    |

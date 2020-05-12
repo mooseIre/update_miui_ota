@@ -1,56 +1,29 @@
-### Redmi K30  开发版/内测版
-
-[miui_PHOENIX_20.5.11_af51f5bfc1_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_PHOENIX_20.5.11_af51f5bfc1_10.0.zip)
-
-[miui_PHOENIX_20.5.6_792dfb6f8f_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_PHOENIX_20.5.6_792dfb6f8f_10.0.zip)
-
-[miui_PHOENIX_20.4.30_b464c790c0_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_PHOENIX_20.4.30_b464c790c0_10.0.zip)
-
-[miui_PHOENIX_20.4.28_a04a06f359_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_PHOENIX_20.4.28_a04a06f359_10.0.zip)
-
-[miui_PHOENIX_20.4.27_bce2a50650_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip)
-
-[miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip)
-
-[miui_PHOENIX_20.3.25_991a8cdbb7_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_PHOENIX_20.3.25_991a8cdbb7_10.0.zip)
-
-[miui_PHOENIX_20.3.24_ce806a080e_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_PHOENIX_20.3.24_ce806a080e_10.0.zip)
-
-[miui_PHOENIX_20.3.23_e0b792a7f3_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_PHOENIX_20.3.23_e0b792a7f3_10.0.zip)
-
-[miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip)
-
-[miui_PHOENIX_20.3.18_27ede27cde_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_PHOENIX_20.3.18_27ede27cde_10.0.zip)
-
-[miui_PHOENIX_20.3.17_3f9d8399cb_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_PHOENIX_20.3.17_3f9d8399cb_10.0.zip)
-
-[miui_PHOENIX_20.3.16_ec308e4ea1_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_PHOENIX_20.3.16_ec308e4ea1_10.0.zip)
-
-[miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip)
-
-[miui_PHOENIX_20.3.11_40fb4a33ac_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_PHOENIX_20.3.11_40fb4a33ac_10.0.zip)
-
-[miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip)
-
-[miui_PHOENIX_20.3.4_3eecb52d1d_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_PHOENIX_20.3.4_3eecb52d1d_10.0.zip)
-
-[miui_PHOENIX_20.3.3_13a5349122_10.0.zip](https://hugeota.d.miui.com/20.3.3/miui_PHOENIX_20.3.3_13a5349122_10.0.zip)
-
-[miui_PHOENIX_20.2.25_51803a8cbc_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_PHOENIX_20.2.25_51803a8cbc_10.0.zip)
-
-[miui_PHOENIX_20.2.20_210f81bb20_10.0.zip](https://hugeota.d.miui.com/20.2.20/miui_PHOENIX_20.2.20_210f81bb20_10.0.zip)
-
-[miui_PHOENIX_20.2.19_da7c8b08e8_10.0.zip](https://hugeota.d.miui.com/20.2.19/miui_PHOENIX_20.2.19_da7c8b08e8_10.0.zip)
-
-[miui_PHOENIX_20.2.18_fd5e4a0b8e_10.0.zip](https://hugeota.d.miui.com/20.2.18/miui_PHOENIX_20.2.18_fd5e4a0b8e_10.0.zip)
-
-[miui_PHOENIX_20.2.17_e89d22c684_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_PHOENIX_20.2.17_e89d22c684_10.0.zip)
-
-[miui_PHOENIX_20.1.21_724ef91eca_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_PHOENIX_20.1.21_724ef91eca_10.0.zip)
-
-[miui_PHOENIX_20.1.16_46d37d72db_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_PHOENIX_20.1.16_46d37d72db_10.0.zip)
-
-[miui_PHOENIX_20.1.13_70f361a40b_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_PHOENIX_20.1.13_70f361a40b_10.0.zip)
-
-[miui_PHOENIX_20.1.8_6527f50cce_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_PHOENIX_20.1.8_6527f50cce_10.0.zip)
-
+| Redmi K30  开发版/内测版    |
+| ---- |
+| [miui_PHOENIX_20.5.11_af51f5bfc1_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_PHOENIX_20.5.11_af51f5bfc1_10.0.zip)    |
+| [miui_PHOENIX_20.5.6_792dfb6f8f_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_PHOENIX_20.5.6_792dfb6f8f_10.0.zip)    |
+| [miui_PHOENIX_20.4.30_b464c790c0_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_PHOENIX_20.4.30_b464c790c0_10.0.zip)    |
+| [miui_PHOENIX_20.4.28_a04a06f359_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_PHOENIX_20.4.28_a04a06f359_10.0.zip)    |
+| [miui_PHOENIX_20.4.27_bce2a50650_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip)    |
+| [miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip)    |
+| [miui_PHOENIX_20.3.25_991a8cdbb7_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_PHOENIX_20.3.25_991a8cdbb7_10.0.zip)    |
+| [miui_PHOENIX_20.3.24_ce806a080e_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_PHOENIX_20.3.24_ce806a080e_10.0.zip)    |
+| [miui_PHOENIX_20.3.23_e0b792a7f3_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_PHOENIX_20.3.23_e0b792a7f3_10.0.zip)    |
+| [miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip)    |
+| [miui_PHOENIX_20.3.18_27ede27cde_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_PHOENIX_20.3.18_27ede27cde_10.0.zip)    |
+| [miui_PHOENIX_20.3.17_3f9d8399cb_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_PHOENIX_20.3.17_3f9d8399cb_10.0.zip)    |
+| [miui_PHOENIX_20.3.16_ec308e4ea1_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_PHOENIX_20.3.16_ec308e4ea1_10.0.zip)    |
+| [miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip)    |
+| [miui_PHOENIX_20.3.11_40fb4a33ac_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_PHOENIX_20.3.11_40fb4a33ac_10.0.zip)    |
+| [miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip)    |
+| [miui_PHOENIX_20.3.4_3eecb52d1d_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_PHOENIX_20.3.4_3eecb52d1d_10.0.zip)    |
+| [miui_PHOENIX_20.3.3_13a5349122_10.0.zip](https://hugeota.d.miui.com/20.3.3/miui_PHOENIX_20.3.3_13a5349122_10.0.zip)    |
+| [miui_PHOENIX_20.2.25_51803a8cbc_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_PHOENIX_20.2.25_51803a8cbc_10.0.zip)    |
+| [miui_PHOENIX_20.2.20_210f81bb20_10.0.zip](https://hugeota.d.miui.com/20.2.20/miui_PHOENIX_20.2.20_210f81bb20_10.0.zip)    |
+| [miui_PHOENIX_20.2.19_da7c8b08e8_10.0.zip](https://hugeota.d.miui.com/20.2.19/miui_PHOENIX_20.2.19_da7c8b08e8_10.0.zip)    |
+| [miui_PHOENIX_20.2.18_fd5e4a0b8e_10.0.zip](https://hugeota.d.miui.com/20.2.18/miui_PHOENIX_20.2.18_fd5e4a0b8e_10.0.zip)    |
+| [miui_PHOENIX_20.2.17_e89d22c684_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_PHOENIX_20.2.17_e89d22c684_10.0.zip)    |
+| [miui_PHOENIX_20.1.21_724ef91eca_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_PHOENIX_20.1.21_724ef91eca_10.0.zip)    |
+| [miui_PHOENIX_20.1.16_46d37d72db_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_PHOENIX_20.1.16_46d37d72db_10.0.zip)    |
+| [miui_PHOENIX_20.1.13_70f361a40b_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_PHOENIX_20.1.13_70f361a40b_10.0.zip)    |
+| [miui_PHOENIX_20.1.8_6527f50cce_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_PHOENIX_20.1.8_6527f50cce_10.0.zip)    |

@@ -1,340 +1,171 @@
-### 小米8SE  开发版/内测版
-
-[miui_MI8SE_20.5.11_41281b6bfe_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_MI8SE_20.5.11_41281b6bfe_10.0.zip)
-
-[miui_MI8SE_20.5.7_56fb1aa820_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_MI8SE_20.5.7_56fb1aa820_10.0.zip)
-
-[miui_MI8SE_20.5.6_0e1746eb6b_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_MI8SE_20.5.6_0e1746eb6b_10.0.zip)
-
-[miui_MI8SE_20.4.30_6cacb5882d_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_MI8SE_20.4.30_6cacb5882d_10.0.zip)
-
-[miui_MI8SE_20.4.28_6d8e537b18_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_MI8SE_20.4.28_6d8e537b18_10.0.zip)
-
-[miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip)
-
-[miui_MI8SE_20.3.26_335c159428_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_MI8SE_20.3.26_335c159428_10.0.zip)
-
-[miui_MI8SE_20.3.25_eda65d2f53_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_MI8SE_20.3.25_eda65d2f53_10.0.zip)
-
-[miui_MI8SE_20.3.24_ff344223e7_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_MI8SE_20.3.24_ff344223e7_10.0.zip)
-
-[miui_MI8SE_20.3.23_4f0815e03a_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_MI8SE_20.3.23_4f0815e03a_10.0.zip)
-
-[miui_MI8SE_20.3.19_73d8cc98c5_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_MI8SE_20.3.19_73d8cc98c5_10.0.zip)
-
-[miui_MI8SE_20.3.18_02d35e872f_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_MI8SE_20.3.18_02d35e872f_10.0.zip)
-
-[miui_MI8SE_20.3.17_f09900b67b_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_MI8SE_20.3.17_f09900b67b_10.0.zip)
-
-[miui_MI8SE_20.3.16_f18ffd551b_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_MI8SE_20.3.16_f18ffd551b_10.0.zip)
-
-[miui_MI8SE_20.3.12_68801a8645_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_MI8SE_20.3.12_68801a8645_10.0.zip)
-
-[miui_MI8SE_20.3.11_11bb5a84ab_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_MI8SE_20.3.11_11bb5a84ab_10.0.zip)
-
-[miui_MI8SE_20.3.10_b6d6878c85_10.0.zip](https://hugeota.d.miui.com/20.3.10/miui_MI8SE_20.3.10_b6d6878c85_10.0.zip)
-
-[miui_MI8SE_20.3.9_25a31572b1_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_MI8SE_20.3.9_25a31572b1_10.0.zip)
-
-[miui_MI8SE_20.3.5_c819c23f8f_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_MI8SE_20.3.5_c819c23f8f_10.0.zip)
-
-[miui_MI8SE_20.3.4_ca3db0f783_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_MI8SE_20.3.4_ca3db0f783_10.0.zip)
-
-[miui_MI8SE_20.3.3_bac4ca523a_10.0.zip](https://hugeota.d.miui.com/20.3.3/miui_MI8SE_20.3.3_bac4ca523a_10.0.zip)
-
-[miui_MI8SE_20.2.27_4be3529921_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_MI8SE_20.2.27_4be3529921_10.0.zip)
-
-[miui_MI8SE_20.2.26_3daaef6b20_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_MI8SE_20.2.26_3daaef6b20_10.0.zip)
-
-[miui_MI8SE_20.2.25_6c9578067c_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_MI8SE_20.2.25_6c9578067c_10.0.zip)
-
-[miui_MI8SE_20.2.17_d94e585ae8_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_MI8SE_20.2.17_d94e585ae8_10.0.zip)
-
-[miui_MI8SE_20.1.21_09cce369bf_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_MI8SE_20.1.21_09cce369bf_10.0.zip)
-
-[miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip)
-
-[miui_MI8SE_20.1.15_bfc0a2a863_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_MI8SE_20.1.15_bfc0a2a863_10.0.zip)
-
-[miui_MI8SE_20.1.14_3185f515d6_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_MI8SE_20.1.14_3185f515d6_10.0.zip)
-
-[miui_MI8SE_20.1.13_b14128a15e_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_MI8SE_20.1.13_b14128a15e_10.0.zip)
-
-[miui_MI8SE_20.1.9_87dde6f09d_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_MI8SE_20.1.9_87dde6f09d_10.0.zip)
-
-[miui_MI8SE_20.1.8_e6a8d10d15_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_MI8SE_20.1.8_e6a8d10d15_10.0.zip)
-
-[miui_MI8SE_20.1.2_8df188ec0c_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_MI8SE_20.1.2_8df188ec0c_10.0.zip)
-
-[miui_MI8SE_9.12.31_a910791d52_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_MI8SE_9.12.31_a910791d52_10.0.zip)
-
-[miui_MI8SE_9.12.26_2184cf4a5e_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_MI8SE_9.12.26_2184cf4a5e_10.0.zip)
-
-[miui_MI8SE_9.12.25_1348d6ef14_10.0.zip](https://hugeota.d.miui.com/9.12.25/miui_MI8SE_9.12.25_1348d6ef14_10.0.zip)
-
-[miui_MI8SE_9.12.24_fc62a1de42_10.0.zip](https://hugeota.d.miui.com/9.12.24/miui_MI8SE_9.12.24_fc62a1de42_10.0.zip)
-
-[miui_MI8SE_9.12.23_77b68a3c01_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_MI8SE_9.12.23_77b68a3c01_10.0.zip)
-
-[miui_MI8SE_9.12.19_322e5eadb0_10.0.zip](https://hugeota.d.miui.com/9.12.19/miui_MI8SE_9.12.19_322e5eadb0_10.0.zip)
-
-[miui_MI8SE_9.12.17_0285b5adaf_10.0.zip](https://hugeota.d.miui.com/9.12.17/miui_MI8SE_9.12.17_0285b5adaf_10.0.zip)
-
-[miui_MI8SE_9.12.12_a2e9f71599_10.0.zip](https://hugeota.d.miui.com/9.12.12/miui_MI8SE_9.12.12_a2e9f71599_10.0.zip)
-
-[miui_MI8SE_9.12.10_6308f5e1dd_10.0.zip](https://hugeota.d.miui.com/9.12.10/miui_MI8SE_9.12.10_6308f5e1dd_10.0.zip)
-
-[miui_MI8SE_9.12.6_ba5933bcbc_10.0.zip](https://hugeota.d.miui.com/9.12.6/miui_MI8SE_9.12.6_ba5933bcbc_10.0.zip)
-
-[miui_MI8SE_9.12.5_6a597d28d0_10.0.zip](https://hugeota.d.miui.com/9.12.5/miui_MI8SE_9.12.5_6a597d28d0_10.0.zip)
-
-[miui_MI8SE_9.12.4_93d425a5f2_10.0.zip](https://hugeota.d.miui.com/9.12.4/miui_MI8SE_9.12.4_93d425a5f2_10.0.zip)
-
-[miui_MI8SE_9.12.3_e3c8f88ffe_10.0.zip](https://hugeota.d.miui.com/9.12.3/miui_MI8SE_9.12.3_e3c8f88ffe_10.0.zip)
-
-[miui_MI8SE_9.11.26_bd898ba8d4_10.0.zip](https://hugeota.d.miui.com/9.11.26/miui_MI8SE_9.11.26_bd898ba8d4_10.0.zip)
-
-[miui_MI8SE_9.11.25_c8d99a08bb_10.0.zip](https://hugeota.d.miui.com/9.11.25/miui_MI8SE_9.11.25_c8d99a08bb_10.0.zip)
-
-[miui_MI8SE_9.11.22_2732482898_10.0.zip](https://hugeota.d.miui.com/9.11.22/miui_MI8SE_9.11.22_2732482898_10.0.zip)
-
-[miui_MI8SE_9.11.21_f33d769c44_10.0.zip](https://hugeota.d.miui.com/9.11.21/miui_MI8SE_9.11.21_f33d769c44_10.0.zip)
-
-[miui_MI8SE_9.11.20_54d5615ea5_10.0.zip](https://hugeota.d.miui.com/9.11.20/miui_MI8SE_9.11.20_54d5615ea5_10.0.zip)
-
-[miui_MI8SE_9.11.19_99a7a2be8b_10.0.zip](https://hugeota.d.miui.com/9.11.19/miui_MI8SE_9.11.19_99a7a2be8b_10.0.zip)
-
-[miui_MI8SE_9.11.18_6f3fa288e9_10.0.zip](https://hugeota.d.miui.com/9.11.18/miui_MI8SE_9.11.18_6f3fa288e9_10.0.zip)
-
-[miui_MI8SE_9.11.14_9afc5412d6_10.0.zip](https://hugeota.d.miui.com/9.11.14/miui_MI8SE_9.11.14_9afc5412d6_10.0.zip)
-
-[miui_MI8SE_9.11.13_39a0ff9ef9_10.0.zip](https://hugeota.d.miui.com/9.11.13/miui_MI8SE_9.11.13_39a0ff9ef9_10.0.zip)
-
-[miui_MI8SE_9.11.12_9eef4ade4a_10.0.zip](https://hugeota.d.miui.com/9.11.12/miui_MI8SE_9.11.12_9eef4ade4a_10.0.zip)
-
-[miui_MI8SE_9.11.11_896c8a3113_10.0.zip](https://hugeota.d.miui.com/9.11.11/miui_MI8SE_9.11.11_896c8a3113_10.0.zip)
-
-[miui_MI8SE_9.11.7_515dcc6e7f_10.0.zip](https://hugeota.d.miui.com/9.11.7/miui_MI8SE_9.11.7_515dcc6e7f_10.0.zip)
-
-[miui_MI8SE_9.11.6_0c1deedddb_10.0.zip](https://hugeota.d.miui.com/9.11.6/miui_MI8SE_9.11.6_0c1deedddb_10.0.zip)
-
-[miui_MI8SE_9.11.5_f5488a5ebb_10.0.zip](https://hugeota.d.miui.com/9.11.5/miui_MI8SE_9.11.5_f5488a5ebb_10.0.zip)
-
-[miui_MI8SE_9.11.4_dfe080712e_10.0.zip](https://hugeota.d.miui.com/9.11.4/miui_MI8SE_9.11.4_dfe080712e_10.0.zip)
-
-[miui_MI8SE_9.10.31_97be08a1c7_10.0.zip](https://hugeota.d.miui.com/9.10.31/miui_MI8SE_9.10.31_97be08a1c7_10.0.zip)
-
-[miui_MI8SE_9.10.30_d6bf8b1666_10.0.zip](https://hugeota.d.miui.com/9.10.30/miui_MI8SE_9.10.30_d6bf8b1666_10.0.zip)
-
-[miui_MI8SE_9.10.29_1792ec675e_10.0.zip](https://hugeota.d.miui.com/9.10.29/miui_MI8SE_9.10.29_1792ec675e_10.0.zip)
-
-[miui_MI8SE_9.10.28_68a02817a2_10.0.zip](https://hugeota.d.miui.com/9.10.28/miui_MI8SE_9.10.28_68a02817a2_10.0.zip)
-
-[miui_MI8SE_9.10.24_7a4aed1a73_10.0.zip](https://hugeota.d.miui.com/9.10.24/miui_MI8SE_9.10.24_7a4aed1a73_10.0.zip)
-
-[miui_MI8SE_9.10.23_6d4456e604_10.0.zip](https://hugeota.d.miui.com/9.10.23/miui_MI8SE_9.10.23_6d4456e604_10.0.zip)
-
-[miui_MI8SE_9.10.10_83cd74bcfa_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_MI8SE_9.10.10_83cd74bcfa_9.0.zip)
-
-[miui_MI8SE_9.10.9_f408e78187_9.0.zip](https://hugeota.d.miui.com/9.10.9/miui_MI8SE_9.10.9_f408e78187_9.0.zip)
-
-[miui_MI8SE_9.10.8_261e32ed21_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_MI8SE_9.10.8_261e32ed21_9.0.zip)
-
-[miui_MI8SE_9.9.27_56a10490af_9.0.zip](https://hugeota.d.miui.com/9.9.27/miui_MI8SE_9.9.27_56a10490af_9.0.zip)
-
-[miui_MI8SE_9.9.26_249e7cd055_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_MI8SE_9.9.26_249e7cd055_9.0.zip)
-
-[miui_MI8SE_9.9.25_3143ad766b_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_MI8SE_9.9.25_3143ad766b_9.0.zip)
-
-[miui_MI8SE_9.9.24_84b193659d_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_MI8SE_9.9.24_84b193659d_9.0.zip)
-
-[miui_MI8SE_9.9.3_a9d719f08b_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip)
-
-[miui_MI8SE_9.8.29_71d583c575_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_MI8SE_9.8.29_71d583c575_9.0.zip)
-
-[miui_MI8SE_9.8.28_2c7a440ccb_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_MI8SE_9.8.28_2c7a440ccb_9.0.zip)
-
-[miui_MI8SE_9.8.27_73c86c48d6_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_MI8SE_9.8.27_73c86c48d6_9.0.zip)
-
-[miui_MI8SE_9.8.26_f3281f57fb_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_MI8SE_9.8.26_f3281f57fb_9.0.zip)
-
-[miui_MI8SE_9.8.22_c525a5cc89_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_MI8SE_9.8.22_c525a5cc89_9.0.zip)
-
-[miui_MI8SE_9.8.21_2297985e4a_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_MI8SE_9.8.21_2297985e4a_9.0.zip)
-
-[miui_MI8SE_9.8.20_e2c0c7bc66_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_MI8SE_9.8.20_e2c0c7bc66_9.0.zip)
-
-[miui_MI8SE_9.8.15_09d2c15b1b_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_MI8SE_9.8.15_09d2c15b1b_9.0.zip)
-
-[miui_MI8SE_9.8.14_53aaf87340_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_MI8SE_9.8.14_53aaf87340_9.0.zip)
-
-[miui_MI8SE_9.8.13_01b00d4786_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_MI8SE_9.8.13_01b00d4786_9.0.zip)
-
-[miui_MI8SE_9.8.12_273e0d1f6b_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_MI8SE_9.8.12_273e0d1f6b_9.0.zip)
-
-[miui_MI8SE_9.8.9_4023678f3a_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_MI8SE_9.8.9_4023678f3a_9.0.zip)
-
-[miui_MI8SE_9.8.8_f8a0edeb00_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_MI8SE_9.8.8_f8a0edeb00_9.0.zip)
-
-[miui_MI8SE_9.8.7_d286b14642_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_MI8SE_9.8.7_d286b14642_9.0.zip)
-
-[miui_MI8SE_9.8.6_f368b14e8c_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_MI8SE_9.8.6_f368b14e8c_9.0.zip)
-
-[miui_MI8SE_9.8.5_73f5a4f54d_9.0.zip](https://hugeota.d.miui.com/9.8.5/miui_MI8SE_9.8.5_73f5a4f54d_9.0.zip)
-
-[miui_MI8SE_9.8.1_ace4b18390_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_MI8SE_9.8.1_ace4b18390_9.0.zip)
-
-[miui_MI8SE_9.7.31_1a681b2970_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_MI8SE_9.7.31_1a681b2970_9.0.zip)
-
-[miui_MI8SE_9.7.30_a79cc38c80_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_MI8SE_9.7.30_a79cc38c80_9.0.zip)
-
-[miui_MI8SE_9.7.29_0e5148569e_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_MI8SE_9.7.29_0e5148569e_9.0.zip)
-
-[miui_MI8SE_9.7.25_92a3fadbc8_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_MI8SE_9.7.25_92a3fadbc8_9.0.zip)
-
-[miui_MI8SE_9.7.24_19c502b748_9.0.zip](https://hugeota.d.miui.com/9.7.24/miui_MI8SE_9.7.24_19c502b748_9.0.zip)
-
-[miui_MI8SE_9.7.23_cb0f01772d_9.0.zip](https://hugeota.d.miui.com/9.7.23/miui_MI8SE_9.7.23_cb0f01772d_9.0.zip)
-
-[miui_MI8SE_9.7.22_b7a1ad9e98_9.0.zip](https://hugeota.d.miui.com/9.7.22/miui_MI8SE_9.7.22_b7a1ad9e98_9.0.zip)
-
-[miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip](https://hugeota.d.miui.com/9.7.18/miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip)
-
-[miui_MI8SE_9.7.16_894c7f9cdf_9.0.zip](https://hugeota.d.miui.com/9.7.16/miui_MI8SE_9.7.16_894c7f9cdf_9.0.zip)
-
-[miui_MI8SE_9.7.15_60d9daa0b5_9.0.zip](https://hugeota.d.miui.com/9.7.15/miui_MI8SE_9.7.15_60d9daa0b5_9.0.zip)
-
-[miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip](https://hugeota.d.miui.com/9.7.11/miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip)
-
-[miui_MI8SE_9.7.10_27ddeb1dbb_9.0.zip](https://hugeota.d.miui.com/9.7.10/miui_MI8SE_9.7.10_27ddeb1dbb_9.0.zip)
-
-[miui_MI8SE_9.7.9_ace60b1378_9.0.zip](https://hugeota.d.miui.com/9.7.9/miui_MI8SE_9.7.9_ace60b1378_9.0.zip)
-
-[miui_MI8SE_9.7.8_d2ca89ddf7_9.0.zip](https://hugeota.d.miui.com/9.7.8/miui_MI8SE_9.7.8_d2ca89ddf7_9.0.zip)
-
-[miui_MI8SE_9.7.4_3423b80e1d_9.0.zip](https://hugeota.d.miui.com/9.7.4/miui_MI8SE_9.7.4_3423b80e1d_9.0.zip)
-
-[miui_MI8SE_9.7.3_2f0a04d134_9.0.zip](https://hugeota.d.miui.com/9.7.3/miui_MI8SE_9.7.3_2f0a04d134_9.0.zip)
-
-[miui_MI8SE_9.7.2_d8e8c288e2_9.0.zip](https://hugeota.d.miui.com/9.7.2/miui_MI8SE_9.7.2_d8e8c288e2_9.0.zip)
-
-[miui_MI8SE_9.7.1_5c501f2439_9.0.zip](https://hugeota.d.miui.com/9.7.1/miui_MI8SE_9.7.1_5c501f2439_9.0.zip)
-
-[miui_MI8SE_9.6.27_8649d0115f_9.0.zip](https://hugeota.d.miui.com/9.6.27/miui_MI8SE_9.6.27_8649d0115f_9.0.zip)
-
-[miui_MI8SE_9.6.26_a00a81a287_9.0.zip](https://hugeota.d.miui.com/9.6.26/miui_MI8SE_9.6.26_a00a81a287_9.0.zip)
-
-[miui_MI8SE_9.6.25_97c81d1ce0_9.0.zip](https://hugeota.d.miui.com/9.6.25/miui_MI8SE_9.6.25_97c81d1ce0_9.0.zip)
-
-[miui_MI8SE_9.6.24_3d51eb0a32_9.0.zip](https://hugeota.d.miui.com/9.6.24/miui_MI8SE_9.6.24_3d51eb0a32_9.0.zip)
-
-[miui_MI8SE_9.6.20_8583335d32_9.0.zip](https://hugeota.d.miui.com/9.6.20/miui_MI8SE_9.6.20_8583335d32_9.0.zip)
-
-[miui_MI8SE_9.6.19_33e0c0eb0d_9.0.zip](https://hugeota.d.miui.com/9.6.19/miui_MI8SE_9.6.19_33e0c0eb0d_9.0.zip)
-
-[miui_MI8SE_9.6.18_d002b760eb_9.0.zip](https://hugeota.d.miui.com/9.6.18/miui_MI8SE_9.6.18_d002b760eb_9.0.zip)
-
-[miui_MI8SE_9.6.17_5f7110df59_9.0.zip](https://hugeota.d.miui.com/9.6.17/miui_MI8SE_9.6.17_5f7110df59_9.0.zip)
-
-[miui_MI8SE_9.6.13_2849c128af_9.0.zip](https://hugeota.d.miui.com/9.6.13/miui_MI8SE_9.6.13_2849c128af_9.0.zip)
-
-[miui_MI8SE_9.6.11_cbf65e56cb_9.0.zip](https://hugeota.d.miui.com/9.6.11/miui_MI8SE_9.6.11_cbf65e56cb_9.0.zip)
-
-[miui_MI8SE_9.6.10_62a90a27a6_9.0.zip](https://hugeota.d.miui.com/9.6.10/miui_MI8SE_9.6.10_62a90a27a6_9.0.zip)
-
-[miui_MI8SE_9.6.5_04e7f5a573_9.0.zip](https://hugeota.d.miui.com/9.6.5/miui_MI8SE_9.6.5_04e7f5a573_9.0.zip)
-
-[miui_MI8SE_9.6.4_20cb92c3e0_9.0.zip](https://hugeota.d.miui.com/9.6.4/miui_MI8SE_9.6.4_20cb92c3e0_9.0.zip)
-
-[miui_MI8SE_9.6.3_19b4810d69_9.0.zip](https://hugeota.d.miui.com/9.6.3/miui_MI8SE_9.6.3_19b4810d69_9.0.zip)
-
-[miui_MI8SE_9.5.30_885b7ad76c_9.0.zip](https://hugeota.d.miui.com/9.5.30/miui_MI8SE_9.5.30_885b7ad76c_9.0.zip)
-
-[miui_MI8SE_9.5.29_c44c1d5c8c_9.0.zip](https://hugeota.d.miui.com/9.5.29/miui_MI8SE_9.5.29_c44c1d5c8c_9.0.zip)
-
-[miui_MI8SE_9.5.28_9b5b8b1b84_9.0.zip](https://hugeota.d.miui.com/9.5.28/miui_MI8SE_9.5.28_9b5b8b1b84_9.0.zip)
-
-[miui_MI8SE_9.5.23_4373786372_9.0.zip](https://hugeota.d.miui.com/9.5.23/miui_MI8SE_9.5.23_4373786372_9.0.zip)
-
-[miui_MI8SE_9.5.22_f755a3e4e0_9.0.zip](https://hugeota.d.miui.com/9.5.22/miui_MI8SE_9.5.22_f755a3e4e0_9.0.zip)
-
-[miui_MI8SE_9.5.20_f6479ad050_9.0.zip](https://hugeota.d.miui.com/9.5.20/miui_MI8SE_9.5.20_f6479ad050_9.0.zip)
-
-[miui_MI8SE_9.5.16_8a3f088578_9.0.zip](https://hugeota.d.miui.com/9.5.16/miui_MI8SE_9.5.16_8a3f088578_9.0.zip)
-
-[miui_MI8SE_9.5.15_47a524943d_9.0.zip](https://hugeota.d.miui.com/9.5.15/miui_MI8SE_9.5.15_47a524943d_9.0.zip)
-
-[miui_MI8SE_9.5.14_5ce537587e_9.0.zip](https://hugeota.d.miui.com/9.5.14/miui_MI8SE_9.5.14_5ce537587e_9.0.zip)
-
-[miui_MI8SE_9.5.13_d3deb20a38_9.0.zip](https://hugeota.d.miui.com/9.5.13/miui_MI8SE_9.5.13_d3deb20a38_9.0.zip)
-
-[miui_MI8SE_9.5.9_09aa77511c_9.0.zip](https://hugeota.d.miui.com/9.5.9/miui_MI8SE_9.5.9_09aa77511c_9.0.zip)
-
-[miui_MI8SE_9.5.7_6f9f63a9b4_9.0.zip](https://hugeota.d.miui.com/9.5.7/miui_MI8SE_9.5.7_6f9f63a9b4_9.0.zip)
-
-[miui_MI8SE_9.5.6_4f51633369_9.0.zip](https://hugeota.d.miui.com/9.5.6/miui_MI8SE_9.5.6_4f51633369_9.0.zip)
-
-[miui_MI8SE_9.4.23_7a5d992078_9.0.zip](https://hugeota.d.miui.com/9.4.23/miui_MI8SE_9.4.23_7a5d992078_9.0.zip)
-
-[miui_MI8SE_9.4.19_de643cac3a_9.0.zip](https://hugeota.d.miui.com/9.4.19/miui_MI8SE_9.4.19_de643cac3a_9.0.zip)
-
-[miui_MI8SE_9.4.18_450caee9f9_9.0.zip](https://hugeota.d.miui.com/9.4.18/miui_MI8SE_9.4.18_450caee9f9_9.0.zip)
-
-[miui_MI8SE_9.4.17_057ff68121_9.0.zip](https://hugeota.d.miui.com/9.4.17/miui_MI8SE_9.4.17_057ff68121_9.0.zip)
-
-[miui_MI8SE_9.4.16_75170c521a_9.0.zip](https://hugeota.d.miui.com/9.4.16/miui_MI8SE_9.4.16_75170c521a_9.0.zip)
-
-[miui_MI8SE_9.4.11_706128c049_9.0.zip](https://hugeota.d.miui.com/9.4.11/miui_MI8SE_9.4.11_706128c049_9.0.zip)
-
-[miui_MI8SE_9.4.10_4fc3801310_9.0.zip](https://hugeota.d.miui.com/9.4.10/miui_MI8SE_9.4.10_4fc3801310_9.0.zip)
-
-[miui_MI8SE_9.4.9_e04caa1c19_9.0.zip](https://hugeota.d.miui.com/9.4.9/miui_MI8SE_9.4.9_e04caa1c19_9.0.zip)
-
-[miui_MI8SE_9.4.8_600c147b50_9.0.zip](https://hugeota.d.miui.com/9.4.8/miui_MI8SE_9.4.8_600c147b50_9.0.zip)
-
-[miui_MI8SE_9.4.3_bf07a63a47_9.0.zip](https://hugeota.d.miui.com/9.4.3/miui_MI8SE_9.4.3_bf07a63a47_9.0.zip)
-
-[miui_MI8SE_9.4.2_b5a2504aa6_9.0.zip](https://hugeota.d.miui.com/9.4.2/miui_MI8SE_9.4.2_b5a2504aa6_9.0.zip)
-
-[miui_MI8SE_9.3.19_7f559acc50_9.0.zip](https://hugeota.d.miui.com/9.3.19/miui_MI8SE_9.3.19_7f559acc50_9.0.zip)
-
-[miui_MI8SE_9.3.18_e073815cc2_9.0.zip](https://hugeota.d.miui.com/9.3.18/miui_MI8SE_9.3.18_e073815cc2_9.0.zip)
-
-[miui_MI8SE_9.3.14_0db8b193cf_9.0.zip](https://hugeota.d.miui.com/9.3.14/miui_MI8SE_9.3.14_0db8b193cf_9.0.zip)
-
-[miui_MI8SE_9.3.13_e81ec149ed_9.0.zip](https://hugeota.d.miui.com/9.3.13/miui_MI8SE_9.3.13_e81ec149ed_9.0.zip)
-
-[miui_MI8SE_9.3.12_e6511b9479_9.0.zip](https://hugeota.d.miui.com/9.3.12/miui_MI8SE_9.3.12_e6511b9479_9.0.zip)
-
-[miui_MI8SE_9.3.7_073e449e31_9.0.zip](https://hugeota.d.miui.com/9.3.7/miui_MI8SE_9.3.7_073e449e31_9.0.zip)
-
-[miui_MI8SE_9.3.5_5437098ecf_9.0.zip](https://hugeota.d.miui.com/9.3.5/miui_MI8SE_9.3.5_5437098ecf_9.0.zip)
-
-[miui_MI8SE_9.3.1_1c1ddb7afa_9.0.zip](https://hugeota.d.miui.com/9.3.1/miui_MI8SE_9.3.1_1c1ddb7afa_9.0.zip)
-
-[miui_MI8SE_9.2.27_457d2c893f_9.0.zip](https://hugeota.d.miui.com/9.2.27/miui_MI8SE_9.2.27_457d2c893f_9.0.zip)
-
-[miui_MI8SE_9.2.24_14f57d777d_9.0.zip](https://hugeota.d.miui.com/9.2.24/miui_MI8SE_9.2.24_14f57d777d_9.0.zip)
-
-[miui_MI8SE_9.2.21_f86e79d1d5_9.0.zip](https://hugeota.d.miui.com/9.2.21/miui_MI8SE_9.2.21_f86e79d1d5_9.0.zip)
-
-[miui_MI8SE_9.2.20_1cdba0885e_9.0.zip](https://hugeota.d.miui.com/9.2.20/miui_MI8SE_9.2.20_1cdba0885e_9.0.zip)
-
-[miui_MI8SE_9.2.19_b035ffcb4b_9.0.zip](https://hugeota.d.miui.com/9.2.19/miui_MI8SE_9.2.19_b035ffcb4b_9.0.zip)
-
-[miui_MI8SE_9.2.18_45c00868b7_9.0.zip](https://hugeota.d.miui.com/9.2.18/miui_MI8SE_9.2.18_45c00868b7_9.0.zip)
-
-[miui_MI8SE_9.2.15_5acb027cb1_9.0.zip](https://hugeota.d.miui.com/9.2.15/miui_MI8SE_9.2.15_5acb027cb1_9.0.zip)
-
-[miui_MI8SE_9.2.11_2b525cc9c0_9.0.zip](https://hugeota.d.miui.com/9.2.11/miui_MI8SE_9.2.11_2b525cc9c0_9.0.zip)
-
-[miui_MI8SE_9.1.23_1d8ba959a2_9.0.zip](https://hugeota.d.miui.com/9.1.23/miui_MI8SE_9.1.23_1d8ba959a2_9.0.zip)
-
-[miui_MI8SE_9.1.21_86443671a1_9.0.zip](https://hugeota.d.miui.com/9.1.21/miui_MI8SE_9.1.21_86443671a1_9.0.zip)
-
-[miui_MI8SE_9.1.17_7ac48429d6_9.0.zip](https://hugeota.d.miui.com/9.1.17/miui_MI8SE_9.1.17_7ac48429d6_9.0.zip)
-
-[miui_MI8SE_9.1.16_fc7283998e_9.0.zip](https://hugeota.d.miui.com/9.1.16/miui_MI8SE_9.1.16_fc7283998e_9.0.zip)
-
-[miui_MI8SE_9.1.15_d0538b2cb4_9.0.zip](https://hugeota.d.miui.com/9.1.15/miui_MI8SE_9.1.15_d0538b2cb4_9.0.zip)
-
+| 小米8SE  开发版/内测版    |
+| ---- |
+| [miui_MI8SE_20.5.11_41281b6bfe_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_MI8SE_20.5.11_41281b6bfe_10.0.zip)    |
+| [miui_MI8SE_20.5.7_56fb1aa820_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_MI8SE_20.5.7_56fb1aa820_10.0.zip)    |
+| [miui_MI8SE_20.5.6_0e1746eb6b_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_MI8SE_20.5.6_0e1746eb6b_10.0.zip)    |
+| [miui_MI8SE_20.4.30_6cacb5882d_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_MI8SE_20.4.30_6cacb5882d_10.0.zip)    |
+| [miui_MI8SE_20.4.28_6d8e537b18_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_MI8SE_20.4.28_6d8e537b18_10.0.zip)    |
+| [miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip)    |
+| [miui_MI8SE_20.3.26_335c159428_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_MI8SE_20.3.26_335c159428_10.0.zip)    |
+| [miui_MI8SE_20.3.25_eda65d2f53_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_MI8SE_20.3.25_eda65d2f53_10.0.zip)    |
+| [miui_MI8SE_20.3.24_ff344223e7_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_MI8SE_20.3.24_ff344223e7_10.0.zip)    |
+| [miui_MI8SE_20.3.23_4f0815e03a_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_MI8SE_20.3.23_4f0815e03a_10.0.zip)    |
+| [miui_MI8SE_20.3.19_73d8cc98c5_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_MI8SE_20.3.19_73d8cc98c5_10.0.zip)    |
+| [miui_MI8SE_20.3.18_02d35e872f_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_MI8SE_20.3.18_02d35e872f_10.0.zip)    |
+| [miui_MI8SE_20.3.17_f09900b67b_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_MI8SE_20.3.17_f09900b67b_10.0.zip)    |
+| [miui_MI8SE_20.3.16_f18ffd551b_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_MI8SE_20.3.16_f18ffd551b_10.0.zip)    |
+| [miui_MI8SE_20.3.12_68801a8645_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_MI8SE_20.3.12_68801a8645_10.0.zip)    |
+| [miui_MI8SE_20.3.11_11bb5a84ab_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_MI8SE_20.3.11_11bb5a84ab_10.0.zip)    |
+| [miui_MI8SE_20.3.10_b6d6878c85_10.0.zip](https://hugeota.d.miui.com/20.3.10/miui_MI8SE_20.3.10_b6d6878c85_10.0.zip)    |
+| [miui_MI8SE_20.3.9_25a31572b1_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_MI8SE_20.3.9_25a31572b1_10.0.zip)    |
+| [miui_MI8SE_20.3.5_c819c23f8f_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_MI8SE_20.3.5_c819c23f8f_10.0.zip)    |
+| [miui_MI8SE_20.3.4_ca3db0f783_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_MI8SE_20.3.4_ca3db0f783_10.0.zip)    |
+| [miui_MI8SE_20.3.3_bac4ca523a_10.0.zip](https://hugeota.d.miui.com/20.3.3/miui_MI8SE_20.3.3_bac4ca523a_10.0.zip)    |
+| [miui_MI8SE_20.2.27_4be3529921_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_MI8SE_20.2.27_4be3529921_10.0.zip)    |
+| [miui_MI8SE_20.2.26_3daaef6b20_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_MI8SE_20.2.26_3daaef6b20_10.0.zip)    |
+| [miui_MI8SE_20.2.25_6c9578067c_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_MI8SE_20.2.25_6c9578067c_10.0.zip)    |
+| [miui_MI8SE_20.2.17_d94e585ae8_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_MI8SE_20.2.17_d94e585ae8_10.0.zip)    |
+| [miui_MI8SE_20.1.21_09cce369bf_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_MI8SE_20.1.21_09cce369bf_10.0.zip)    |
+| [miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip)    |
+| [miui_MI8SE_20.1.15_bfc0a2a863_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_MI8SE_20.1.15_bfc0a2a863_10.0.zip)    |
+| [miui_MI8SE_20.1.14_3185f515d6_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_MI8SE_20.1.14_3185f515d6_10.0.zip)    |
+| [miui_MI8SE_20.1.13_b14128a15e_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_MI8SE_20.1.13_b14128a15e_10.0.zip)    |
+| [miui_MI8SE_20.1.9_87dde6f09d_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_MI8SE_20.1.9_87dde6f09d_10.0.zip)    |
+| [miui_MI8SE_20.1.8_e6a8d10d15_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_MI8SE_20.1.8_e6a8d10d15_10.0.zip)    |
+| [miui_MI8SE_20.1.2_8df188ec0c_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_MI8SE_20.1.2_8df188ec0c_10.0.zip)    |
+| [miui_MI8SE_9.12.31_a910791d52_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_MI8SE_9.12.31_a910791d52_10.0.zip)    |
+| [miui_MI8SE_9.12.26_2184cf4a5e_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_MI8SE_9.12.26_2184cf4a5e_10.0.zip)    |
+| [miui_MI8SE_9.12.25_1348d6ef14_10.0.zip](https://hugeota.d.miui.com/9.12.25/miui_MI8SE_9.12.25_1348d6ef14_10.0.zip)    |
+| [miui_MI8SE_9.12.24_fc62a1de42_10.0.zip](https://hugeota.d.miui.com/9.12.24/miui_MI8SE_9.12.24_fc62a1de42_10.0.zip)    |
+| [miui_MI8SE_9.12.23_77b68a3c01_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_MI8SE_9.12.23_77b68a3c01_10.0.zip)    |
+| [miui_MI8SE_9.12.19_322e5eadb0_10.0.zip](https://hugeota.d.miui.com/9.12.19/miui_MI8SE_9.12.19_322e5eadb0_10.0.zip)    |
+| [miui_MI8SE_9.12.17_0285b5adaf_10.0.zip](https://hugeota.d.miui.com/9.12.17/miui_MI8SE_9.12.17_0285b5adaf_10.0.zip)    |
+| [miui_MI8SE_9.12.12_a2e9f71599_10.0.zip](https://hugeota.d.miui.com/9.12.12/miui_MI8SE_9.12.12_a2e9f71599_10.0.zip)    |
+| [miui_MI8SE_9.12.10_6308f5e1dd_10.0.zip](https://hugeota.d.miui.com/9.12.10/miui_MI8SE_9.12.10_6308f5e1dd_10.0.zip)    |
+| [miui_MI8SE_9.12.6_ba5933bcbc_10.0.zip](https://hugeota.d.miui.com/9.12.6/miui_MI8SE_9.12.6_ba5933bcbc_10.0.zip)    |
+| [miui_MI8SE_9.12.5_6a597d28d0_10.0.zip](https://hugeota.d.miui.com/9.12.5/miui_MI8SE_9.12.5_6a597d28d0_10.0.zip)    |
+| [miui_MI8SE_9.12.4_93d425a5f2_10.0.zip](https://hugeota.d.miui.com/9.12.4/miui_MI8SE_9.12.4_93d425a5f2_10.0.zip)    |
+| [miui_MI8SE_9.12.3_e3c8f88ffe_10.0.zip](https://hugeota.d.miui.com/9.12.3/miui_MI8SE_9.12.3_e3c8f88ffe_10.0.zip)    |
+| [miui_MI8SE_9.11.26_bd898ba8d4_10.0.zip](https://hugeota.d.miui.com/9.11.26/miui_MI8SE_9.11.26_bd898ba8d4_10.0.zip)    |
+| [miui_MI8SE_9.11.25_c8d99a08bb_10.0.zip](https://hugeota.d.miui.com/9.11.25/miui_MI8SE_9.11.25_c8d99a08bb_10.0.zip)    |
+| [miui_MI8SE_9.11.22_2732482898_10.0.zip](https://hugeota.d.miui.com/9.11.22/miui_MI8SE_9.11.22_2732482898_10.0.zip)    |
+| [miui_MI8SE_9.11.21_f33d769c44_10.0.zip](https://hugeota.d.miui.com/9.11.21/miui_MI8SE_9.11.21_f33d769c44_10.0.zip)    |
+| [miui_MI8SE_9.11.20_54d5615ea5_10.0.zip](https://hugeota.d.miui.com/9.11.20/miui_MI8SE_9.11.20_54d5615ea5_10.0.zip)    |
+| [miui_MI8SE_9.11.19_99a7a2be8b_10.0.zip](https://hugeota.d.miui.com/9.11.19/miui_MI8SE_9.11.19_99a7a2be8b_10.0.zip)    |
+| [miui_MI8SE_9.11.18_6f3fa288e9_10.0.zip](https://hugeota.d.miui.com/9.11.18/miui_MI8SE_9.11.18_6f3fa288e9_10.0.zip)    |
+| [miui_MI8SE_9.11.14_9afc5412d6_10.0.zip](https://hugeota.d.miui.com/9.11.14/miui_MI8SE_9.11.14_9afc5412d6_10.0.zip)    |
+| [miui_MI8SE_9.11.13_39a0ff9ef9_10.0.zip](https://hugeota.d.miui.com/9.11.13/miui_MI8SE_9.11.13_39a0ff9ef9_10.0.zip)    |
+| [miui_MI8SE_9.11.12_9eef4ade4a_10.0.zip](https://hugeota.d.miui.com/9.11.12/miui_MI8SE_9.11.12_9eef4ade4a_10.0.zip)    |
+| [miui_MI8SE_9.11.11_896c8a3113_10.0.zip](https://hugeota.d.miui.com/9.11.11/miui_MI8SE_9.11.11_896c8a3113_10.0.zip)    |
+| [miui_MI8SE_9.11.7_515dcc6e7f_10.0.zip](https://hugeota.d.miui.com/9.11.7/miui_MI8SE_9.11.7_515dcc6e7f_10.0.zip)    |
+| [miui_MI8SE_9.11.6_0c1deedddb_10.0.zip](https://hugeota.d.miui.com/9.11.6/miui_MI8SE_9.11.6_0c1deedddb_10.0.zip)    |
+| [miui_MI8SE_9.11.5_f5488a5ebb_10.0.zip](https://hugeota.d.miui.com/9.11.5/miui_MI8SE_9.11.5_f5488a5ebb_10.0.zip)    |
+| [miui_MI8SE_9.11.4_dfe080712e_10.0.zip](https://hugeota.d.miui.com/9.11.4/miui_MI8SE_9.11.4_dfe080712e_10.0.zip)    |
+| [miui_MI8SE_9.10.31_97be08a1c7_10.0.zip](https://hugeota.d.miui.com/9.10.31/miui_MI8SE_9.10.31_97be08a1c7_10.0.zip)    |
+| [miui_MI8SE_9.10.30_d6bf8b1666_10.0.zip](https://hugeota.d.miui.com/9.10.30/miui_MI8SE_9.10.30_d6bf8b1666_10.0.zip)    |
+| [miui_MI8SE_9.10.29_1792ec675e_10.0.zip](https://hugeota.d.miui.com/9.10.29/miui_MI8SE_9.10.29_1792ec675e_10.0.zip)    |
+| [miui_MI8SE_9.10.28_68a02817a2_10.0.zip](https://hugeota.d.miui.com/9.10.28/miui_MI8SE_9.10.28_68a02817a2_10.0.zip)    |
+| [miui_MI8SE_9.10.24_7a4aed1a73_10.0.zip](https://hugeota.d.miui.com/9.10.24/miui_MI8SE_9.10.24_7a4aed1a73_10.0.zip)    |
+| [miui_MI8SE_9.10.23_6d4456e604_10.0.zip](https://hugeota.d.miui.com/9.10.23/miui_MI8SE_9.10.23_6d4456e604_10.0.zip)    |
+| [miui_MI8SE_9.10.10_83cd74bcfa_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_MI8SE_9.10.10_83cd74bcfa_9.0.zip)    |
+| [miui_MI8SE_9.10.9_f408e78187_9.0.zip](https://hugeota.d.miui.com/9.10.9/miui_MI8SE_9.10.9_f408e78187_9.0.zip)    |
+| [miui_MI8SE_9.10.8_261e32ed21_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_MI8SE_9.10.8_261e32ed21_9.0.zip)    |
+| [miui_MI8SE_9.9.27_56a10490af_9.0.zip](https://hugeota.d.miui.com/9.9.27/miui_MI8SE_9.9.27_56a10490af_9.0.zip)    |
+| [miui_MI8SE_9.9.26_249e7cd055_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_MI8SE_9.9.26_249e7cd055_9.0.zip)    |
+| [miui_MI8SE_9.9.25_3143ad766b_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_MI8SE_9.9.25_3143ad766b_9.0.zip)    |
+| [miui_MI8SE_9.9.24_84b193659d_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_MI8SE_9.9.24_84b193659d_9.0.zip)    |
+| [miui_MI8SE_9.9.3_a9d719f08b_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip)    |
+| [miui_MI8SE_9.8.29_71d583c575_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_MI8SE_9.8.29_71d583c575_9.0.zip)    |
+| [miui_MI8SE_9.8.28_2c7a440ccb_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_MI8SE_9.8.28_2c7a440ccb_9.0.zip)    |
+| [miui_MI8SE_9.8.27_73c86c48d6_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_MI8SE_9.8.27_73c86c48d6_9.0.zip)    |
+| [miui_MI8SE_9.8.26_f3281f57fb_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_MI8SE_9.8.26_f3281f57fb_9.0.zip)    |
+| [miui_MI8SE_9.8.22_c525a5cc89_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_MI8SE_9.8.22_c525a5cc89_9.0.zip)    |
+| [miui_MI8SE_9.8.21_2297985e4a_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_MI8SE_9.8.21_2297985e4a_9.0.zip)    |
+| [miui_MI8SE_9.8.20_e2c0c7bc66_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_MI8SE_9.8.20_e2c0c7bc66_9.0.zip)    |
+| [miui_MI8SE_9.8.15_09d2c15b1b_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_MI8SE_9.8.15_09d2c15b1b_9.0.zip)    |
+| [miui_MI8SE_9.8.14_53aaf87340_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_MI8SE_9.8.14_53aaf87340_9.0.zip)    |
+| [miui_MI8SE_9.8.13_01b00d4786_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_MI8SE_9.8.13_01b00d4786_9.0.zip)    |
+| [miui_MI8SE_9.8.12_273e0d1f6b_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_MI8SE_9.8.12_273e0d1f6b_9.0.zip)    |
+| [miui_MI8SE_9.8.9_4023678f3a_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_MI8SE_9.8.9_4023678f3a_9.0.zip)    |
+| [miui_MI8SE_9.8.8_f8a0edeb00_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_MI8SE_9.8.8_f8a0edeb00_9.0.zip)    |
+| [miui_MI8SE_9.8.7_d286b14642_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_MI8SE_9.8.7_d286b14642_9.0.zip)    |
+| [miui_MI8SE_9.8.6_f368b14e8c_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_MI8SE_9.8.6_f368b14e8c_9.0.zip)    |
+| [miui_MI8SE_9.8.5_73f5a4f54d_9.0.zip](https://hugeota.d.miui.com/9.8.5/miui_MI8SE_9.8.5_73f5a4f54d_9.0.zip)    |
+| [miui_MI8SE_9.8.1_ace4b18390_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_MI8SE_9.8.1_ace4b18390_9.0.zip)    |
+| [miui_MI8SE_9.7.31_1a681b2970_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_MI8SE_9.7.31_1a681b2970_9.0.zip)    |
+| [miui_MI8SE_9.7.30_a79cc38c80_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_MI8SE_9.7.30_a79cc38c80_9.0.zip)    |
+| [miui_MI8SE_9.7.29_0e5148569e_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_MI8SE_9.7.29_0e5148569e_9.0.zip)    |
+| [miui_MI8SE_9.7.25_92a3fadbc8_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_MI8SE_9.7.25_92a3fadbc8_9.0.zip)    |
+| [miui_MI8SE_9.7.24_19c502b748_9.0.zip](https://hugeota.d.miui.com/9.7.24/miui_MI8SE_9.7.24_19c502b748_9.0.zip)    |
+| [miui_MI8SE_9.7.23_cb0f01772d_9.0.zip](https://hugeota.d.miui.com/9.7.23/miui_MI8SE_9.7.23_cb0f01772d_9.0.zip)    |
+| [miui_MI8SE_9.7.22_b7a1ad9e98_9.0.zip](https://hugeota.d.miui.com/9.7.22/miui_MI8SE_9.7.22_b7a1ad9e98_9.0.zip)    |
+| [miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip](https://hugeota.d.miui.com/9.7.18/miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip)    |
+| [miui_MI8SE_9.7.16_894c7f9cdf_9.0.zip](https://hugeota.d.miui.com/9.7.16/miui_MI8SE_9.7.16_894c7f9cdf_9.0.zip)    |
+| [miui_MI8SE_9.7.15_60d9daa0b5_9.0.zip](https://hugeota.d.miui.com/9.7.15/miui_MI8SE_9.7.15_60d9daa0b5_9.0.zip)    |
+| [miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip](https://hugeota.d.miui.com/9.7.11/miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip)    |
+| [miui_MI8SE_9.7.10_27ddeb1dbb_9.0.zip](https://hugeota.d.miui.com/9.7.10/miui_MI8SE_9.7.10_27ddeb1dbb_9.0.zip)    |
+| [miui_MI8SE_9.7.9_ace60b1378_9.0.zip](https://hugeota.d.miui.com/9.7.9/miui_MI8SE_9.7.9_ace60b1378_9.0.zip)    |
+| [miui_MI8SE_9.7.8_d2ca89ddf7_9.0.zip](https://hugeota.d.miui.com/9.7.8/miui_MI8SE_9.7.8_d2ca89ddf7_9.0.zip)    |
+| [miui_MI8SE_9.7.4_3423b80e1d_9.0.zip](https://hugeota.d.miui.com/9.7.4/miui_MI8SE_9.7.4_3423b80e1d_9.0.zip)    |
+| [miui_MI8SE_9.7.3_2f0a04d134_9.0.zip](https://hugeota.d.miui.com/9.7.3/miui_MI8SE_9.7.3_2f0a04d134_9.0.zip)    |
+| [miui_MI8SE_9.7.2_d8e8c288e2_9.0.zip](https://hugeota.d.miui.com/9.7.2/miui_MI8SE_9.7.2_d8e8c288e2_9.0.zip)    |
+| [miui_MI8SE_9.7.1_5c501f2439_9.0.zip](https://hugeota.d.miui.com/9.7.1/miui_MI8SE_9.7.1_5c501f2439_9.0.zip)    |
+| [miui_MI8SE_9.6.27_8649d0115f_9.0.zip](https://hugeota.d.miui.com/9.6.27/miui_MI8SE_9.6.27_8649d0115f_9.0.zip)    |
+| [miui_MI8SE_9.6.26_a00a81a287_9.0.zip](https://hugeota.d.miui.com/9.6.26/miui_MI8SE_9.6.26_a00a81a287_9.0.zip)    |
+| [miui_MI8SE_9.6.25_97c81d1ce0_9.0.zip](https://hugeota.d.miui.com/9.6.25/miui_MI8SE_9.6.25_97c81d1ce0_9.0.zip)    |
+| [miui_MI8SE_9.6.24_3d51eb0a32_9.0.zip](https://hugeota.d.miui.com/9.6.24/miui_MI8SE_9.6.24_3d51eb0a32_9.0.zip)    |
+| [miui_MI8SE_9.6.20_8583335d32_9.0.zip](https://hugeota.d.miui.com/9.6.20/miui_MI8SE_9.6.20_8583335d32_9.0.zip)    |
+| [miui_MI8SE_9.6.19_33e0c0eb0d_9.0.zip](https://hugeota.d.miui.com/9.6.19/miui_MI8SE_9.6.19_33e0c0eb0d_9.0.zip)    |
+| [miui_MI8SE_9.6.18_d002b760eb_9.0.zip](https://hugeota.d.miui.com/9.6.18/miui_MI8SE_9.6.18_d002b760eb_9.0.zip)    |
+| [miui_MI8SE_9.6.17_5f7110df59_9.0.zip](https://hugeota.d.miui.com/9.6.17/miui_MI8SE_9.6.17_5f7110df59_9.0.zip)    |
+| [miui_MI8SE_9.6.13_2849c128af_9.0.zip](https://hugeota.d.miui.com/9.6.13/miui_MI8SE_9.6.13_2849c128af_9.0.zip)    |
+| [miui_MI8SE_9.6.11_cbf65e56cb_9.0.zip](https://hugeota.d.miui.com/9.6.11/miui_MI8SE_9.6.11_cbf65e56cb_9.0.zip)    |
+| [miui_MI8SE_9.6.10_62a90a27a6_9.0.zip](https://hugeota.d.miui.com/9.6.10/miui_MI8SE_9.6.10_62a90a27a6_9.0.zip)    |
+| [miui_MI8SE_9.6.5_04e7f5a573_9.0.zip](https://hugeota.d.miui.com/9.6.5/miui_MI8SE_9.6.5_04e7f5a573_9.0.zip)    |
+| [miui_MI8SE_9.6.4_20cb92c3e0_9.0.zip](https://hugeota.d.miui.com/9.6.4/miui_MI8SE_9.6.4_20cb92c3e0_9.0.zip)    |
+| [miui_MI8SE_9.6.3_19b4810d69_9.0.zip](https://hugeota.d.miui.com/9.6.3/miui_MI8SE_9.6.3_19b4810d69_9.0.zip)    |
+| [miui_MI8SE_9.5.30_885b7ad76c_9.0.zip](https://hugeota.d.miui.com/9.5.30/miui_MI8SE_9.5.30_885b7ad76c_9.0.zip)    |
+| [miui_MI8SE_9.5.29_c44c1d5c8c_9.0.zip](https://hugeota.d.miui.com/9.5.29/miui_MI8SE_9.5.29_c44c1d5c8c_9.0.zip)    |
+| [miui_MI8SE_9.5.28_9b5b8b1b84_9.0.zip](https://hugeota.d.miui.com/9.5.28/miui_MI8SE_9.5.28_9b5b8b1b84_9.0.zip)    |
+| [miui_MI8SE_9.5.23_4373786372_9.0.zip](https://hugeota.d.miui.com/9.5.23/miui_MI8SE_9.5.23_4373786372_9.0.zip)    |
+| [miui_MI8SE_9.5.22_f755a3e4e0_9.0.zip](https://hugeota.d.miui.com/9.5.22/miui_MI8SE_9.5.22_f755a3e4e0_9.0.zip)    |
+| [miui_MI8SE_9.5.20_f6479ad050_9.0.zip](https://hugeota.d.miui.com/9.5.20/miui_MI8SE_9.5.20_f6479ad050_9.0.zip)    |
+| [miui_MI8SE_9.5.16_8a3f088578_9.0.zip](https://hugeota.d.miui.com/9.5.16/miui_MI8SE_9.5.16_8a3f088578_9.0.zip)    |
+| [miui_MI8SE_9.5.15_47a524943d_9.0.zip](https://hugeota.d.miui.com/9.5.15/miui_MI8SE_9.5.15_47a524943d_9.0.zip)    |
+| [miui_MI8SE_9.5.14_5ce537587e_9.0.zip](https://hugeota.d.miui.com/9.5.14/miui_MI8SE_9.5.14_5ce537587e_9.0.zip)    |
+| [miui_MI8SE_9.5.13_d3deb20a38_9.0.zip](https://hugeota.d.miui.com/9.5.13/miui_MI8SE_9.5.13_d3deb20a38_9.0.zip)    |
+| [miui_MI8SE_9.5.9_09aa77511c_9.0.zip](https://hugeota.d.miui.com/9.5.9/miui_MI8SE_9.5.9_09aa77511c_9.0.zip)    |
+| [miui_MI8SE_9.5.7_6f9f63a9b4_9.0.zip](https://hugeota.d.miui.com/9.5.7/miui_MI8SE_9.5.7_6f9f63a9b4_9.0.zip)    |
+| [miui_MI8SE_9.5.6_4f51633369_9.0.zip](https://hugeota.d.miui.com/9.5.6/miui_MI8SE_9.5.6_4f51633369_9.0.zip)    |
+| [miui_MI8SE_9.4.23_7a5d992078_9.0.zip](https://hugeota.d.miui.com/9.4.23/miui_MI8SE_9.4.23_7a5d992078_9.0.zip)    |
+| [miui_MI8SE_9.4.19_de643cac3a_9.0.zip](https://hugeota.d.miui.com/9.4.19/miui_MI8SE_9.4.19_de643cac3a_9.0.zip)    |
+| [miui_MI8SE_9.4.18_450caee9f9_9.0.zip](https://hugeota.d.miui.com/9.4.18/miui_MI8SE_9.4.18_450caee9f9_9.0.zip)    |
+| [miui_MI8SE_9.4.17_057ff68121_9.0.zip](https://hugeota.d.miui.com/9.4.17/miui_MI8SE_9.4.17_057ff68121_9.0.zip)    |
+| [miui_MI8SE_9.4.16_75170c521a_9.0.zip](https://hugeota.d.miui.com/9.4.16/miui_MI8SE_9.4.16_75170c521a_9.0.zip)    |
+| [miui_MI8SE_9.4.11_706128c049_9.0.zip](https://hugeota.d.miui.com/9.4.11/miui_MI8SE_9.4.11_706128c049_9.0.zip)    |
+| [miui_MI8SE_9.4.10_4fc3801310_9.0.zip](https://hugeota.d.miui.com/9.4.10/miui_MI8SE_9.4.10_4fc3801310_9.0.zip)    |
+| [miui_MI8SE_9.4.9_e04caa1c19_9.0.zip](https://hugeota.d.miui.com/9.4.9/miui_MI8SE_9.4.9_e04caa1c19_9.0.zip)    |
+| [miui_MI8SE_9.4.8_600c147b50_9.0.zip](https://hugeota.d.miui.com/9.4.8/miui_MI8SE_9.4.8_600c147b50_9.0.zip)    |
+| [miui_MI8SE_9.4.3_bf07a63a47_9.0.zip](https://hugeota.d.miui.com/9.4.3/miui_MI8SE_9.4.3_bf07a63a47_9.0.zip)    |
+| [miui_MI8SE_9.4.2_b5a2504aa6_9.0.zip](https://hugeota.d.miui.com/9.4.2/miui_MI8SE_9.4.2_b5a2504aa6_9.0.zip)    |
+| [miui_MI8SE_9.3.19_7f559acc50_9.0.zip](https://hugeota.d.miui.com/9.3.19/miui_MI8SE_9.3.19_7f559acc50_9.0.zip)    |
+| [miui_MI8SE_9.3.18_e073815cc2_9.0.zip](https://hugeota.d.miui.com/9.3.18/miui_MI8SE_9.3.18_e073815cc2_9.0.zip)    |
+| [miui_MI8SE_9.3.14_0db8b193cf_9.0.zip](https://hugeota.d.miui.com/9.3.14/miui_MI8SE_9.3.14_0db8b193cf_9.0.zip)    |
+| [miui_MI8SE_9.3.13_e81ec149ed_9.0.zip](https://hugeota.d.miui.com/9.3.13/miui_MI8SE_9.3.13_e81ec149ed_9.0.zip)    |
+| [miui_MI8SE_9.3.12_e6511b9479_9.0.zip](https://hugeota.d.miui.com/9.3.12/miui_MI8SE_9.3.12_e6511b9479_9.0.zip)    |
+| [miui_MI8SE_9.3.7_073e449e31_9.0.zip](https://hugeota.d.miui.com/9.3.7/miui_MI8SE_9.3.7_073e449e31_9.0.zip)    |
+| [miui_MI8SE_9.3.5_5437098ecf_9.0.zip](https://hugeota.d.miui.com/9.3.5/miui_MI8SE_9.3.5_5437098ecf_9.0.zip)    |
+| [miui_MI8SE_9.3.1_1c1ddb7afa_9.0.zip](https://hugeota.d.miui.com/9.3.1/miui_MI8SE_9.3.1_1c1ddb7afa_9.0.zip)    |
+| [miui_MI8SE_9.2.27_457d2c893f_9.0.zip](https://hugeota.d.miui.com/9.2.27/miui_MI8SE_9.2.27_457d2c893f_9.0.zip)    |
+| [miui_MI8SE_9.2.24_14f57d777d_9.0.zip](https://hugeota.d.miui.com/9.2.24/miui_MI8SE_9.2.24_14f57d777d_9.0.zip)    |
+| [miui_MI8SE_9.2.21_f86e79d1d5_9.0.zip](https://hugeota.d.miui.com/9.2.21/miui_MI8SE_9.2.21_f86e79d1d5_9.0.zip)    |
+| [miui_MI8SE_9.2.20_1cdba0885e_9.0.zip](https://hugeota.d.miui.com/9.2.20/miui_MI8SE_9.2.20_1cdba0885e_9.0.zip)    |
+| [miui_MI8SE_9.2.19_b035ffcb4b_9.0.zip](https://hugeota.d.miui.com/9.2.19/miui_MI8SE_9.2.19_b035ffcb4b_9.0.zip)    |
+| [miui_MI8SE_9.2.18_45c00868b7_9.0.zip](https://hugeota.d.miui.com/9.2.18/miui_MI8SE_9.2.18_45c00868b7_9.0.zip)    |
+| [miui_MI8SE_9.2.15_5acb027cb1_9.0.zip](https://hugeota.d.miui.com/9.2.15/miui_MI8SE_9.2.15_5acb027cb1_9.0.zip)    |
+| [miui_MI8SE_9.2.11_2b525cc9c0_9.0.zip](https://hugeota.d.miui.com/9.2.11/miui_MI8SE_9.2.11_2b525cc9c0_9.0.zip)    |
+| [miui_MI8SE_9.1.23_1d8ba959a2_9.0.zip](https://hugeota.d.miui.com/9.1.23/miui_MI8SE_9.1.23_1d8ba959a2_9.0.zip)    |
+| [miui_MI8SE_9.1.21_86443671a1_9.0.zip](https://hugeota.d.miui.com/9.1.21/miui_MI8SE_9.1.21_86443671a1_9.0.zip)    |
+| [miui_MI8SE_9.1.17_7ac48429d6_9.0.zip](https://hugeota.d.miui.com/9.1.17/miui_MI8SE_9.1.17_7ac48429d6_9.0.zip)    |
+| [miui_MI8SE_9.1.16_fc7283998e_9.0.zip](https://hugeota.d.miui.com/9.1.16/miui_MI8SE_9.1.16_fc7283998e_9.0.zip)    |
+| [miui_MI8SE_9.1.15_d0538b2cb4_9.0.zip](https://hugeota.d.miui.com/9.1.15/miui_MI8SE_9.1.15_d0538b2cb4_9.0.zip)    |

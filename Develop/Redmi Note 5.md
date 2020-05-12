@@ -1,208 +1,105 @@
-### Redmi Note 5  开发版/内测版
-
-[miui_HMNote5_20.5.11_9a0015c76a_9.0.zip](https://hugeota.d.miui.com/20.5.11/miui_HMNote5_20.5.11_9a0015c76a_9.0.zip)
-
-[miui_HMNote5_20.5.7_76871b1c98_9.0.zip](https://hugeota.d.miui.com/20.5.7/miui_HMNote5_20.5.7_76871b1c98_9.0.zip)
-
-[miui_HMNote5_20.5.6_19fb5c2bd5_9.0.zip](https://hugeota.d.miui.com/20.5.6/miui_HMNote5_20.5.6_19fb5c2bd5_9.0.zip)
-
-[miui_HMNote5_20.4.30_cc68aecfd3_9.0.zip](https://hugeota.d.miui.com/20.4.30/miui_HMNote5_20.4.30_cc68aecfd3_9.0.zip)
-
-[miui_HMNote5_20.4.29_9ec49b89ba_9.0.zip](https://hugeota.d.miui.com/20.4.29/miui_HMNote5_20.4.29_9ec49b89ba_9.0.zip)
-
-[miui_HMNote5_20.4.28_ed909f0c45_9.0.zip](https://hugeota.d.miui.com/20.4.28/miui_HMNote5_20.4.28_ed909f0c45_9.0.zip)
-
-[miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip](https://hugeota.d.miui.com/20.4.27/miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip)
-
-[miui_HMNote5_20.3.26_667fc78b08_9.0.zip](https://hugeota.d.miui.com/20.3.26/miui_HMNote5_20.3.26_667fc78b08_9.0.zip)
-
-[miui_HMNote5_20.3.25_8bda0cd1c6_9.0.zip](https://hugeota.d.miui.com/20.3.25/miui_HMNote5_20.3.25_8bda0cd1c6_9.0.zip)
-
-[miui_HMNote5_20.3.24_744e408473_9.0.zip](https://hugeota.d.miui.com/20.3.24/miui_HMNote5_20.3.24_744e408473_9.0.zip)
-
-[miui_HMNote5_20.3.23_756ede7e04_9.0.zip](https://hugeota.d.miui.com/20.3.23/miui_HMNote5_20.3.23_756ede7e04_9.0.zip)
-
-[miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip](https://hugeota.d.miui.com/20.3.19/miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip)
-
-[miui_HMNote5_20.3.18_88bf5367f9_9.0.zip](https://hugeota.d.miui.com/20.3.18/miui_HMNote5_20.3.18_88bf5367f9_9.0.zip)
-
-[miui_HMNote5_20.3.17_25126cb913_9.0.zip](https://hugeota.d.miui.com/20.3.17/miui_HMNote5_20.3.17_25126cb913_9.0.zip)
-
-[miui_HMNote5_20.3.16_27a3195961_9.0.zip](https://hugeota.d.miui.com/20.3.16/miui_HMNote5_20.3.16_27a3195961_9.0.zip)
-
-[miui_HMNote5_20.3.12_892f2f7468_9.0.zip](https://hugeota.d.miui.com/20.3.12/miui_HMNote5_20.3.12_892f2f7468_9.0.zip)
-
-[miui_HMNote5_20.3.11_421f79fad0_9.0.zip](https://hugeota.d.miui.com/20.3.11/miui_HMNote5_20.3.11_421f79fad0_9.0.zip)
-
-[miui_HMNote5_20.3.10_e6ec8d8e6a_9.0.zip](https://hugeota.d.miui.com/20.3.10/miui_HMNote5_20.3.10_e6ec8d8e6a_9.0.zip)
-
-[miui_HMNote5_20.3.9_9d95677734_9.0.zip](https://hugeota.d.miui.com/20.3.9/miui_HMNote5_20.3.9_9d95677734_9.0.zip)
-
-[miui_HMNote5_20.3.5_2683fb23ae_9.0.zip](https://hugeota.d.miui.com/20.3.5/miui_HMNote5_20.3.5_2683fb23ae_9.0.zip)
-
-[miui_HMNote5_20.3.3_21bbbd0cd2_9.0.zip](https://hugeota.d.miui.com/20.3.3/miui_HMNote5_20.3.3_21bbbd0cd2_9.0.zip)
-
-[miui_HMNote5_20.3.2_8ddf09b55d_9.0.zip](https://hugeota.d.miui.com/20.3.2/miui_HMNote5_20.3.2_8ddf09b55d_9.0.zip)
-
-[miui_HMNote5_20.2.27_fa42771ce5_9.0.zip](https://hugeota.d.miui.com/20.2.27/miui_HMNote5_20.2.27_fa42771ce5_9.0.zip)
-
-[miui_HMNote5_20.2.26_8ac94f510d_9.0.zip](https://hugeota.d.miui.com/20.2.26/miui_HMNote5_20.2.26_8ac94f510d_9.0.zip)
-
-[miui_HMNote5_20.2.25_5391d5d364_9.0.zip](https://hugeota.d.miui.com/20.2.25/miui_HMNote5_20.2.25_5391d5d364_9.0.zip)
-
-[miui_HMNote5_20.1.16_0c91f722ae_9.0.zip](https://hugeota.d.miui.com/20.1.16/miui_HMNote5_20.1.16_0c91f722ae_9.0.zip)
-
-[miui_HMNote5_20.1.15_00934844c3_9.0.zip](https://hugeota.d.miui.com/20.1.15/miui_HMNote5_20.1.15_00934844c3_9.0.zip)
-
-[miui_HMNote5_20.1.14_3e763afe92_9.0.zip](https://hugeota.d.miui.com/20.1.14/miui_HMNote5_20.1.14_3e763afe92_9.0.zip)
-
-[miui_HMNote5_20.1.13_8520a0875e_9.0.zip](https://hugeota.d.miui.com/20.1.13/miui_HMNote5_20.1.13_8520a0875e_9.0.zip)
-
-[miui_HMNote5_20.1.9_e141423746_9.0.zip](https://hugeota.d.miui.com/20.1.9/miui_HMNote5_20.1.9_e141423746_9.0.zip)
-
-[miui_HMNote5_20.1.8_b3ffbf957c_9.0.zip](https://hugeota.d.miui.com/20.1.8/miui_HMNote5_20.1.8_b3ffbf957c_9.0.zip)
-
-[miui_HMNote5_20.1.7_a3e7adf6af_9.0.zip](https://hugeota.d.miui.com/20.1.7/miui_HMNote5_20.1.7_a3e7adf6af_9.0.zip)
-
-[miui_HMNote5_20.1.6_aeb2d84adc_9.0.zip](https://hugeota.d.miui.com/20.1.6/miui_HMNote5_20.1.6_aeb2d84adc_9.0.zip)
-
-[miui_HMNote5_20.1.2_ef99f1e4a9_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_HMNote5_20.1.2_ef99f1e4a9_9.0.zip)
-
-[miui_HMNote5_9.12.31_96e61c0ef3_9.0.zip](https://hugeota.d.miui.com/9.12.31/miui_HMNote5_9.12.31_96e61c0ef3_9.0.zip)
-
-[miui_HMNote5_9.12.30_95891da9a3_9.0.zip](https://hugeota.d.miui.com/9.12.30/miui_HMNote5_9.12.30_95891da9a3_9.0.zip)
-
-[miui_HMNote5_9.12.26_2589493d71_9.0.zip](https://hugeota.d.miui.com/9.12.26/miui_HMNote5_9.12.26_2589493d71_9.0.zip)
-
-[miui_HMNote5_9.12.25_21d256a573_9.0.zip](https://hugeota.d.miui.com/9.12.25/miui_HMNote5_9.12.25_21d256a573_9.0.zip)
-
-[miui_HMNote5_9.12.24_917efa3e21_9.0.zip](https://hugeota.d.miui.com/9.12.24/miui_HMNote5_9.12.24_917efa3e21_9.0.zip)
-
-[miui_HMNote5_9.12.23_7345be12a2_9.0.zip](https://hugeota.d.miui.com/9.12.23/miui_HMNote5_9.12.23_7345be12a2_9.0.zip)
-
-[miui_HMNote5_9.12.19_d6395618ed_9.0.zip](https://hugeota.d.miui.com/9.12.19/miui_HMNote5_9.12.19_d6395618ed_9.0.zip)
-
-[miui_HMNote5_9.12.18_90d3320fbd_9.0.zip](https://hugeota.d.miui.com/9.12.18/miui_HMNote5_9.12.18_90d3320fbd_9.0.zip)
-
-[miui_HMNote5_9.12.17_97813d2b15_9.0.zip](https://hugeota.d.miui.com/9.12.17/miui_HMNote5_9.12.17_97813d2b15_9.0.zip)
-
-[miui_HMNote5_9.12.16_a5e736ac6c_9.0.zip](https://hugeota.d.miui.com/9.12.16/miui_HMNote5_9.12.16_a5e736ac6c_9.0.zip)
-
-[miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip](https://hugeota.d.miui.com/9.12.12/miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip)
-
-[miui_HMNote5_9.12.11_3e140e66ea_9.0.zip](https://hugeota.d.miui.com/9.12.11/miui_HMNote5_9.12.11_3e140e66ea_9.0.zip)
-
-[miui_HMNote5_9.12.10_de971661d5_9.0.zip](https://hugeota.d.miui.com/9.12.10/miui_HMNote5_9.12.10_de971661d5_9.0.zip)
-
-[miui_HMNote5_9.12.9_d3e8cb73b2_9.0.zip](https://hugeota.d.miui.com/9.12.9/miui_HMNote5_9.12.9_d3e8cb73b2_9.0.zip)
-
-[miui_HMNote5_9.12.5_6e33453956_9.0.zip](https://hugeota.d.miui.com/9.12.5/miui_HMNote5_9.12.5_6e33453956_9.0.zip)
-
-[miui_HMNote5_9.12.4_80d2da1692_9.0.zip](https://hugeota.d.miui.com/9.12.4/miui_HMNote5_9.12.4_80d2da1692_9.0.zip)
-
-[miui_HMNote5_9.12.3_820599c8a3_9.0.zip](https://hugeota.d.miui.com/9.12.3/miui_HMNote5_9.12.3_820599c8a3_9.0.zip)
-
-[miui_HMNote5_9.12.2_f2f167ead3_9.0.zip](https://hugeota.d.miui.com/9.12.2/miui_HMNote5_9.12.2_f2f167ead3_9.0.zip)
-
-[miui_HMNote5_9.11.28_7fd7bf27c9_9.0.zip](https://hugeota.d.miui.com/9.11.28/miui_HMNote5_9.11.28_7fd7bf27c9_9.0.zip)
-
-[miui_HMNote5_9.11.27_19962672dc_9.0.zip](https://hugeota.d.miui.com/9.11.27/miui_HMNote5_9.11.27_19962672dc_9.0.zip)
-
-[miui_HMNote5_9.11.26_5fb728ff5c_9.0.zip](https://hugeota.d.miui.com/9.11.26/miui_HMNote5_9.11.26_5fb728ff5c_9.0.zip)
-
-[miui_HMNote5_9.11.25_e6e12aae9d_9.0.zip](https://hugeota.d.miui.com/9.11.25/miui_HMNote5_9.11.25_e6e12aae9d_9.0.zip)
-
-[miui_HMNote5_9.11.21_e80cc983b5_9.0.zip](https://hugeota.d.miui.com/9.11.21/miui_HMNote5_9.11.21_e80cc983b5_9.0.zip)
-
-[miui_HMNote5_9.11.20_61a5358ce8_9.0.zip](https://hugeota.d.miui.com/9.11.20/miui_HMNote5_9.11.20_61a5358ce8_9.0.zip)
-
-[miui_HMNote5_9.11.13_a13e25bd36_9.0.zip](https://hugeota.d.miui.com/9.11.13/miui_HMNote5_9.11.13_a13e25bd36_9.0.zip)
-
-[miui_HMNote5_9.11.12_a3f9ff6f77_9.0.zip](https://hugeota.d.miui.com/9.11.12/miui_HMNote5_9.11.12_a3f9ff6f77_9.0.zip)
-
-[miui_HMNote5_9.11.11_4379958f78_9.0.zip](https://hugeota.d.miui.com/9.11.11/miui_HMNote5_9.11.11_4379958f78_9.0.zip)
-
-[miui_HMNote5_9.11.7_401b7cf985_9.0.zip](https://hugeota.d.miui.com/9.11.7/miui_HMNote5_9.11.7_401b7cf985_9.0.zip)
-
-[miui_HMNote5_9.11.6_d3a415059b_9.0.zip](https://hugeota.d.miui.com/9.11.6/miui_HMNote5_9.11.6_d3a415059b_9.0.zip)
-
-[miui_HMNote5_9.11.4_c5859f5b7c_9.0.zip](https://hugeota.d.miui.com/9.11.4/miui_HMNote5_9.11.4_c5859f5b7c_9.0.zip)
-
-[miui_HMNote5_9.10.31_bc671e91fc_9.0.zip](https://hugeota.d.miui.com/9.10.31/miui_HMNote5_9.10.31_bc671e91fc_9.0.zip)
-
-[miui_HMNote5_9.10.30_f6ceef9df2_9.0.zip](https://hugeota.d.miui.com/9.10.30/miui_HMNote5_9.10.30_f6ceef9df2_9.0.zip)
-
-[miui_HMNote5_9.10.29_e92a556474_9.0.zip](https://hugeota.d.miui.com/9.10.29/miui_HMNote5_9.10.29_e92a556474_9.0.zip)
-
-[miui_HMNote5_9.10.28_184b9f5cdc_9.0.zip](https://hugeota.d.miui.com/9.10.28/miui_HMNote5_9.10.28_184b9f5cdc_9.0.zip)
-
-[miui_HMNote5_9.10.24_96a38e1700_9.0.zip](https://hugeota.d.miui.com/9.10.24/miui_HMNote5_9.10.24_96a38e1700_9.0.zip)
-
-[miui_HMNote5_9.10.23_21be753f74_9.0.zip](https://hugeota.d.miui.com/9.10.23/miui_HMNote5_9.10.23_21be753f74_9.0.zip)
-
-[miui_HMNote5_9.10.21_deaf720773_9.0.zip](https://hugeota.d.miui.com/9.10.21/miui_HMNote5_9.10.21_deaf720773_9.0.zip)
-
-[miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip](https://hugeota.d.miui.com/9.10.17/miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip)
-
-[miui_HMNote5_9.10.16_eb65371946_9.0.zip](https://hugeota.d.miui.com/9.10.16/miui_HMNote5_9.10.16_eb65371946_9.0.zip)
-
-[miui_HMNote5_9.10.15_42ff9138a2_9.0.zip](https://hugeota.d.miui.com/9.10.15/miui_HMNote5_9.10.15_42ff9138a2_9.0.zip)
-
-[miui_HMNote5_9.10.14_3833851186_9.0.zip](https://hugeota.d.miui.com/9.10.14/miui_HMNote5_9.10.14_3833851186_9.0.zip)
-
-[miui_HMNote5_9.10.10_9053beb596_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_HMNote5_9.10.10_9053beb596_9.0.zip)
-
-[miui_HMNote5_9.10.9_ab86ef0e35_9.0.zip](https://hugeota.d.miui.com/9.10.9/miui_HMNote5_9.10.9_ab86ef0e35_9.0.zip)
-
-[miui_HMNote5_9.10.8_7044709109_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_HMNote5_9.10.8_7044709109_9.0.zip)
-
-[miui_HMNote5_9.9.26_78f6d318be_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_HMNote5_9.9.26_78f6d318be_9.0.zip)
-
-[miui_HMNote5_9.9.25_d8cea11820_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_HMNote5_9.9.25_d8cea11820_9.0.zip)
-
-[miui_HMNote5_9.9.24_32c933f9e7_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_HMNote5_9.9.24_32c933f9e7_9.0.zip)
-
-[miui_HMNote5_9.9.3_d6316ce86a_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_HMNote5_9.9.3_d6316ce86a_9.0.zip)
-
-[miui_HMNote5_9.8.29_a1169a2192_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_HMNote5_9.8.29_a1169a2192_9.0.zip)
-
-[miui_HMNote5_9.8.28_f1c13e9da4_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_HMNote5_9.8.28_f1c13e9da4_9.0.zip)
-
-[miui_HMNote5_9.8.27_f0f216ffbf_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_HMNote5_9.8.27_f0f216ffbf_9.0.zip)
-
-[miui_HMNote5_9.8.26_74d6afb5bd_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_HMNote5_9.8.26_74d6afb5bd_9.0.zip)
-
-[miui_HMNote5_9.8.22_1137517aa9_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_HMNote5_9.8.22_1137517aa9_9.0.zip)
-
-[miui_HMNote5_9.8.21_543748e68f_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_HMNote5_9.8.21_543748e68f_9.0.zip)
-
-[miui_HMNote5_9.8.20_9a2fc6e3a7_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_HMNote5_9.8.20_9a2fc6e3a7_9.0.zip)
-
-[miui_HMNote5_9.8.15_15c3b75c2d_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_HMNote5_9.8.15_15c3b75c2d_9.0.zip)
-
-[miui_HMNote5_9.8.14_a13fd31230_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_HMNote5_9.8.14_a13fd31230_9.0.zip)
-
-[miui_HMNote5_9.8.13_0d095f212e_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_HMNote5_9.8.13_0d095f212e_9.0.zip)
-
-[miui_HMNote5_9.8.12_ced2c04114_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_HMNote5_9.8.12_ced2c04114_9.0.zip)
-
-[miui_HMNote5_9.8.9_7504df8315_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_HMNote5_9.8.9_7504df8315_9.0.zip)
-
-[miui_HMNote5_9.8.8_afbe798165_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_HMNote5_9.8.8_afbe798165_9.0.zip)
-
-[miui_HMNote5_9.8.7_71b8baab6b_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_HMNote5_9.8.7_71b8baab6b_9.0.zip)
-
-[miui_HMNote5_9.8.6_7941c65ab9_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_HMNote5_9.8.6_7941c65ab9_9.0.zip)
-
-[miui_HMNote5_9.8.5_29cc19fdf2_9.0.zip](https://hugeota.d.miui.com/9.8.5/miui_HMNote5_9.8.5_29cc19fdf2_9.0.zip)
-
-[miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip)
-
-[miui_HMNote5_9.7.31_092b342ec3_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_HMNote5_9.7.31_092b342ec3_9.0.zip)
-
-[miui_HMNote5_9.7.30_299e8fb235_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_HMNote5_9.7.30_299e8fb235_9.0.zip)
-
-[miui_HMNote5_9.7.29_477c3d392f_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_HMNote5_9.7.29_477c3d392f_9.0.zip)
-
-[miui_HMNote5_9.7.25_47efa8a0b5_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_HMNote5_9.7.25_47efa8a0b5_9.0.zip)
-
+| Redmi Note 5  开发版/内测版    |
+| ---- |
+| [miui_HMNote5_20.5.11_9a0015c76a_9.0.zip](https://hugeota.d.miui.com/20.5.11/miui_HMNote5_20.5.11_9a0015c76a_9.0.zip)    |
+| [miui_HMNote5_20.5.7_76871b1c98_9.0.zip](https://hugeota.d.miui.com/20.5.7/miui_HMNote5_20.5.7_76871b1c98_9.0.zip)    |
+| [miui_HMNote5_20.5.6_19fb5c2bd5_9.0.zip](https://hugeota.d.miui.com/20.5.6/miui_HMNote5_20.5.6_19fb5c2bd5_9.0.zip)    |
+| [miui_HMNote5_20.4.30_cc68aecfd3_9.0.zip](https://hugeota.d.miui.com/20.4.30/miui_HMNote5_20.4.30_cc68aecfd3_9.0.zip)    |
+| [miui_HMNote5_20.4.29_9ec49b89ba_9.0.zip](https://hugeota.d.miui.com/20.4.29/miui_HMNote5_20.4.29_9ec49b89ba_9.0.zip)    |
+| [miui_HMNote5_20.4.28_ed909f0c45_9.0.zip](https://hugeota.d.miui.com/20.4.28/miui_HMNote5_20.4.28_ed909f0c45_9.0.zip)    |
+| [miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip](https://hugeota.d.miui.com/20.4.27/miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip)    |
+| [miui_HMNote5_20.3.26_667fc78b08_9.0.zip](https://hugeota.d.miui.com/20.3.26/miui_HMNote5_20.3.26_667fc78b08_9.0.zip)    |
+| [miui_HMNote5_20.3.25_8bda0cd1c6_9.0.zip](https://hugeota.d.miui.com/20.3.25/miui_HMNote5_20.3.25_8bda0cd1c6_9.0.zip)    |
+| [miui_HMNote5_20.3.24_744e408473_9.0.zip](https://hugeota.d.miui.com/20.3.24/miui_HMNote5_20.3.24_744e408473_9.0.zip)    |
+| [miui_HMNote5_20.3.23_756ede7e04_9.0.zip](https://hugeota.d.miui.com/20.3.23/miui_HMNote5_20.3.23_756ede7e04_9.0.zip)    |
+| [miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip](https://hugeota.d.miui.com/20.3.19/miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip)    |
+| [miui_HMNote5_20.3.18_88bf5367f9_9.0.zip](https://hugeota.d.miui.com/20.3.18/miui_HMNote5_20.3.18_88bf5367f9_9.0.zip)    |
+| [miui_HMNote5_20.3.17_25126cb913_9.0.zip](https://hugeota.d.miui.com/20.3.17/miui_HMNote5_20.3.17_25126cb913_9.0.zip)    |
+| [miui_HMNote5_20.3.16_27a3195961_9.0.zip](https://hugeota.d.miui.com/20.3.16/miui_HMNote5_20.3.16_27a3195961_9.0.zip)    |
+| [miui_HMNote5_20.3.12_892f2f7468_9.0.zip](https://hugeota.d.miui.com/20.3.12/miui_HMNote5_20.3.12_892f2f7468_9.0.zip)    |
+| [miui_HMNote5_20.3.11_421f79fad0_9.0.zip](https://hugeota.d.miui.com/20.3.11/miui_HMNote5_20.3.11_421f79fad0_9.0.zip)    |
+| [miui_HMNote5_20.3.10_e6ec8d8e6a_9.0.zip](https://hugeota.d.miui.com/20.3.10/miui_HMNote5_20.3.10_e6ec8d8e6a_9.0.zip)    |
+| [miui_HMNote5_20.3.9_9d95677734_9.0.zip](https://hugeota.d.miui.com/20.3.9/miui_HMNote5_20.3.9_9d95677734_9.0.zip)    |
+| [miui_HMNote5_20.3.5_2683fb23ae_9.0.zip](https://hugeota.d.miui.com/20.3.5/miui_HMNote5_20.3.5_2683fb23ae_9.0.zip)    |
+| [miui_HMNote5_20.3.3_21bbbd0cd2_9.0.zip](https://hugeota.d.miui.com/20.3.3/miui_HMNote5_20.3.3_21bbbd0cd2_9.0.zip)    |
+| [miui_HMNote5_20.3.2_8ddf09b55d_9.0.zip](https://hugeota.d.miui.com/20.3.2/miui_HMNote5_20.3.2_8ddf09b55d_9.0.zip)    |
+| [miui_HMNote5_20.2.27_fa42771ce5_9.0.zip](https://hugeota.d.miui.com/20.2.27/miui_HMNote5_20.2.27_fa42771ce5_9.0.zip)    |
+| [miui_HMNote5_20.2.26_8ac94f510d_9.0.zip](https://hugeota.d.miui.com/20.2.26/miui_HMNote5_20.2.26_8ac94f510d_9.0.zip)    |
+| [miui_HMNote5_20.2.25_5391d5d364_9.0.zip](https://hugeota.d.miui.com/20.2.25/miui_HMNote5_20.2.25_5391d5d364_9.0.zip)    |
+| [miui_HMNote5_20.1.16_0c91f722ae_9.0.zip](https://hugeota.d.miui.com/20.1.16/miui_HMNote5_20.1.16_0c91f722ae_9.0.zip)    |
+| [miui_HMNote5_20.1.15_00934844c3_9.0.zip](https://hugeota.d.miui.com/20.1.15/miui_HMNote5_20.1.15_00934844c3_9.0.zip)    |
+| [miui_HMNote5_20.1.14_3e763afe92_9.0.zip](https://hugeota.d.miui.com/20.1.14/miui_HMNote5_20.1.14_3e763afe92_9.0.zip)    |
+| [miui_HMNote5_20.1.13_8520a0875e_9.0.zip](https://hugeota.d.miui.com/20.1.13/miui_HMNote5_20.1.13_8520a0875e_9.0.zip)    |
+| [miui_HMNote5_20.1.9_e141423746_9.0.zip](https://hugeota.d.miui.com/20.1.9/miui_HMNote5_20.1.9_e141423746_9.0.zip)    |
+| [miui_HMNote5_20.1.8_b3ffbf957c_9.0.zip](https://hugeota.d.miui.com/20.1.8/miui_HMNote5_20.1.8_b3ffbf957c_9.0.zip)    |
+| [miui_HMNote5_20.1.7_a3e7adf6af_9.0.zip](https://hugeota.d.miui.com/20.1.7/miui_HMNote5_20.1.7_a3e7adf6af_9.0.zip)    |
+| [miui_HMNote5_20.1.6_aeb2d84adc_9.0.zip](https://hugeota.d.miui.com/20.1.6/miui_HMNote5_20.1.6_aeb2d84adc_9.0.zip)    |
+| [miui_HMNote5_20.1.2_ef99f1e4a9_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_HMNote5_20.1.2_ef99f1e4a9_9.0.zip)    |
+| [miui_HMNote5_9.12.31_96e61c0ef3_9.0.zip](https://hugeota.d.miui.com/9.12.31/miui_HMNote5_9.12.31_96e61c0ef3_9.0.zip)    |
+| [miui_HMNote5_9.12.30_95891da9a3_9.0.zip](https://hugeota.d.miui.com/9.12.30/miui_HMNote5_9.12.30_95891da9a3_9.0.zip)    |
+| [miui_HMNote5_9.12.26_2589493d71_9.0.zip](https://hugeota.d.miui.com/9.12.26/miui_HMNote5_9.12.26_2589493d71_9.0.zip)    |
+| [miui_HMNote5_9.12.25_21d256a573_9.0.zip](https://hugeota.d.miui.com/9.12.25/miui_HMNote5_9.12.25_21d256a573_9.0.zip)    |
+| [miui_HMNote5_9.12.24_917efa3e21_9.0.zip](https://hugeota.d.miui.com/9.12.24/miui_HMNote5_9.12.24_917efa3e21_9.0.zip)    |
+| [miui_HMNote5_9.12.23_7345be12a2_9.0.zip](https://hugeota.d.miui.com/9.12.23/miui_HMNote5_9.12.23_7345be12a2_9.0.zip)    |
+| [miui_HMNote5_9.12.19_d6395618ed_9.0.zip](https://hugeota.d.miui.com/9.12.19/miui_HMNote5_9.12.19_d6395618ed_9.0.zip)    |
+| [miui_HMNote5_9.12.18_90d3320fbd_9.0.zip](https://hugeota.d.miui.com/9.12.18/miui_HMNote5_9.12.18_90d3320fbd_9.0.zip)    |
+| [miui_HMNote5_9.12.17_97813d2b15_9.0.zip](https://hugeota.d.miui.com/9.12.17/miui_HMNote5_9.12.17_97813d2b15_9.0.zip)    |
+| [miui_HMNote5_9.12.16_a5e736ac6c_9.0.zip](https://hugeota.d.miui.com/9.12.16/miui_HMNote5_9.12.16_a5e736ac6c_9.0.zip)    |
+| [miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip](https://hugeota.d.miui.com/9.12.12/miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip)    |
+| [miui_HMNote5_9.12.11_3e140e66ea_9.0.zip](https://hugeota.d.miui.com/9.12.11/miui_HMNote5_9.12.11_3e140e66ea_9.0.zip)    |
+| [miui_HMNote5_9.12.10_de971661d5_9.0.zip](https://hugeota.d.miui.com/9.12.10/miui_HMNote5_9.12.10_de971661d5_9.0.zip)    |
+| [miui_HMNote5_9.12.9_d3e8cb73b2_9.0.zip](https://hugeota.d.miui.com/9.12.9/miui_HMNote5_9.12.9_d3e8cb73b2_9.0.zip)    |
+| [miui_HMNote5_9.12.5_6e33453956_9.0.zip](https://hugeota.d.miui.com/9.12.5/miui_HMNote5_9.12.5_6e33453956_9.0.zip)    |
+| [miui_HMNote5_9.12.4_80d2da1692_9.0.zip](https://hugeota.d.miui.com/9.12.4/miui_HMNote5_9.12.4_80d2da1692_9.0.zip)    |
+| [miui_HMNote5_9.12.3_820599c8a3_9.0.zip](https://hugeota.d.miui.com/9.12.3/miui_HMNote5_9.12.3_820599c8a3_9.0.zip)    |
+| [miui_HMNote5_9.12.2_f2f167ead3_9.0.zip](https://hugeota.d.miui.com/9.12.2/miui_HMNote5_9.12.2_f2f167ead3_9.0.zip)    |
+| [miui_HMNote5_9.11.28_7fd7bf27c9_9.0.zip](https://hugeota.d.miui.com/9.11.28/miui_HMNote5_9.11.28_7fd7bf27c9_9.0.zip)    |
+| [miui_HMNote5_9.11.27_19962672dc_9.0.zip](https://hugeota.d.miui.com/9.11.27/miui_HMNote5_9.11.27_19962672dc_9.0.zip)    |
+| [miui_HMNote5_9.11.26_5fb728ff5c_9.0.zip](https://hugeota.d.miui.com/9.11.26/miui_HMNote5_9.11.26_5fb728ff5c_9.0.zip)    |
+| [miui_HMNote5_9.11.25_e6e12aae9d_9.0.zip](https://hugeota.d.miui.com/9.11.25/miui_HMNote5_9.11.25_e6e12aae9d_9.0.zip)    |
+| [miui_HMNote5_9.11.21_e80cc983b5_9.0.zip](https://hugeota.d.miui.com/9.11.21/miui_HMNote5_9.11.21_e80cc983b5_9.0.zip)    |
+| [miui_HMNote5_9.11.20_61a5358ce8_9.0.zip](https://hugeota.d.miui.com/9.11.20/miui_HMNote5_9.11.20_61a5358ce8_9.0.zip)    |
+| [miui_HMNote5_9.11.13_a13e25bd36_9.0.zip](https://hugeota.d.miui.com/9.11.13/miui_HMNote5_9.11.13_a13e25bd36_9.0.zip)    |
+| [miui_HMNote5_9.11.12_a3f9ff6f77_9.0.zip](https://hugeota.d.miui.com/9.11.12/miui_HMNote5_9.11.12_a3f9ff6f77_9.0.zip)    |
+| [miui_HMNote5_9.11.11_4379958f78_9.0.zip](https://hugeota.d.miui.com/9.11.11/miui_HMNote5_9.11.11_4379958f78_9.0.zip)    |
+| [miui_HMNote5_9.11.7_401b7cf985_9.0.zip](https://hugeota.d.miui.com/9.11.7/miui_HMNote5_9.11.7_401b7cf985_9.0.zip)    |
+| [miui_HMNote5_9.11.6_d3a415059b_9.0.zip](https://hugeota.d.miui.com/9.11.6/miui_HMNote5_9.11.6_d3a415059b_9.0.zip)    |
+| [miui_HMNote5_9.11.4_c5859f5b7c_9.0.zip](https://hugeota.d.miui.com/9.11.4/miui_HMNote5_9.11.4_c5859f5b7c_9.0.zip)    |
+| [miui_HMNote5_9.10.31_bc671e91fc_9.0.zip](https://hugeota.d.miui.com/9.10.31/miui_HMNote5_9.10.31_bc671e91fc_9.0.zip)    |
+| [miui_HMNote5_9.10.30_f6ceef9df2_9.0.zip](https://hugeota.d.miui.com/9.10.30/miui_HMNote5_9.10.30_f6ceef9df2_9.0.zip)    |
+| [miui_HMNote5_9.10.29_e92a556474_9.0.zip](https://hugeota.d.miui.com/9.10.29/miui_HMNote5_9.10.29_e92a556474_9.0.zip)    |
+| [miui_HMNote5_9.10.28_184b9f5cdc_9.0.zip](https://hugeota.d.miui.com/9.10.28/miui_HMNote5_9.10.28_184b9f5cdc_9.0.zip)    |
+| [miui_HMNote5_9.10.24_96a38e1700_9.0.zip](https://hugeota.d.miui.com/9.10.24/miui_HMNote5_9.10.24_96a38e1700_9.0.zip)    |
+| [miui_HMNote5_9.10.23_21be753f74_9.0.zip](https://hugeota.d.miui.com/9.10.23/miui_HMNote5_9.10.23_21be753f74_9.0.zip)    |
+| [miui_HMNote5_9.10.21_deaf720773_9.0.zip](https://hugeota.d.miui.com/9.10.21/miui_HMNote5_9.10.21_deaf720773_9.0.zip)    |
+| [miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip](https://hugeota.d.miui.com/9.10.17/miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip)    |
+| [miui_HMNote5_9.10.16_eb65371946_9.0.zip](https://hugeota.d.miui.com/9.10.16/miui_HMNote5_9.10.16_eb65371946_9.0.zip)    |
+| [miui_HMNote5_9.10.15_42ff9138a2_9.0.zip](https://hugeota.d.miui.com/9.10.15/miui_HMNote5_9.10.15_42ff9138a2_9.0.zip)    |
+| [miui_HMNote5_9.10.14_3833851186_9.0.zip](https://hugeota.d.miui.com/9.10.14/miui_HMNote5_9.10.14_3833851186_9.0.zip)    |
+| [miui_HMNote5_9.10.10_9053beb596_9.0.zip](https://hugeota.d.miui.com/9.10.10/miui_HMNote5_9.10.10_9053beb596_9.0.zip)    |
+| [miui_HMNote5_9.10.9_ab86ef0e35_9.0.zip](https://hugeota.d.miui.com/9.10.9/miui_HMNote5_9.10.9_ab86ef0e35_9.0.zip)    |
+| [miui_HMNote5_9.10.8_7044709109_9.0.zip](https://hugeota.d.miui.com/9.10.8/miui_HMNote5_9.10.8_7044709109_9.0.zip)    |
+| [miui_HMNote5_9.9.26_78f6d318be_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_HMNote5_9.9.26_78f6d318be_9.0.zip)    |
+| [miui_HMNote5_9.9.25_d8cea11820_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_HMNote5_9.9.25_d8cea11820_9.0.zip)    |
+| [miui_HMNote5_9.9.24_32c933f9e7_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_HMNote5_9.9.24_32c933f9e7_9.0.zip)    |
+| [miui_HMNote5_9.9.3_d6316ce86a_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_HMNote5_9.9.3_d6316ce86a_9.0.zip)    |
+| [miui_HMNote5_9.8.29_a1169a2192_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_HMNote5_9.8.29_a1169a2192_9.0.zip)    |
+| [miui_HMNote5_9.8.28_f1c13e9da4_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_HMNote5_9.8.28_f1c13e9da4_9.0.zip)    |
+| [miui_HMNote5_9.8.27_f0f216ffbf_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_HMNote5_9.8.27_f0f216ffbf_9.0.zip)    |
+| [miui_HMNote5_9.8.26_74d6afb5bd_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_HMNote5_9.8.26_74d6afb5bd_9.0.zip)    |
+| [miui_HMNote5_9.8.22_1137517aa9_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_HMNote5_9.8.22_1137517aa9_9.0.zip)    |
+| [miui_HMNote5_9.8.21_543748e68f_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_HMNote5_9.8.21_543748e68f_9.0.zip)    |
+| [miui_HMNote5_9.8.20_9a2fc6e3a7_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_HMNote5_9.8.20_9a2fc6e3a7_9.0.zip)    |
+| [miui_HMNote5_9.8.15_15c3b75c2d_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_HMNote5_9.8.15_15c3b75c2d_9.0.zip)    |
+| [miui_HMNote5_9.8.14_a13fd31230_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_HMNote5_9.8.14_a13fd31230_9.0.zip)    |
+| [miui_HMNote5_9.8.13_0d095f212e_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_HMNote5_9.8.13_0d095f212e_9.0.zip)    |
+| [miui_HMNote5_9.8.12_ced2c04114_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_HMNote5_9.8.12_ced2c04114_9.0.zip)    |
+| [miui_HMNote5_9.8.9_7504df8315_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_HMNote5_9.8.9_7504df8315_9.0.zip)    |
+| [miui_HMNote5_9.8.8_afbe798165_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_HMNote5_9.8.8_afbe798165_9.0.zip)    |
+| [miui_HMNote5_9.8.7_71b8baab6b_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_HMNote5_9.8.7_71b8baab6b_9.0.zip)    |
+| [miui_HMNote5_9.8.6_7941c65ab9_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_HMNote5_9.8.6_7941c65ab9_9.0.zip)    |
+| [miui_HMNote5_9.8.5_29cc19fdf2_9.0.zip](https://hugeota.d.miui.com/9.8.5/miui_HMNote5_9.8.5_29cc19fdf2_9.0.zip)    |
+| [miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip)    |
+| [miui_HMNote5_9.7.31_092b342ec3_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_HMNote5_9.7.31_092b342ec3_9.0.zip)    |
+| [miui_HMNote5_9.7.30_299e8fb235_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_HMNote5_9.7.30_299e8fb235_9.0.zip)    |
+| [miui_HMNote5_9.7.29_477c3d392f_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_HMNote5_9.7.29_477c3d392f_9.0.zip)    |
+| [miui_HMNote5_9.7.25_47efa8a0b5_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_HMNote5_9.7.25_47efa8a0b5_9.0.zip)    |

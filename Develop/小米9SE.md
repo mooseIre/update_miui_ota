@@ -1,268 +1,135 @@
-### 小米9SE  开发版/内测版
-
-[miui_GRUS_20.5.11_a5ccbfeb07_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_GRUS_20.5.11_a5ccbfeb07_10.0.zip)
-
-[miui_GRUS_20.5.7_311b85a913_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_GRUS_20.5.7_311b85a913_10.0.zip)
-
-[miui_GRUS_20.5.6_0d0b672907_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_GRUS_20.5.6_0d0b672907_10.0.zip)
-
-[miui_GRUS_20.4.30_0050fb930a_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_GRUS_20.4.30_0050fb930a_10.0.zip)
-
-[miui_GRUS_20.4.28_27c4288f6c_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_GRUS_20.4.28_27c4288f6c_10.0.zip)
-
-[miui_GRUS_20.4.27_ab6a1191ff_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_GRUS_20.4.27_ab6a1191ff_10.0.zip)
-
-[miui_GRUS_20.3.26_176a1ef3cd_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_GRUS_20.3.26_176a1ef3cd_10.0.zip)
-
-[miui_GRUS_20.3.25_57a2631ce4_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_GRUS_20.3.25_57a2631ce4_10.0.zip)
-
-[miui_GRUS_20.3.24_2dc31ef57a_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_GRUS_20.3.24_2dc31ef57a_10.0.zip)
-
-[miui_GRUS_20.3.23_f8c5636aa2_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_GRUS_20.3.23_f8c5636aa2_10.0.zip)
-
-[miui_GRUS_20.3.19_6bdc1ab5b6_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_GRUS_20.3.19_6bdc1ab5b6_10.0.zip)
-
-[miui_GRUS_20.3.18_c4210977f9_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_GRUS_20.3.18_c4210977f9_10.0.zip)
-
-[miui_GRUS_20.3.17_bdb757bd7b_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_GRUS_20.3.17_bdb757bd7b_10.0.zip)
-
-[miui_GRUS_20.3.16_72ade905c9_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_GRUS_20.3.16_72ade905c9_10.0.zip)
-
-[miui_GRUS_20.3.12_793066b41a_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_GRUS_20.3.12_793066b41a_10.0.zip)
-
-[miui_GRUS_20.3.11_16b89866f4_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_GRUS_20.3.11_16b89866f4_10.0.zip)
-
-[miui_GRUS_20.3.10_3e569ae419_10.0.zip](https://hugeota.d.miui.com/20.3.10/miui_GRUS_20.3.10_3e569ae419_10.0.zip)
-
-[miui_GRUS_20.3.9_9b5c6a8047_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_GRUS_20.3.9_9b5c6a8047_10.0.zip)
-
-[miui_GRUS_20.3.5_1c16355a5c_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_GRUS_20.3.5_1c16355a5c_10.0.zip)
-
-[miui_GRUS_20.3.4_3e9be86f87_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_GRUS_20.3.4_3e9be86f87_10.0.zip)
-
-[miui_GRUS_20.2.27_ac93e25c4a_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_GRUS_20.2.27_ac93e25c4a_10.0.zip)
-
-[miui_GRUS_20.2.26_1f31384830_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_GRUS_20.2.26_1f31384830_10.0.zip)
-
-[miui_GRUS_20.2.25_f6e836e4a1_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_GRUS_20.2.25_f6e836e4a1_10.0.zip)
-
-[miui_GRUS_20.2.17_a5121a312a_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_GRUS_20.2.17_a5121a312a_10.0.zip)
-
-[miui_GRUS_20.1.21_7f6b7d517f_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_GRUS_20.1.21_7f6b7d517f_10.0.zip)
-
-[miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip)
-
-[miui_GRUS_20.1.15_da95b1b573_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_GRUS_20.1.15_da95b1b573_10.0.zip)
-
-[miui_GRUS_20.1.14_7dbb686a14_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_GRUS_20.1.14_7dbb686a14_10.0.zip)
-
-[miui_GRUS_20.1.13_02b8f932c1_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_GRUS_20.1.13_02b8f932c1_10.0.zip)
-
-[miui_GRUS_20.1.9_5649488887_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_GRUS_20.1.9_5649488887_10.0.zip)
-
-[miui_GRUS_20.1.8_219458daab_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_GRUS_20.1.8_219458daab_10.0.zip)
-
-[miui_GRUS_20.1.7_a60516c82c_10.0.zip](https://hugeota.d.miui.com/20.1.7/miui_GRUS_20.1.7_a60516c82c_10.0.zip)
-
-[miui_GRUS_20.1.2_a5abaf5e58_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_GRUS_20.1.2_a5abaf5e58_10.0.zip)
-
-[miui_GRUS_9.12.31_80cf53670c_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_GRUS_9.12.31_80cf53670c_10.0.zip)
-
-[miui_GRUS_9.12.30_a4224f243b_10.0.zip](https://hugeota.d.miui.com/9.12.30/miui_GRUS_9.12.30_a4224f243b_10.0.zip)
-
-[miui_GRUS_9.12.26_3c8bb9dacd_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_GRUS_9.12.26_3c8bb9dacd_10.0.zip)
-
-[miui_GRUS_9.12.25_e89cb02a71_10.0.zip](https://hugeota.d.miui.com/9.12.25/miui_GRUS_9.12.25_e89cb02a71_10.0.zip)
-
-[miui_GRUS_9.12.24_9f1d67f968_10.0.zip](https://hugeota.d.miui.com/9.12.24/miui_GRUS_9.12.24_9f1d67f968_10.0.zip)
-
-[miui_GRUS_9.12.23_38e24a5707_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_GRUS_9.12.23_38e24a5707_10.0.zip)
-
-[miui_GRUS_9.12.19_801b60bb4b_10.0.zip](https://hugeota.d.miui.com/9.12.19/miui_GRUS_9.12.19_801b60bb4b_10.0.zip)
-
-[miui_GRUS_9.12.18_796268a5b1_10.0.zip](https://hugeota.d.miui.com/9.12.18/miui_GRUS_9.12.18_796268a5b1_10.0.zip)
-
-[miui_GRUS_9.12.17_dc656c21cc_10.0.zip](https://hugeota.d.miui.com/9.12.17/miui_GRUS_9.12.17_dc656c21cc_10.0.zip)
-
-[miui_GRUS_9.12.16_4bd6aea690_10.0.zip](https://hugeota.d.miui.com/9.12.16/miui_GRUS_9.12.16_4bd6aea690_10.0.zip)
-
-[miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip](https://hugeota.d.miui.com/9.12.12/miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip)
-
-[miui_GRUS_9.12.10_c027721d94_10.0.zip](https://hugeota.d.miui.com/9.12.10/miui_GRUS_9.12.10_c027721d94_10.0.zip)
-
-[miui_GRUS_9.12.6_f1036bb8c8_10.0.zip](https://hugeota.d.miui.com/9.12.6/miui_GRUS_9.12.6_f1036bb8c8_10.0.zip)
-
-[miui_GRUS_9.12.5_e839b0eb19_10.0.zip](https://hugeota.d.miui.com/9.12.5/miui_GRUS_9.12.5_e839b0eb19_10.0.zip)
-
-[miui_GRUS_9.12.4_51a7223ca5_10.0.zip](https://hugeota.d.miui.com/9.12.4/miui_GRUS_9.12.4_51a7223ca5_10.0.zip)
-
-[miui_GRUS_9.11.28_6073fa9618_10.0.zip](https://hugeota.d.miui.com/9.11.28/miui_GRUS_9.11.28_6073fa9618_10.0.zip)
-
-[miui_GRUS_9.11.27_40bb758d6c_10.0.zip](https://hugeota.d.miui.com/9.11.27/miui_GRUS_9.11.27_40bb758d6c_10.0.zip)
-
-[miui_GRUS_9.11.26_2aa3eb043c_10.0.zip](https://hugeota.d.miui.com/9.11.26/miui_GRUS_9.11.26_2aa3eb043c_10.0.zip)
-
-[miui_GRUS_9.11.25_e66147ca11_10.0.zip](https://hugeota.d.miui.com/9.11.25/miui_GRUS_9.11.25_e66147ca11_10.0.zip)
-
-[miui_GRUS_9.11.22_822cb7b008_10.0.zip](https://hugeota.d.miui.com/9.11.22/miui_GRUS_9.11.22_822cb7b008_10.0.zip)
-
-[miui_GRUS_9.11.21_35eeb343c4_10.0.zip](https://hugeota.d.miui.com/9.11.21/miui_GRUS_9.11.21_35eeb343c4_10.0.zip)
-
-[miui_GRUS_9.11.20_0269b1e8d5_10.0.zip](https://hugeota.d.miui.com/9.11.20/miui_GRUS_9.11.20_0269b1e8d5_10.0.zip)
-
-[miui_GRUS_9.11.19_b2930481a2_10.0.zip](https://hugeota.d.miui.com/9.11.19/miui_GRUS_9.11.19_b2930481a2_10.0.zip)
-
-[miui_GRUS_9.11.18_ee99df4005_10.0.zip](https://hugeota.d.miui.com/9.11.18/miui_GRUS_9.11.18_ee99df4005_10.0.zip)
-
-[miui_GRUS_9.11.14_df74ea5740_10.0.zip](https://hugeota.d.miui.com/9.11.14/miui_GRUS_9.11.14_df74ea5740_10.0.zip)
-
-[miui_GRUS_9.11.13_c8c0cc5839_10.0.zip](https://hugeota.d.miui.com/9.11.13/miui_GRUS_9.11.13_c8c0cc5839_10.0.zip)
-
-[miui_GRUS_9.11.12_786456f486_10.0.zip](https://hugeota.d.miui.com/9.11.12/miui_GRUS_9.11.12_786456f486_10.0.zip)
-
-[miui_GRUS_9.11.11_ab19bf35c2_10.0.zip](https://hugeota.d.miui.com/9.11.11/miui_GRUS_9.11.11_ab19bf35c2_10.0.zip)
-
-[miui_GRUS_9.11.7_795858c4cd_10.0.zip](https://hugeota.d.miui.com/9.11.7/miui_GRUS_9.11.7_795858c4cd_10.0.zip)
-
-[miui_GRUS_9.11.6_ad21f2b718_10.0.zip](https://hugeota.d.miui.com/9.11.6/miui_GRUS_9.11.6_ad21f2b718_10.0.zip)
-
-[miui_GRUS_9.11.5_26973011da_10.0.zip](https://hugeota.d.miui.com/9.11.5/miui_GRUS_9.11.5_26973011da_10.0.zip)
-
-[miui_GRUS_9.11.4_315d30f8dd_10.0.zip](https://hugeota.d.miui.com/9.11.4/miui_GRUS_9.11.4_315d30f8dd_10.0.zip)
-
-[miui_GRUS_9.10.31_c4ea494234_10.0.zip](https://hugeota.d.miui.com/9.10.31/miui_GRUS_9.10.31_c4ea494234_10.0.zip)
-
-[miui_GRUS_9.10.30_a41c73f7a8_10.0.zip](https://hugeota.d.miui.com/9.10.30/miui_GRUS_9.10.30_a41c73f7a8_10.0.zip)
-
-[miui_GRUS_9.10.29_058121ad3c_10.0.zip](https://hugeota.d.miui.com/9.10.29/miui_GRUS_9.10.29_058121ad3c_10.0.zip)
-
-[miui_GRUS_9.10.28_85d5c2bbe0_10.0.zip](https://hugeota.d.miui.com/9.10.28/miui_GRUS_9.10.28_85d5c2bbe0_10.0.zip)
-
-[miui_GRUS_9.10.24_04e12dfdd9_10.0.zip](https://hugeota.d.miui.com/9.10.24/miui_GRUS_9.10.24_04e12dfdd9_10.0.zip)
-
-[miui_GRUS_9.10.23_3a87a09f16_10.0.zip](https://hugeota.d.miui.com/9.10.23/miui_GRUS_9.10.23_3a87a09f16_10.0.zip)
-
-[miui_GRUS_9.10.21_d6e475daa8_10.0.zip](https://hugeota.d.miui.com/9.10.21/miui_GRUS_9.10.21_d6e475daa8_10.0.zip)
-
-[miui_GRUS_9.10.17_009316e931_10.0.zip](https://hugeota.d.miui.com/9.10.17/miui_GRUS_9.10.17_009316e931_10.0.zip)
-
-[miui_GRUS_9.10.16_bb4798d42c_10.0.zip](https://hugeota.d.miui.com/9.10.16/miui_GRUS_9.10.16_bb4798d42c_10.0.zip)
-
-[miui_GRUS_9.9.27_dc25835260_9.0.zip](https://hugeota.d.miui.com/9.9.27/miui_GRUS_9.9.27_dc25835260_9.0.zip)
-
-[miui_GRUS_9.9.26_bbf36d803f_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_GRUS_9.9.26_bbf36d803f_9.0.zip)
-
-[miui_GRUS_9.9.25_9ee836deb9_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_GRUS_9.9.25_9ee836deb9_9.0.zip)
-
-[miui_GRUS_9.9.24_d0f95dc300_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_GRUS_9.9.24_d0f95dc300_9.0.zip)
-
-[miui_GRUS_9.9.3_22e12a913a_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_GRUS_9.9.3_22e12a913a_9.0.zip)
-
-[miui_GRUS_9.8.29_e7bb5fef54_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_GRUS_9.8.29_e7bb5fef54_9.0.zip)
-
-[miui_GRUS_9.8.28_70402439de_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_GRUS_9.8.28_70402439de_9.0.zip)
-
-[miui_GRUS_9.8.27_4864276b1b_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_GRUS_9.8.27_4864276b1b_9.0.zip)
-
-[miui_GRUS_9.8.26_b7227f0262_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_GRUS_9.8.26_b7227f0262_9.0.zip)
-
-[miui_GRUS_9.8.22_228cad0405_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_GRUS_9.8.22_228cad0405_9.0.zip)
-
-[miui_GRUS_9.8.21_caf83e0e78_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_GRUS_9.8.21_caf83e0e78_9.0.zip)
-
-[miui_GRUS_9.8.20_f8437441dd_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_GRUS_9.8.20_f8437441dd_9.0.zip)
-
-[miui_GRUS_9.8.19_b697c067c3_9.0.zip](https://hugeota.d.miui.com/9.8.19/miui_GRUS_9.8.19_b697c067c3_9.0.zip)
-
-[miui_GRUS_9.8.15_324d426649_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_GRUS_9.8.15_324d426649_9.0.zip)
-
-[miui_GRUS_9.8.14_192e2dfe12_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_GRUS_9.8.14_192e2dfe12_9.0.zip)
-
-[miui_GRUS_9.8.13_0cd8773956_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_GRUS_9.8.13_0cd8773956_9.0.zip)
-
-[miui_GRUS_9.8.12_ddb6d17975_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_GRUS_9.8.12_ddb6d17975_9.0.zip)
-
-[miui_GRUS_9.8.9_8ce377c7ef_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_GRUS_9.8.9_8ce377c7ef_9.0.zip)
-
-[miui_GRUS_9.8.8_a45534dac4_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_GRUS_9.8.8_a45534dac4_9.0.zip)
-
-[miui_GRUS_9.8.7_bff49e48a9_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_GRUS_9.8.7_bff49e48a9_9.0.zip)
-
-[miui_GRUS_9.8.6_7aa25b0cf3_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_GRUS_9.8.6_7aa25b0cf3_9.0.zip)
-
-[miui_GRUS_9.8.1_a4f5bee229_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_GRUS_9.8.1_a4f5bee229_9.0.zip)
-
-[miui_GRUS_9.7.31_7d62cb68a6_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_GRUS_9.7.31_7d62cb68a6_9.0.zip)
-
-[miui_GRUS_9.7.30_92f1d31011_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_GRUS_9.7.30_92f1d31011_9.0.zip)
-
-[miui_GRUS_9.7.29_3e232232a9_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_GRUS_9.7.29_3e232232a9_9.0.zip)
-
-[miui_GRUS_9.7.25_4a2173b82d_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_GRUS_9.7.25_4a2173b82d_9.0.zip)
-
-[miui_GRUS_9.7.24_d70c5a4bb5_9.0.zip](https://hugeota.d.miui.com/9.7.24/miui_GRUS_9.7.24_d70c5a4bb5_9.0.zip)
-
-[miui_GRUS_9.7.23_4b8fa25349_9.0.zip](https://hugeota.d.miui.com/9.7.23/miui_GRUS_9.7.23_4b8fa25349_9.0.zip)
-
-[miui_GRUS_9.7.22_339f06b606_9.0.zip](https://hugeota.d.miui.com/9.7.22/miui_GRUS_9.7.22_339f06b606_9.0.zip)
-
-[miui_GRUS_9.7.18_6f0a80b812_9.0.zip](https://hugeota.d.miui.com/9.7.18/miui_GRUS_9.7.18_6f0a80b812_9.0.zip)
-
-[miui_GRUS_9.7.16_e833126640_9.0.zip](https://hugeota.d.miui.com/9.7.16/miui_GRUS_9.7.16_e833126640_9.0.zip)
-
-[miui_GRUS_9.7.15_da51ef2e41_9.0.zip](https://hugeota.d.miui.com/9.7.15/miui_GRUS_9.7.15_da51ef2e41_9.0.zip)
-
-[miui_GRUS_9.7.11_9855478e41_9.0.zip](https://hugeota.d.miui.com/9.7.11/miui_GRUS_9.7.11_9855478e41_9.0.zip)
-
-[miui_GRUS_9.7.10_e4c63c1cf7_9.0.zip](https://hugeota.d.miui.com/9.7.10/miui_GRUS_9.7.10_e4c63c1cf7_9.0.zip)
-
-[miui_GRUS_9.7.9_d25617bbba_9.0.zip](https://hugeota.d.miui.com/9.7.9/miui_GRUS_9.7.9_d25617bbba_9.0.zip)
-
-[miui_GRUS_9.7.4_7f921b35fa_9.0.zip](https://hugeota.d.miui.com/9.7.4/miui_GRUS_9.7.4_7f921b35fa_9.0.zip)
-
-[miui_GRUS_9.7.3_0c61a374e2_9.0.zip](https://hugeota.d.miui.com/9.7.3/miui_GRUS_9.7.3_0c61a374e2_9.0.zip)
-
-[miui_GRUS_9.7.2_5d556a363c_9.0.zip](https://hugeota.d.miui.com/9.7.2/miui_GRUS_9.7.2_5d556a363c_9.0.zip)
-
-[miui_GRUS_9.7.1_d29cb8071b_9.0.zip](https://hugeota.d.miui.com/9.7.1/miui_GRUS_9.7.1_d29cb8071b_9.0.zip)
-
-[miui_GRUS_9.6.27_ac6651ab02_9.0.zip](https://hugeota.d.miui.com/9.6.27/miui_GRUS_9.6.27_ac6651ab02_9.0.zip)
-
-[miui_GRUS_9.6.26_86f64ac49a_9.0.zip](https://hugeota.d.miui.com/9.6.26/miui_GRUS_9.6.26_86f64ac49a_9.0.zip)
-
-[miui_GRUS_9.6.25_de13dea42e_9.0.zip](https://hugeota.d.miui.com/9.6.25/miui_GRUS_9.6.25_de13dea42e_9.0.zip)
-
-[miui_GRUS_9.6.24_d2ddf50f2a_9.0.zip](https://hugeota.d.miui.com/9.6.24/miui_GRUS_9.6.24_d2ddf50f2a_9.0.zip)
-
-[miui_GRUS_9.6.20_79988bc6bb_9.0.zip](https://hugeota.d.miui.com/9.6.20/miui_GRUS_9.6.20_79988bc6bb_9.0.zip)
-
-[miui_GRUS_9.6.19_322bfb1b8c_9.0.zip](https://hugeota.d.miui.com/9.6.19/miui_GRUS_9.6.19_322bfb1b8c_9.0.zip)
-
-[miui_GRUS_9.6.18_fb3b49c6fd_9.0.zip](https://hugeota.d.miui.com/9.6.18/miui_GRUS_9.6.18_fb3b49c6fd_9.0.zip)
-
-[miui_GRUS_9.6.17_f73a36f3aa_9.0.zip](https://hugeota.d.miui.com/9.6.17/miui_GRUS_9.6.17_f73a36f3aa_9.0.zip)
-
-[miui_GRUS_9.6.13_b4980ecd04_9.0.zip](https://hugeota.d.miui.com/9.6.13/miui_GRUS_9.6.13_b4980ecd04_9.0.zip)
-
-[miui_GRUS_9.6.12_638f5e3d7f_9.0.zip](https://hugeota.d.miui.com/9.6.12/miui_GRUS_9.6.12_638f5e3d7f_9.0.zip)
-
-[miui_GRUS_9.6.11_2c421a79b9_9.0.zip](https://hugeota.d.miui.com/9.6.11/miui_GRUS_9.6.11_2c421a79b9_9.0.zip)
-
-[miui_GRUS_9.6.10_6191cbad7c_9.0.zip](https://hugeota.d.miui.com/9.6.10/miui_GRUS_9.6.10_6191cbad7c_9.0.zip)
-
-[miui_GRUS_9.6.5_7245e2c7e8_9.0.zip](https://hugeota.d.miui.com/9.6.5/miui_GRUS_9.6.5_7245e2c7e8_9.0.zip)
-
-[miui_GRUS_9.6.4_4265bfc031_9.0.zip](https://hugeota.d.miui.com/9.6.4/miui_GRUS_9.6.4_4265bfc031_9.0.zip)
-
-[miui_GRUS_9.6.3_d003fe0c58_9.0.zip](https://hugeota.d.miui.com/9.6.3/miui_GRUS_9.6.3_d003fe0c58_9.0.zip)
-
-[miui_GRUS_9.5.29_2101e93ed7_9.0.zip](https://hugeota.d.miui.com/9.5.29/miui_GRUS_9.5.29_2101e93ed7_9.0.zip)
-
-[miui_GRUS_9.5.25_7a0cf2f520_9.0.zip](https://hugeota.d.miui.com/9.5.25/miui_GRUS_9.5.25_7a0cf2f520_9.0.zip)
-
-[miui_GRUS_9.5.9_705ee1e0af_9.0.zip](https://hugeota.d.miui.com/9.5.9/miui_GRUS_9.5.9_705ee1e0af_9.0.zip)
-
-[miui_GRUS_9.4.24_b26858b4cf_9.0.zip](https://hugeota.d.miui.com/9.4.24/miui_GRUS_9.4.24_b26858b4cf_9.0.zip)
-
-[miui_GRUS_9.4.18_f984a1f790_9.0.zip](https://hugeota.d.miui.com/9.4.18/miui_GRUS_9.4.18_f984a1f790_9.0.zip)
-
+| 小米9SE  开发版/内测版    |
+| ---- |
+| [miui_GRUS_20.5.11_a5ccbfeb07_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_GRUS_20.5.11_a5ccbfeb07_10.0.zip)    |
+| [miui_GRUS_20.5.7_311b85a913_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_GRUS_20.5.7_311b85a913_10.0.zip)    |
+| [miui_GRUS_20.5.6_0d0b672907_10.0.zip](https://hugeota.d.miui.com/20.5.6/miui_GRUS_20.5.6_0d0b672907_10.0.zip)    |
+| [miui_GRUS_20.4.30_0050fb930a_10.0.zip](https://hugeota.d.miui.com/20.4.30/miui_GRUS_20.4.30_0050fb930a_10.0.zip)    |
+| [miui_GRUS_20.4.28_27c4288f6c_10.0.zip](https://hugeota.d.miui.com/20.4.28/miui_GRUS_20.4.28_27c4288f6c_10.0.zip)    |
+| [miui_GRUS_20.4.27_ab6a1191ff_10.0.zip](https://hugeota.d.miui.com/20.4.27/miui_GRUS_20.4.27_ab6a1191ff_10.0.zip)    |
+| [miui_GRUS_20.3.26_176a1ef3cd_10.0.zip](https://hugeota.d.miui.com/20.3.26/miui_GRUS_20.3.26_176a1ef3cd_10.0.zip)    |
+| [miui_GRUS_20.3.25_57a2631ce4_10.0.zip](https://hugeota.d.miui.com/20.3.25/miui_GRUS_20.3.25_57a2631ce4_10.0.zip)    |
+| [miui_GRUS_20.3.24_2dc31ef57a_10.0.zip](https://hugeota.d.miui.com/20.3.24/miui_GRUS_20.3.24_2dc31ef57a_10.0.zip)    |
+| [miui_GRUS_20.3.23_f8c5636aa2_10.0.zip](https://hugeota.d.miui.com/20.3.23/miui_GRUS_20.3.23_f8c5636aa2_10.0.zip)    |
+| [miui_GRUS_20.3.19_6bdc1ab5b6_10.0.zip](https://hugeota.d.miui.com/20.3.19/miui_GRUS_20.3.19_6bdc1ab5b6_10.0.zip)    |
+| [miui_GRUS_20.3.18_c4210977f9_10.0.zip](https://hugeota.d.miui.com/20.3.18/miui_GRUS_20.3.18_c4210977f9_10.0.zip)    |
+| [miui_GRUS_20.3.17_bdb757bd7b_10.0.zip](https://hugeota.d.miui.com/20.3.17/miui_GRUS_20.3.17_bdb757bd7b_10.0.zip)    |
+| [miui_GRUS_20.3.16_72ade905c9_10.0.zip](https://hugeota.d.miui.com/20.3.16/miui_GRUS_20.3.16_72ade905c9_10.0.zip)    |
+| [miui_GRUS_20.3.12_793066b41a_10.0.zip](https://hugeota.d.miui.com/20.3.12/miui_GRUS_20.3.12_793066b41a_10.0.zip)    |
+| [miui_GRUS_20.3.11_16b89866f4_10.0.zip](https://hugeota.d.miui.com/20.3.11/miui_GRUS_20.3.11_16b89866f4_10.0.zip)    |
+| [miui_GRUS_20.3.10_3e569ae419_10.0.zip](https://hugeota.d.miui.com/20.3.10/miui_GRUS_20.3.10_3e569ae419_10.0.zip)    |
+| [miui_GRUS_20.3.9_9b5c6a8047_10.0.zip](https://hugeota.d.miui.com/20.3.9/miui_GRUS_20.3.9_9b5c6a8047_10.0.zip)    |
+| [miui_GRUS_20.3.5_1c16355a5c_10.0.zip](https://hugeota.d.miui.com/20.3.5/miui_GRUS_20.3.5_1c16355a5c_10.0.zip)    |
+| [miui_GRUS_20.3.4_3e9be86f87_10.0.zip](https://hugeota.d.miui.com/20.3.4/miui_GRUS_20.3.4_3e9be86f87_10.0.zip)    |
+| [miui_GRUS_20.2.27_ac93e25c4a_10.0.zip](https://hugeota.d.miui.com/20.2.27/miui_GRUS_20.2.27_ac93e25c4a_10.0.zip)    |
+| [miui_GRUS_20.2.26_1f31384830_10.0.zip](https://hugeota.d.miui.com/20.2.26/miui_GRUS_20.2.26_1f31384830_10.0.zip)    |
+| [miui_GRUS_20.2.25_f6e836e4a1_10.0.zip](https://hugeota.d.miui.com/20.2.25/miui_GRUS_20.2.25_f6e836e4a1_10.0.zip)    |
+| [miui_GRUS_20.2.17_a5121a312a_10.0.zip](https://hugeota.d.miui.com/20.2.17/miui_GRUS_20.2.17_a5121a312a_10.0.zip)    |
+| [miui_GRUS_20.1.21_7f6b7d517f_10.0.zip](https://hugeota.d.miui.com/20.1.21/miui_GRUS_20.1.21_7f6b7d517f_10.0.zip)    |
+| [miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip](https://hugeota.d.miui.com/20.1.16/miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip)    |
+| [miui_GRUS_20.1.15_da95b1b573_10.0.zip](https://hugeota.d.miui.com/20.1.15/miui_GRUS_20.1.15_da95b1b573_10.0.zip)    |
+| [miui_GRUS_20.1.14_7dbb686a14_10.0.zip](https://hugeota.d.miui.com/20.1.14/miui_GRUS_20.1.14_7dbb686a14_10.0.zip)    |
+| [miui_GRUS_20.1.13_02b8f932c1_10.0.zip](https://hugeota.d.miui.com/20.1.13/miui_GRUS_20.1.13_02b8f932c1_10.0.zip)    |
+| [miui_GRUS_20.1.9_5649488887_10.0.zip](https://hugeota.d.miui.com/20.1.9/miui_GRUS_20.1.9_5649488887_10.0.zip)    |
+| [miui_GRUS_20.1.8_219458daab_10.0.zip](https://hugeota.d.miui.com/20.1.8/miui_GRUS_20.1.8_219458daab_10.0.zip)    |
+| [miui_GRUS_20.1.7_a60516c82c_10.0.zip](https://hugeota.d.miui.com/20.1.7/miui_GRUS_20.1.7_a60516c82c_10.0.zip)    |
+| [miui_GRUS_20.1.2_a5abaf5e58_10.0.zip](https://hugeota.d.miui.com/20.1.2/miui_GRUS_20.1.2_a5abaf5e58_10.0.zip)    |
+| [miui_GRUS_9.12.31_80cf53670c_10.0.zip](https://hugeota.d.miui.com/9.12.31/miui_GRUS_9.12.31_80cf53670c_10.0.zip)    |
+| [miui_GRUS_9.12.30_a4224f243b_10.0.zip](https://hugeota.d.miui.com/9.12.30/miui_GRUS_9.12.30_a4224f243b_10.0.zip)    |
+| [miui_GRUS_9.12.26_3c8bb9dacd_10.0.zip](https://hugeota.d.miui.com/9.12.26/miui_GRUS_9.12.26_3c8bb9dacd_10.0.zip)    |
+| [miui_GRUS_9.12.25_e89cb02a71_10.0.zip](https://hugeota.d.miui.com/9.12.25/miui_GRUS_9.12.25_e89cb02a71_10.0.zip)    |
+| [miui_GRUS_9.12.24_9f1d67f968_10.0.zip](https://hugeota.d.miui.com/9.12.24/miui_GRUS_9.12.24_9f1d67f968_10.0.zip)    |
+| [miui_GRUS_9.12.23_38e24a5707_10.0.zip](https://hugeota.d.miui.com/9.12.23/miui_GRUS_9.12.23_38e24a5707_10.0.zip)    |
+| [miui_GRUS_9.12.19_801b60bb4b_10.0.zip](https://hugeota.d.miui.com/9.12.19/miui_GRUS_9.12.19_801b60bb4b_10.0.zip)    |
+| [miui_GRUS_9.12.18_796268a5b1_10.0.zip](https://hugeota.d.miui.com/9.12.18/miui_GRUS_9.12.18_796268a5b1_10.0.zip)    |
+| [miui_GRUS_9.12.17_dc656c21cc_10.0.zip](https://hugeota.d.miui.com/9.12.17/miui_GRUS_9.12.17_dc656c21cc_10.0.zip)    |
+| [miui_GRUS_9.12.16_4bd6aea690_10.0.zip](https://hugeota.d.miui.com/9.12.16/miui_GRUS_9.12.16_4bd6aea690_10.0.zip)    |
+| [miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip](https://hugeota.d.miui.com/9.12.12/miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip)    |
+| [miui_GRUS_9.12.10_c027721d94_10.0.zip](https://hugeota.d.miui.com/9.12.10/miui_GRUS_9.12.10_c027721d94_10.0.zip)    |
+| [miui_GRUS_9.12.6_f1036bb8c8_10.0.zip](https://hugeota.d.miui.com/9.12.6/miui_GRUS_9.12.6_f1036bb8c8_10.0.zip)    |
+| [miui_GRUS_9.12.5_e839b0eb19_10.0.zip](https://hugeota.d.miui.com/9.12.5/miui_GRUS_9.12.5_e839b0eb19_10.0.zip)    |
+| [miui_GRUS_9.12.4_51a7223ca5_10.0.zip](https://hugeota.d.miui.com/9.12.4/miui_GRUS_9.12.4_51a7223ca5_10.0.zip)    |
+| [miui_GRUS_9.11.28_6073fa9618_10.0.zip](https://hugeota.d.miui.com/9.11.28/miui_GRUS_9.11.28_6073fa9618_10.0.zip)    |
+| [miui_GRUS_9.11.27_40bb758d6c_10.0.zip](https://hugeota.d.miui.com/9.11.27/miui_GRUS_9.11.27_40bb758d6c_10.0.zip)    |
+| [miui_GRUS_9.11.26_2aa3eb043c_10.0.zip](https://hugeota.d.miui.com/9.11.26/miui_GRUS_9.11.26_2aa3eb043c_10.0.zip)    |
+| [miui_GRUS_9.11.25_e66147ca11_10.0.zip](https://hugeota.d.miui.com/9.11.25/miui_GRUS_9.11.25_e66147ca11_10.0.zip)    |
+| [miui_GRUS_9.11.22_822cb7b008_10.0.zip](https://hugeota.d.miui.com/9.11.22/miui_GRUS_9.11.22_822cb7b008_10.0.zip)    |
+| [miui_GRUS_9.11.21_35eeb343c4_10.0.zip](https://hugeota.d.miui.com/9.11.21/miui_GRUS_9.11.21_35eeb343c4_10.0.zip)    |
+| [miui_GRUS_9.11.20_0269b1e8d5_10.0.zip](https://hugeota.d.miui.com/9.11.20/miui_GRUS_9.11.20_0269b1e8d5_10.0.zip)    |
+| [miui_GRUS_9.11.19_b2930481a2_10.0.zip](https://hugeota.d.miui.com/9.11.19/miui_GRUS_9.11.19_b2930481a2_10.0.zip)    |
+| [miui_GRUS_9.11.18_ee99df4005_10.0.zip](https://hugeota.d.miui.com/9.11.18/miui_GRUS_9.11.18_ee99df4005_10.0.zip)    |
+| [miui_GRUS_9.11.14_df74ea5740_10.0.zip](https://hugeota.d.miui.com/9.11.14/miui_GRUS_9.11.14_df74ea5740_10.0.zip)    |
+| [miui_GRUS_9.11.13_c8c0cc5839_10.0.zip](https://hugeota.d.miui.com/9.11.13/miui_GRUS_9.11.13_c8c0cc5839_10.0.zip)    |
+| [miui_GRUS_9.11.12_786456f486_10.0.zip](https://hugeota.d.miui.com/9.11.12/miui_GRUS_9.11.12_786456f486_10.0.zip)    |
+| [miui_GRUS_9.11.11_ab19bf35c2_10.0.zip](https://hugeota.d.miui.com/9.11.11/miui_GRUS_9.11.11_ab19bf35c2_10.0.zip)    |
+| [miui_GRUS_9.11.7_795858c4cd_10.0.zip](https://hugeota.d.miui.com/9.11.7/miui_GRUS_9.11.7_795858c4cd_10.0.zip)    |
+| [miui_GRUS_9.11.6_ad21f2b718_10.0.zip](https://hugeota.d.miui.com/9.11.6/miui_GRUS_9.11.6_ad21f2b718_10.0.zip)    |
+| [miui_GRUS_9.11.5_26973011da_10.0.zip](https://hugeota.d.miui.com/9.11.5/miui_GRUS_9.11.5_26973011da_10.0.zip)    |
+| [miui_GRUS_9.11.4_315d30f8dd_10.0.zip](https://hugeota.d.miui.com/9.11.4/miui_GRUS_9.11.4_315d30f8dd_10.0.zip)    |
+| [miui_GRUS_9.10.31_c4ea494234_10.0.zip](https://hugeota.d.miui.com/9.10.31/miui_GRUS_9.10.31_c4ea494234_10.0.zip)    |
+| [miui_GRUS_9.10.30_a41c73f7a8_10.0.zip](https://hugeota.d.miui.com/9.10.30/miui_GRUS_9.10.30_a41c73f7a8_10.0.zip)    |
+| [miui_GRUS_9.10.29_058121ad3c_10.0.zip](https://hugeota.d.miui.com/9.10.29/miui_GRUS_9.10.29_058121ad3c_10.0.zip)    |
+| [miui_GRUS_9.10.28_85d5c2bbe0_10.0.zip](https://hugeota.d.miui.com/9.10.28/miui_GRUS_9.10.28_85d5c2bbe0_10.0.zip)    |
+| [miui_GRUS_9.10.24_04e12dfdd9_10.0.zip](https://hugeota.d.miui.com/9.10.24/miui_GRUS_9.10.24_04e12dfdd9_10.0.zip)    |
+| [miui_GRUS_9.10.23_3a87a09f16_10.0.zip](https://hugeota.d.miui.com/9.10.23/miui_GRUS_9.10.23_3a87a09f16_10.0.zip)    |
+| [miui_GRUS_9.10.21_d6e475daa8_10.0.zip](https://hugeota.d.miui.com/9.10.21/miui_GRUS_9.10.21_d6e475daa8_10.0.zip)    |
+| [miui_GRUS_9.10.17_009316e931_10.0.zip](https://hugeota.d.miui.com/9.10.17/miui_GRUS_9.10.17_009316e931_10.0.zip)    |
+| [miui_GRUS_9.10.16_bb4798d42c_10.0.zip](https://hugeota.d.miui.com/9.10.16/miui_GRUS_9.10.16_bb4798d42c_10.0.zip)    |
+| [miui_GRUS_9.9.27_dc25835260_9.0.zip](https://hugeota.d.miui.com/9.9.27/miui_GRUS_9.9.27_dc25835260_9.0.zip)    |
+| [miui_GRUS_9.9.26_bbf36d803f_9.0.zip](https://hugeota.d.miui.com/9.9.26/miui_GRUS_9.9.26_bbf36d803f_9.0.zip)    |
+| [miui_GRUS_9.9.25_9ee836deb9_9.0.zip](https://hugeota.d.miui.com/9.9.25/miui_GRUS_9.9.25_9ee836deb9_9.0.zip)    |
+| [miui_GRUS_9.9.24_d0f95dc300_9.0.zip](https://hugeota.d.miui.com/9.9.24/miui_GRUS_9.9.24_d0f95dc300_9.0.zip)    |
+| [miui_GRUS_9.9.3_22e12a913a_9.0.zip](https://hugeota.d.miui.com/9.9.3/miui_GRUS_9.9.3_22e12a913a_9.0.zip)    |
+| [miui_GRUS_9.8.29_e7bb5fef54_9.0.zip](https://hugeota.d.miui.com/9.8.29/miui_GRUS_9.8.29_e7bb5fef54_9.0.zip)    |
+| [miui_GRUS_9.8.28_70402439de_9.0.zip](https://hugeota.d.miui.com/9.8.28/miui_GRUS_9.8.28_70402439de_9.0.zip)    |
+| [miui_GRUS_9.8.27_4864276b1b_9.0.zip](https://hugeota.d.miui.com/9.8.27/miui_GRUS_9.8.27_4864276b1b_9.0.zip)    |
+| [miui_GRUS_9.8.26_b7227f0262_9.0.zip](https://hugeota.d.miui.com/9.8.26/miui_GRUS_9.8.26_b7227f0262_9.0.zip)    |
+| [miui_GRUS_9.8.22_228cad0405_9.0.zip](https://hugeota.d.miui.com/9.8.22/miui_GRUS_9.8.22_228cad0405_9.0.zip)    |
+| [miui_GRUS_9.8.21_caf83e0e78_9.0.zip](https://hugeota.d.miui.com/9.8.21/miui_GRUS_9.8.21_caf83e0e78_9.0.zip)    |
+| [miui_GRUS_9.8.20_f8437441dd_9.0.zip](https://hugeota.d.miui.com/9.8.20/miui_GRUS_9.8.20_f8437441dd_9.0.zip)    |
+| [miui_GRUS_9.8.19_b697c067c3_9.0.zip](https://hugeota.d.miui.com/9.8.19/miui_GRUS_9.8.19_b697c067c3_9.0.zip)    |
+| [miui_GRUS_9.8.15_324d426649_9.0.zip](https://hugeota.d.miui.com/9.8.15/miui_GRUS_9.8.15_324d426649_9.0.zip)    |
+| [miui_GRUS_9.8.14_192e2dfe12_9.0.zip](https://hugeota.d.miui.com/9.8.14/miui_GRUS_9.8.14_192e2dfe12_9.0.zip)    |
+| [miui_GRUS_9.8.13_0cd8773956_9.0.zip](https://hugeota.d.miui.com/9.8.13/miui_GRUS_9.8.13_0cd8773956_9.0.zip)    |
+| [miui_GRUS_9.8.12_ddb6d17975_9.0.zip](https://hugeota.d.miui.com/9.8.12/miui_GRUS_9.8.12_ddb6d17975_9.0.zip)    |
+| [miui_GRUS_9.8.9_8ce377c7ef_9.0.zip](https://hugeota.d.miui.com/9.8.9/miui_GRUS_9.8.9_8ce377c7ef_9.0.zip)    |
+| [miui_GRUS_9.8.8_a45534dac4_9.0.zip](https://hugeota.d.miui.com/9.8.8/miui_GRUS_9.8.8_a45534dac4_9.0.zip)    |
+| [miui_GRUS_9.8.7_bff49e48a9_9.0.zip](https://hugeota.d.miui.com/9.8.7/miui_GRUS_9.8.7_bff49e48a9_9.0.zip)    |
+| [miui_GRUS_9.8.6_7aa25b0cf3_9.0.zip](https://hugeota.d.miui.com/9.8.6/miui_GRUS_9.8.6_7aa25b0cf3_9.0.zip)    |
+| [miui_GRUS_9.8.1_a4f5bee229_9.0.zip](https://hugeota.d.miui.com/9.8.1/miui_GRUS_9.8.1_a4f5bee229_9.0.zip)    |
+| [miui_GRUS_9.7.31_7d62cb68a6_9.0.zip](https://hugeota.d.miui.com/9.7.31/miui_GRUS_9.7.31_7d62cb68a6_9.0.zip)    |
+| [miui_GRUS_9.7.30_92f1d31011_9.0.zip](https://hugeota.d.miui.com/9.7.30/miui_GRUS_9.7.30_92f1d31011_9.0.zip)    |
+| [miui_GRUS_9.7.29_3e232232a9_9.0.zip](https://hugeota.d.miui.com/9.7.29/miui_GRUS_9.7.29_3e232232a9_9.0.zip)    |
+| [miui_GRUS_9.7.25_4a2173b82d_9.0.zip](https://hugeota.d.miui.com/9.7.25/miui_GRUS_9.7.25_4a2173b82d_9.0.zip)    |
+| [miui_GRUS_9.7.24_d70c5a4bb5_9.0.zip](https://hugeota.d.miui.com/9.7.24/miui_GRUS_9.7.24_d70c5a4bb5_9.0.zip)    |
+| [miui_GRUS_9.7.23_4b8fa25349_9.0.zip](https://hugeota.d.miui.com/9.7.23/miui_GRUS_9.7.23_4b8fa25349_9.0.zip)    |
+| [miui_GRUS_9.7.22_339f06b606_9.0.zip](https://hugeota.d.miui.com/9.7.22/miui_GRUS_9.7.22_339f06b606_9.0.zip)    |
+| [miui_GRUS_9.7.18_6f0a80b812_9.0.zip](https://hugeota.d.miui.com/9.7.18/miui_GRUS_9.7.18_6f0a80b812_9.0.zip)    |
+| [miui_GRUS_9.7.16_e833126640_9.0.zip](https://hugeota.d.miui.com/9.7.16/miui_GRUS_9.7.16_e833126640_9.0.zip)    |
+| [miui_GRUS_9.7.15_da51ef2e41_9.0.zip](https://hugeota.d.miui.com/9.7.15/miui_GRUS_9.7.15_da51ef2e41_9.0.zip)    |
+| [miui_GRUS_9.7.11_9855478e41_9.0.zip](https://hugeota.d.miui.com/9.7.11/miui_GRUS_9.7.11_9855478e41_9.0.zip)    |
+| [miui_GRUS_9.7.10_e4c63c1cf7_9.0.zip](https://hugeota.d.miui.com/9.7.10/miui_GRUS_9.7.10_e4c63c1cf7_9.0.zip)    |
+| [miui_GRUS_9.7.9_d25617bbba_9.0.zip](https://hugeota.d.miui.com/9.7.9/miui_GRUS_9.7.9_d25617bbba_9.0.zip)    |
+| [miui_GRUS_9.7.4_7f921b35fa_9.0.zip](https://hugeota.d.miui.com/9.7.4/miui_GRUS_9.7.4_7f921b35fa_9.0.zip)    |
+| [miui_GRUS_9.7.3_0c61a374e2_9.0.zip](https://hugeota.d.miui.com/9.7.3/miui_GRUS_9.7.3_0c61a374e2_9.0.zip)    |
+| [miui_GRUS_9.7.2_5d556a363c_9.0.zip](https://hugeota.d.miui.com/9.7.2/miui_GRUS_9.7.2_5d556a363c_9.0.zip)    |
+| [miui_GRUS_9.7.1_d29cb8071b_9.0.zip](https://hugeota.d.miui.com/9.7.1/miui_GRUS_9.7.1_d29cb8071b_9.0.zip)    |
+| [miui_GRUS_9.6.27_ac6651ab02_9.0.zip](https://hugeota.d.miui.com/9.6.27/miui_GRUS_9.6.27_ac6651ab02_9.0.zip)    |
+| [miui_GRUS_9.6.26_86f64ac49a_9.0.zip](https://hugeota.d.miui.com/9.6.26/miui_GRUS_9.6.26_86f64ac49a_9.0.zip)    |
+| [miui_GRUS_9.6.25_de13dea42e_9.0.zip](https://hugeota.d.miui.com/9.6.25/miui_GRUS_9.6.25_de13dea42e_9.0.zip)    |
+| [miui_GRUS_9.6.24_d2ddf50f2a_9.0.zip](https://hugeota.d.miui.com/9.6.24/miui_GRUS_9.6.24_d2ddf50f2a_9.0.zip)    |
+| [miui_GRUS_9.6.20_79988bc6bb_9.0.zip](https://hugeota.d.miui.com/9.6.20/miui_GRUS_9.6.20_79988bc6bb_9.0.zip)    |
+| [miui_GRUS_9.6.19_322bfb1b8c_9.0.zip](https://hugeota.d.miui.com/9.6.19/miui_GRUS_9.6.19_322bfb1b8c_9.0.zip)    |
+| [miui_GRUS_9.6.18_fb3b49c6fd_9.0.zip](https://hugeota.d.miui.com/9.6.18/miui_GRUS_9.6.18_fb3b49c6fd_9.0.zip)    |
+| [miui_GRUS_9.6.17_f73a36f3aa_9.0.zip](https://hugeota.d.miui.com/9.6.17/miui_GRUS_9.6.17_f73a36f3aa_9.0.zip)    |
+| [miui_GRUS_9.6.13_b4980ecd04_9.0.zip](https://hugeota.d.miui.com/9.6.13/miui_GRUS_9.6.13_b4980ecd04_9.0.zip)    |
+| [miui_GRUS_9.6.12_638f5e3d7f_9.0.zip](https://hugeota.d.miui.com/9.6.12/miui_GRUS_9.6.12_638f5e3d7f_9.0.zip)    |
+| [miui_GRUS_9.6.11_2c421a79b9_9.0.zip](https://hugeota.d.miui.com/9.6.11/miui_GRUS_9.6.11_2c421a79b9_9.0.zip)    |
+| [miui_GRUS_9.6.10_6191cbad7c_9.0.zip](https://hugeota.d.miui.com/9.6.10/miui_GRUS_9.6.10_6191cbad7c_9.0.zip)    |
+| [miui_GRUS_9.6.5_7245e2c7e8_9.0.zip](https://hugeota.d.miui.com/9.6.5/miui_GRUS_9.6.5_7245e2c7e8_9.0.zip)    |
+| [miui_GRUS_9.6.4_4265bfc031_9.0.zip](https://hugeota.d.miui.com/9.6.4/miui_GRUS_9.6.4_4265bfc031_9.0.zip)    |
+| [miui_GRUS_9.6.3_d003fe0c58_9.0.zip](https://hugeota.d.miui.com/9.6.3/miui_GRUS_9.6.3_d003fe0c58_9.0.zip)    |
+| [miui_GRUS_9.5.29_2101e93ed7_9.0.zip](https://hugeota.d.miui.com/9.5.29/miui_GRUS_9.5.29_2101e93ed7_9.0.zip)    |
+| [miui_GRUS_9.5.25_7a0cf2f520_9.0.zip](https://hugeota.d.miui.com/9.5.25/miui_GRUS_9.5.25_7a0cf2f520_9.0.zip)    |
+| [miui_GRUS_9.5.9_705ee1e0af_9.0.zip](https://hugeota.d.miui.com/9.5.9/miui_GRUS_9.5.9_705ee1e0af_9.0.zip)    |
+| [miui_GRUS_9.4.24_b26858b4cf_9.0.zip](https://hugeota.d.miui.com/9.4.24/miui_GRUS_9.4.24_b26858b4cf_9.0.zip)    |
+| [miui_GRUS_9.4.18_f984a1f790_9.0.zip](https://hugeota.d.miui.com/9.4.18/miui_GRUS_9.4.18_f984a1f790_9.0.zip)    |
