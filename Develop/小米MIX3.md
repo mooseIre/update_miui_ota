@@ -1,5 +1,6 @@
 | 小米MIX3  开发版/内测版    |
 | ---- |
+| [miui_MIMIX3_20.5.13_b32bc78896_10.0.zip](https://hugeota.d.miui.com/20.5.13/miui_MIMIX3_20.5.13_b32bc78896_10.0.zip)    |
 | [miui_MIMIX3_20.5.12_df2d092ced_10.0.zip](https://hugeota.d.miui.com/20.5.12/miui_MIMIX3_20.5.12_df2d092ced_10.0.zip)    |
 | [miui_MIMIX3_20.5.11_fbd8a365fc_10.0.zip](https://hugeota.d.miui.com/20.5.11/miui_MIMIX3_20.5.11_fbd8a365fc_10.0.zip)    |
 | [miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip](https://hugeota.d.miui.com/20.5.7/miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip)    |
