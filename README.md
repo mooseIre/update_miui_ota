@@ -17,6 +17,7 @@
 | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   小米10   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)          |
 |   小米10Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)          |
+|   小米10青春版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10青春版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10青春版.md)          |
 |   小米6   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6.md)          |
 |   小米6X   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6X.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6X.md)          |
 |   小米8   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米8.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米8.md)          |
