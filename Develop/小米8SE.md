@@ -1,5 +1,6 @@
 | 小米8SE  开发版/内测版    |
 | ---- |
+| [miui_MI8SE_20.5.18_76a339e565_10.0.zip](https://hugeota.d.miui.com/20.5.18/miui_MI8SE_20.5.18_76a339e565_10.0.zip)    |
 | [miui_MI8SE_20.5.14_eef987a8df_10.0.zip](https://hugeota.d.miui.com/20.5.14/miui_MI8SE_20.5.14_eef987a8df_10.0.zip)    |
 | [miui_MI8SE_20.5.13_4d7f929ea7_10.0.zip](https://hugeota.d.miui.com/20.5.13/miui_MI8SE_20.5.13_4d7f929ea7_10.0.zip)    |
 | [miui_MI8SE_20.5.12_8b2588ddd0_10.0.zip](https://hugeota.d.miui.com/20.5.12/miui_MI8SE_20.5.12_8b2588ddd0_10.0.zip)    |
