@@ -1,5 +1,6 @@
 | 小米Note3  开发版/内测版    |
 | ---- |
+| [miui_MINote3_20.6.1_e557eaa2ae_9.0.zip](https://hugeota.d.miui.com/20.6.1/miui_MINote3_20.6.1_e557eaa2ae_9.0.zip)    |
 | [miui_MINote3_20.5.28_6b0c3b94c8_9.0.zip](https://hugeota.d.miui.com/20.5.28/miui_MINote3_20.5.28_6b0c3b94c8_9.0.zip)    |
 | [miui_MINote3_20.5.26_99af86de0c_9.0.zip](https://hugeota.d.miui.com/20.5.26/miui_MINote3_20.5.26_99af86de0c_9.0.zip)    |
 | [miui_MINote3_20.5.25_8f049689fb_9.0.zip](https://hugeota.d.miui.com/20.5.25/miui_MINote3_20.5.25_8f049689fb_9.0.zip)    |
