@@ -1,5 +1,6 @@
 | 小米MIX2S  开发版/内测版    |
 | ---- |
+| [miui_MIMIX2S_20.6.2_3412d0725d_10.0.zip](https://hugeota.d.miui.com/20.6.2/miui_MIMIX2S_20.6.2_3412d0725d_10.0.zip)    |
 | [miui_MIMIX2S_20.6.1_729b56bf44_10.0.zip](https://hugeota.d.miui.com/20.6.1/miui_MIMIX2S_20.6.1_729b56bf44_10.0.zip)    |
 | [miui_MIMIX2S_20.5.29_3f06f54c27_10.0.zip](https://hugeota.d.miui.com/20.5.29/miui_MIMIX2S_20.5.29_3f06f54c27_10.0.zip)    |
 | [miui_MIMIX2S_20.5.28_20fa7f67d3_10.0.zip](https://hugeota.d.miui.com/20.5.28/miui_MIMIX2S_20.5.28_20fa7f67d3_10.0.zip)    |
