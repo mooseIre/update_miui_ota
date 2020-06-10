@@ -1,5 +1,6 @@
 | Redmi K30 5G  开发版/内测版    |
 | ---- |
+| [miui_PICASSO_20.6.10_82635e88eb_10.0.zip](https://hugeota.d.miui.com/20.6.10/miui_PICASSO_20.6.10_82635e88eb_10.0.zip)    |
 | [miui_PICASSO_20.6.3_0b13c2bb68_10.0.zip](https://hugeota.d.miui.com/20.6.3/miui_PICASSO_20.6.3_0b13c2bb68_10.0.zip)    |
 | [miui_PICASSO_20.6.2_f061e2d020_10.0.zip](https://hugeota.d.miui.com/20.6.2/miui_PICASSO_20.6.2_f061e2d020_10.0.zip)    |
 | [miui_PICASSO_20.6.1_1b70423994_10.0.zip](https://hugeota.d.miui.com/20.6.1/miui_PICASSO_20.6.1_1b70423994_10.0.zip)    |
