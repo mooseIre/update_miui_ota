@@ -1,5 +1,6 @@
 | 小米9Pro 5G  稳定版    |
 | ---- |
+| [miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QFXCNXM/miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip)    |
 | [miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip](https://hugeota.d.miui.com/V11.0.6.0.QFXCNXM/miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip)    |
 | [miui_CRUX_V11.0.4.0.QFXCNXM_d32e8b594f_10.0.zip](https://hugeota.d.miui.com/V11.0.4.0.QFXCNXM/miui_CRUX_V11.0.4.0.QFXCNXM_d32e8b594f_10.0.zip)    |
 | [miui_CRUX_V11.0.3.0.QFXCNXM_58615cc89f_10.0.zip](https://hugeota.d.miui.com/V11.0.3.0.QFXCNXM/miui_CRUX_V11.0.3.0.QFXCNXM_58615cc89f_10.0.zip)    |
