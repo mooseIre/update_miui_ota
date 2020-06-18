@@ -6,6 +6,7 @@
 | [miui_PICASSO_20.6.15_0c7d0f3e7c_10.0.zip](https://hugeota.d.miui.com/20.6.15/miui_PICASSO_20.6.15_0c7d0f3e7c_10.0.zip)    |
 | [miui_PICASSO_20.6.11_186a6727de_10.0.zip](https://hugeota.d.miui.com/20.6.11/miui_PICASSO_20.6.11_186a6727de_10.0.zip)    |
 | [miui_PICASSO_20.6.10_82635e88eb_10.0.zip](https://hugeota.d.miui.com/20.6.10/miui_PICASSO_20.6.10_82635e88eb_10.0.zip)    |
+| [miui_PICASSO_20.6.4_254677e6a9_10.0.zip](https://hugeota.d.miui.com/20.6.4/miui_PICASSO_20.6.4_254677e6a9_10.0.zip)    |
 | [miui_PICASSO_20.6.3_0b13c2bb68_10.0.zip](https://hugeota.d.miui.com/20.6.3/miui_PICASSO_20.6.3_0b13c2bb68_10.0.zip)    |
 | [miui_PICASSO_20.6.2_f061e2d020_10.0.zip](https://hugeota.d.miui.com/20.6.2/miui_PICASSO_20.6.2_f061e2d020_10.0.zip)    |
 | [miui_PICASSO_20.6.1_1b70423994_10.0.zip](https://hugeota.d.miui.com/20.6.1/miui_PICASSO_20.6.1_1b70423994_10.0.zip)    |
