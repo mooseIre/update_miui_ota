@@ -1,5 +1,6 @@
 | Redmi Note 5  开发版/内测版    |
 | ---- |
+| [miui_HMNote5_20.6.18_887af1fbe4_9.0.zip](https://hugeota.d.miui.com/20.6.18/miui_HMNote5_20.6.18_887af1fbe4_9.0.zip)    |
 | [miui_HMNote5_20.6.17_581679288b_9.0.zip](https://hugeota.d.miui.com/20.6.17/miui_HMNote5_20.6.17_581679288b_9.0.zip)    |
 | [miui_HMNote5_20.6.16_d1d6ad36b8_9.0.zip](https://hugeota.d.miui.com/20.6.16/miui_HMNote5_20.6.16_d1d6ad36b8_9.0.zip)    |
 | [miui_HMNote5_20.6.15_c4df1e3144_9.0.zip](https://hugeota.d.miui.com/20.6.15/miui_HMNote5_20.6.15_c4df1e3144_9.0.zip)    |

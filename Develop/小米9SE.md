@@ -1,5 +1,6 @@
 | 小米9SE  开发版/内测版    |
 | ---- |
+| [miui_GRUS_20.6.18_8d3192f883_10.0.zip](https://hugeota.d.miui.com/20.6.18/miui_GRUS_20.6.18_8d3192f883_10.0.zip)    |
 | [miui_GRUS_20.6.17_fc3c391c7a_10.0.zip](https://hugeota.d.miui.com/20.6.17/miui_GRUS_20.6.17_fc3c391c7a_10.0.zip)    |
 | [miui_GRUS_20.6.16_7cbb7fc5b0_10.0.zip](https://hugeota.d.miui.com/20.6.16/miui_GRUS_20.6.16_7cbb7fc5b0_10.0.zip)    |
 | [miui_GRUS_20.6.15_484cd23cd4_10.0.zip](https://hugeota.d.miui.com/20.6.15/miui_GRUS_20.6.15_484cd23cd4_10.0.zip)    |
