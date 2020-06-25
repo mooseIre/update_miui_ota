@@ -1,5 +1,6 @@
 | Redmi Note8  开发版/内测版    |
 | ---- |
+| [miui_GINKGO_20.6.17_50f25d9985_10.0.zip](https://hugeota.d.miui.com/20.6.17/miui_GINKGO_20.6.17_50f25d9985_10.0.zip)    |
 | [miui_GINKGO_20.3.26_45c815e2bf_9.0.zip](https://hugeota.d.miui.com/20.3.26/miui_GINKGO_20.3.26_45c815e2bf_9.0.zip)    |
 | [miui_GINKGO_20.3.25_3de8dd6db0_9.0.zip](https://hugeota.d.miui.com/20.3.25/miui_GINKGO_20.3.25_3de8dd6db0_9.0.zip)    |
 | [miui_GINKGO_20.3.18_3bb022bebc_9.0.zip](https://hugeota.d.miui.com/20.3.18/miui_GINKGO_20.3.18_3bb022bebc_9.0.zip)    |
@@ -25,4 +26,3 @@
 | [miui_GINKGO_20.1.7_bdfb2ff8bb_9.0.zip](https://hugeota.d.miui.com/20.1.7/miui_GINKGO_20.1.7_bdfb2ff8bb_9.0.zip)    |
 | [miui_GINKGO_20.1.3_c262a882cc_9.0.zip](https://hugeota.d.miui.com/20.1.3/miui_GINKGO_20.1.3_c262a882cc_9.0.zip)    |
 | [miui_GINKGO_20.1.2_55eef1616e_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_GINKGO_20.1.2_55eef1616e_9.0.zip)    |
-| [miui_GINKGO_20.6.17_50f25d9985_10.0.zip](https://hugeota.d.miui.com/20.6.17/miui_GINKGO_20.6.17_50f25d9985_10.0.zip)    |

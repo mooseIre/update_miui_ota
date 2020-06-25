@@ -1,19 +1,5 @@
 | 小米CC 9 Pro  开发版/内测版    |
 | ---- |
-| [miui_TUCANA_20.1.15_c884c4632d_9.0.zip](https://hugeota.d.miui.com/20.1.15/miui_TUCANA_20.1.15_c884c4632d_9.0.zip)    |
-| [miui_TUCANA_20.1.9_3240a7f35f_9.0.zip](https://hugeota.d.miui.com/20.1.9/miui_TUCANA_20.1.9_3240a7f35f_9.0.zip)    |
-| [miui_TUCANA_20.1.8_f3ce8acb82_9.0.zip](https://hugeota.d.miui.com/20.1.8/miui_TUCANA_20.1.8_f3ce8acb82_9.0.zip)    |
-| [miui_TUCANA_20.1.2_4215e10bd9_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_TUCANA_20.1.2_4215e10bd9_9.0.zip)    |
-| [miui_TUCANA_9.12.26_ad368678c9_9.0.zip](https://hugeota.d.miui.com/9.12.26/miui_TUCANA_9.12.26_ad368678c9_9.0.zip)    |
-| [miui_TUCANA_9.12.20_65481e674a_9.0.zip](https://hugeota.d.miui.com/9.12.20/miui_TUCANA_9.12.20_65481e674a_9.0.zip)    |
-| [miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip](https://hugeota.d.miui.com/9.12.19/miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip)    |
-| [miui_TUCANA_9.12.17_f3444b9ce2_9.0.zip](https://hugeota.d.miui.com/9.12.17/miui_TUCANA_9.12.17_f3444b9ce2_9.0.zip)    |
-| [miui_TUCANA_9.12.16_c53c164e42_9.0.zip](https://hugeota.d.miui.com/9.12.16/miui_TUCANA_9.12.16_c53c164e42_9.0.zip)    |
-| [miui_TUCANA_9.12.12_28f0aeefca_9.0.zip](https://hugeota.d.miui.com/9.12.12/miui_TUCANA_9.12.12_28f0aeefca_9.0.zip)    |
-| [miui_TUCANA_9.12.11_76d87b3d22_9.0.zip](https://hugeota.d.miui.com/9.12.11/miui_TUCANA_9.12.11_76d87b3d22_9.0.zip)    |
-| [miui_TUCANA_9.12.9_8d77dbf117_9.0.zip](https://hugeota.d.miui.com/9.12.9/miui_TUCANA_9.12.9_8d77dbf117_9.0.zip)    |
-| [miui_TUCANA_9.12.5_2b70682ce5_9.0.zip](https://hugeota.d.miui.com/9.12.5/miui_TUCANA_9.12.5_2b70682ce5_9.0.zip)    |
-| [miui_TUCANA_9.12.2_7a4733df1f_9.0.zip](https://hugeota.d.miui.com/9.12.2/miui_TUCANA_9.12.2_7a4733df1f_9.0.zip)    |
 | [miui_TUCANA_20.6.23_11fabbbd07_10.0.zip](https://hugeota.d.miui.com/20.6.23/miui_TUCANA_20.6.23_11fabbbd07_10.0.zip)    |
 | [miui_TUCANA_20.6.18_04d210326b_10.0.zip](https://hugeota.d.miui.com/20.6.18/miui_TUCANA_20.6.18_04d210326b_10.0.zip)    |
 | [miui_TUCANA_20.6.17_7df276b754_10.0.zip](https://hugeota.d.miui.com/20.6.17/miui_TUCANA_20.6.17_7df276b754_10.0.zip)    |
@@ -66,3 +52,17 @@
 | [miui_TUCANA_20.2.12_02895174da_10.0.zip](https://hugeota.d.miui.com/20.2.12/miui_TUCANA_20.2.12_02895174da_10.0.zip)    |
 | [miui_TUCANA_20.2.11_b92a46b42d_10.0.zip](https://hugeota.d.miui.com/20.2.11/miui_TUCANA_20.2.11_b92a46b42d_10.0.zip)    |
 | [miui_TUCANA_20.2.10_d038038f26_10.0.zip](https://hugeota.d.miui.com/20.2.10/miui_TUCANA_20.2.10_d038038f26_10.0.zip)    |
+| [miui_TUCANA_20.1.15_c884c4632d_9.0.zip](https://hugeota.d.miui.com/20.1.15/miui_TUCANA_20.1.15_c884c4632d_9.0.zip)    |
+| [miui_TUCANA_20.1.9_3240a7f35f_9.0.zip](https://hugeota.d.miui.com/20.1.9/miui_TUCANA_20.1.9_3240a7f35f_9.0.zip)    |
+| [miui_TUCANA_20.1.8_f3ce8acb82_9.0.zip](https://hugeota.d.miui.com/20.1.8/miui_TUCANA_20.1.8_f3ce8acb82_9.0.zip)    |
+| [miui_TUCANA_20.1.2_4215e10bd9_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_TUCANA_20.1.2_4215e10bd9_9.0.zip)    |
+| [miui_TUCANA_9.12.26_ad368678c9_9.0.zip](https://hugeota.d.miui.com/9.12.26/miui_TUCANA_9.12.26_ad368678c9_9.0.zip)    |
+| [miui_TUCANA_9.12.20_65481e674a_9.0.zip](https://hugeota.d.miui.com/9.12.20/miui_TUCANA_9.12.20_65481e674a_9.0.zip)    |
+| [miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip](https://hugeota.d.miui.com/9.12.19/miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip)    |
+| [miui_TUCANA_9.12.17_f3444b9ce2_9.0.zip](https://hugeota.d.miui.com/9.12.17/miui_TUCANA_9.12.17_f3444b9ce2_9.0.zip)    |
+| [miui_TUCANA_9.12.16_c53c164e42_9.0.zip](https://hugeota.d.miui.com/9.12.16/miui_TUCANA_9.12.16_c53c164e42_9.0.zip)    |
+| [miui_TUCANA_9.12.12_28f0aeefca_9.0.zip](https://hugeota.d.miui.com/9.12.12/miui_TUCANA_9.12.12_28f0aeefca_9.0.zip)    |
+| [miui_TUCANA_9.12.11_76d87b3d22_9.0.zip](https://hugeota.d.miui.com/9.12.11/miui_TUCANA_9.12.11_76d87b3d22_9.0.zip)    |
+| [miui_TUCANA_9.12.9_8d77dbf117_9.0.zip](https://hugeota.d.miui.com/9.12.9/miui_TUCANA_9.12.9_8d77dbf117_9.0.zip)    |
+| [miui_TUCANA_9.12.5_2b70682ce5_9.0.zip](https://hugeota.d.miui.com/9.12.5/miui_TUCANA_9.12.5_2b70682ce5_9.0.zip)    |
+| [miui_TUCANA_9.12.2_7a4733df1f_9.0.zip](https://hugeota.d.miui.com/9.12.2/miui_TUCANA_9.12.2_7a4733df1f_9.0.zip)    |
