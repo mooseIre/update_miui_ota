@@ -1,9 +1,9 @@
 | 小米CC 9 Pro  稳定版    |
 | ---- |
-| [miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip](https://hugeota.d.miui.com/V11.1.2.0.QFDCNXM/miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip)    |
-| [miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip](https://hugeota.d.miui.com/V11.1.1.0.QFDCNXM/miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip)    |
 | [miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip](https://hugeota.d.miui.com/V11.0.9.0.PFDCNXM/miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip)    |
 | [miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip](https://hugeota.d.miui.com/V11.0.7.0.PFDCNXM/miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip)    |
 | [miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip](https://hugeota.d.miui.com/V11.0.5.0.PFDCNXM/miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip)    |
 | [miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip](https://hugeota.d.miui.com/V11.0.4.0.PFDCNXM/miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip)    |
 | [miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip](https://hugeota.d.miui.com/V11.0.3.0.PFDCNXM/miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip)    |
+| [miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip](https://hugeota.d.miui.com/V11.1.2.0.QFDCNXM/miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip)    |
+| [miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip](https://hugeota.d.miui.com/V11.1.1.0.QFDCNXM/miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip)    |
