@@ -1,5 +1,6 @@
 | Redmi Note7 Pro  开发版/内测版    |
 | ---- |
+| [miui_VIOLET_20.6.30_7668ab215f_10.0.zip](https://hugeota.d.miui.com/20.6.30/miui_VIOLET_20.6.30_7668ab215f_10.0.zip)    |
 | [miui_VIOLET_20.6.23_b9d6b84942_10.0.zip](https://hugeota.d.miui.com/20.6.23/miui_VIOLET_20.6.23_b9d6b84942_10.0.zip)    |
 | [miui_VIOLET_20.6.18_478cbb7a95_10.0.zip](https://hugeota.d.miui.com/20.6.18/miui_VIOLET_20.6.18_478cbb7a95_10.0.zip)    |
 | [miui_VIOLET_20.6.17_72bd874f28_10.0.zip](https://hugeota.d.miui.com/20.6.17/miui_VIOLET_20.6.17_72bd874f28_10.0.zip)    |
