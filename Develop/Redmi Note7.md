@@ -1,5 +1,6 @@
 | Redmi Note7  开发版/内测版    |
 | ---- |
+| [miui_LAVENDER_20.7.8_a4e9198e20_10.0.zip](https://hugeota.d.miui.com/20.7.8/miui_LAVENDER_20.7.8_a4e9198e20_10.0.zip)    |
 | [miui_LAVENDER_20.7.7_a488635357_10.0.zip](https://hugeota.d.miui.com/20.7.7/miui_LAVENDER_20.7.7_a488635357_10.0.zip)    |
 | [miui_LAVENDER_20.7.6_2bc202863d_10.0.zip](https://hugeota.d.miui.com/20.7.6/miui_LAVENDER_20.7.6_2bc202863d_10.0.zip)    |
 | [miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip](https://hugeota.d.miui.com/20.7.2/miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip)    |
