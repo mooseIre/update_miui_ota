@@ -1,5 +1,6 @@
 | 小米CC 9 Pro  开发版/内测版    |
 | ---- |
+| [miui_TUCANA_20.7.16_986c6402bf_10.0.zip](https://hugeota.d.miui.com/20.7.16/miui_TUCANA_20.7.16_986c6402bf_10.0.zip)    |
 | [miui_TUCANA_20.7.15_394671f562_10.0.zip](https://hugeota.d.miui.com/20.7.15/miui_TUCANA_20.7.15_394671f562_10.0.zip)    |
 | [miui_TUCANA_20.7.14_573e926793_10.0.zip](https://hugeota.d.miui.com/20.7.14/miui_TUCANA_20.7.14_573e926793_10.0.zip)    |
 | [miui_TUCANA_20.7.13_bae8df8512_10.0.zip](https://hugeota.d.miui.com/20.7.13/miui_TUCANA_20.7.13_bae8df8512_10.0.zip)    |
