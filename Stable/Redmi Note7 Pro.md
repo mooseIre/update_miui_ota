@@ -1,5 +1,6 @@
 | Redmi Note7 Pro  稳定版    |
 | ---- |
+| [miui_VIOLET_V11.0.1.0.QFHCNXM_d16fb03b84_10.0.zip](https://hugeota.d.miui.com/V11.0.1.0.QFHCNXM/miui_VIOLET_V11.0.1.0.QFHCNXM_d16fb03b84_10.0.zip)    |
 | [miui_VIOLET_V11.0.8.0.PFHCNXM_3b7c27c482_9.0.zip](https://hugeota.d.miui.com/V11.0.8.0.PFHCNXM/miui_VIOLET_V11.0.8.0.PFHCNXM_3b7c27c482_9.0.zip)    |
 | [miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip](https://hugeota.d.miui.com/V11.0.4.0.PFHCNXM/miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip)    |
 | [miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip](https://hugeota.d.miui.com/V11.0.3.0.PFHCNXM/miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip)    |
