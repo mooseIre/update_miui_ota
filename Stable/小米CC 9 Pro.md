@@ -1,5 +1,6 @@
 | 小米CC 9 Pro  稳定版    |
 | ---- |
+| [miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QFDCNXM/miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip)    |
 | [miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip](https://hugeota.d.miui.com/V11.1.2.0.QFDCNXM/miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip)    |
 | [miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip](https://hugeota.d.miui.com/V11.1.1.0.QFDCNXM/miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip)    |
 | [miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip](https://hugeota.d.miui.com/V11.0.9.0.PFDCNXM/miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip)    |
