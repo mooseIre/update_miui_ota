@@ -1,5 +1,6 @@
 | Redmi 10X 5G  开发版/内测版    |
 | ---- |
+| [miui_ATOM_20.7.30_0bcc1347b5_10.0.zip](https://hugeota.d.miui.com/20.7.30/miui_ATOM_20.7.30_0bcc1347b5_10.0.zip)    |
 | [miui_ATOM_20.7.28_fe84311a42_10.0.zip](https://hugeota.d.miui.com/20.7.28/miui_ATOM_20.7.28_fe84311a42_10.0.zip)    |
 | [miui_ATOM_20.7.23_c11c5e9920_10.0.zip](https://hugeota.d.miui.com/20.7.23/miui_ATOM_20.7.23_c11c5e9920_10.0.zip)    |
 | [miui_ATOM_20.7.22_deceb30dea_10.0.zip](https://hugeota.d.miui.com/20.7.22/miui_ATOM_20.7.22_deceb30dea_10.0.zip)    |
