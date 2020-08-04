@@ -1,5 +1,6 @@
 | Redmi K20  开发版/内测版    |
 | ---- |
+| [miui_DAVINCI_20.8.4_6b50bd87e8_10.0.zip](https://hugeota.d.miui.com/20.8.4/miui_DAVINCI_20.8.4_6b50bd87e8_10.0.zip)    |
 | [miui_DAVINCI_20.8.3_07fcb95bf7_10.0.zip](https://hugeota.d.miui.com/20.8.3/miui_DAVINCI_20.8.3_07fcb95bf7_10.0.zip)    |
 | [miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip](https://hugeota.d.miui.com/20.7.30/miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip)    |
 | [miui_DAVINCI_20.7.28_52bb4ff2f3_10.0.zip](https://hugeota.d.miui.com/20.7.28/miui_DAVINCI_20.7.28_52bb4ff2f3_10.0.zip)    |
