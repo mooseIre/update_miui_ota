@@ -1,5 +1,6 @@
 | 小米CC 9美图定制版  开发版/内测版    |
 | ---- |
+| [miui_VELA_20.8.5_828eb17a3c_10.0.zip](https://hugeota.d.miui.com/20.8.5/miui_VELA_20.8.5_828eb17a3c_10.0.zip)    |
 | [miui_VELA_20.8.3_ff703e2800_10.0.zip](https://hugeota.d.miui.com/20.8.3/miui_VELA_20.8.3_ff703e2800_10.0.zip)    |
 | [miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip](https://hugeota.d.miui.com/20.7.30/miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip)    |
 | [miui_VELA_20.7.29_0667fac90a_10.0.zip](https://hugeota.d.miui.com/20.7.29/miui_VELA_20.7.29_0667fac90a_10.0.zip)    |
