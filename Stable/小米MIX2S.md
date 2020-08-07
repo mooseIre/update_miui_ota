@@ -1,5 +1,6 @@
 | 小米MIX2S  稳定版    |
 | ---- |
+| [miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QDGCNXM/miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip)    |
 | [miui_MIMIX2S_V11.0.3.0.QDGCNXM_61449c34fd_10.0.zip](https://hugeota.d.miui.com/V11.0.3.0.QDGCNXM/miui_MIMIX2S_V11.0.3.0.QDGCNXM_61449c34fd_10.0.zip)    |
 | [miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip](https://hugeota.d.miui.com/V11.0.1.0.QDGCNXM/miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip)    |
 | [miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip](https://hugeota.d.miui.com/V11.0.3.0.PDGCNXM/miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip)    |
