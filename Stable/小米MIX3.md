@@ -1,5 +1,6 @@
 | 小米MIX3  稳定版    |
 | ---- |
+| [miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QEECNXM/miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip)    |
 | [miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip](https://hugeota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip)    |
 | [miui_MIMIX3_V11.0.2.0.QEECNXM_63c976e6a1_10.0.zip](https://hugeota.d.miui.com/V11.0.2.0.QEECNXM/miui_MIMIX3_V11.0.2.0.QEECNXM_63c976e6a1_10.0.zip)    |
 | [miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip](https://hugeota.d.miui.com/V11.0.1.0.QEECNXM/miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip)    |
