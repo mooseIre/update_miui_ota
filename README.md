@@ -17,6 +17,7 @@
 | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   小米10   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)          |
 |   小米10Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)          |
+|   小米10 Ultra   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10%20Ultra.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10%20Ultra.md)          |
 |   小米10青春版   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10青春版.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10青春版.md)          |
 |   小米6   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6.md)          |
 |   小米6X   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6X.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6X.md)          |
@@ -41,6 +42,7 @@
 |   Redmi K30   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30.md)          |
 |   Redmi K30 5G   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%205G.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%205G.md)          |
 |   Redmi K30Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30Pro.md)          |
+|   Redmi K30 Ultra  | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30%20Ultra.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30%20Ultra.md)          |
 |   Redmi Note 5   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note%205.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note%205.md)          |
 |   Redmi Note7   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note7.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note7.md)          |
 |   Redmi Note7 Pro   | [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note7%20Pro.md)     | [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note7%20Pro.md)          |
