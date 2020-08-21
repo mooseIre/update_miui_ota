@@ -1,5 +1,6 @@
 | 小米Note3  稳定版    |
 | ---- |
+| [miui_MINote3_V12.0.1.0.PCHCNXM_b412afcc14_9.0.zip](https://hugeota.d.miui.com/V12.0.1.0.PCHCNXM/miui_MINote3_V12.0.1.0.PCHCNXM_b412afcc14_9.0.zip)    |
 | [miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip](https://hugeota.d.miui.com/V11.0.4.0.PCHCNXM/miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip)    |
 | [miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip](https://hugeota.d.miui.com/V11.0.3.0.PCHCNXM/miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip)    |
 | [miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip](https://hugeota.d.miui.com/V11.0.2.0.PCHCNXM/miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip)    |
