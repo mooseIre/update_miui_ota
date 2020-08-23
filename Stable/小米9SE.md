@@ -1,5 +1,6 @@
 | 小米9SE  稳定版    |
 | ---- |
+| [miui_GRUS_V12.0.2.0.QFBCNXM_7bd5791743_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QFBCNXM/miui_GRUS_V12.0.2.0.QFBCNXM_7bd5791743_10.0.zip)    |
 | [miui_GRUS_V12.0.1.0.QFBCNXM_4e2bbe6ba9_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QFBCNXM/miui_GRUS_V12.0.1.0.QFBCNXM_4e2bbe6ba9_10.0.zip)    |
 | [miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip](https://hugeota.d.miui.com/V11.0.3.0.QFBCNXM/miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip)    |
 | [miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip](https://hugeota.d.miui.com/V11.0.2.0.QFBCNXM/miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip)    |
