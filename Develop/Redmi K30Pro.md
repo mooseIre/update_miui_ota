@@ -1,5 +1,6 @@
 | Redmi K30Pro  开发版/内测版    |
 | ---- |
+| [miui_LMI_20.8.24_f1c69caf10_11.0.zip](https://hugeota.d.miui.com/20.8.24/miui_LMI_20.8.24_f1c69caf10_11.0.zip)    |
 | [miui_LMI_20.8.20_138458d1c7_11.0.zip](https://hugeota.d.miui.com/20.8.20/miui_LMI_20.8.20_138458d1c7_11.0.zip)    |
 | [miui_LMI_20.8.13_b1682eb31f_11.0.zip](https://hugeota.d.miui.com/20.8.13/miui_LMI_20.8.13_b1682eb31f_11.0.zip)    |
 | [miui_LMI_20.8.12_2dce5f4530_11.0.zip](https://hugeota.d.miui.com/20.8.12/miui_LMI_20.8.12_2dce5f4530_11.0.zip)    |
