@@ -1,5 +1,6 @@
 | 小米CC 9  开发版/内测版    |
 | ---- |
+| [miui_PYXIS_20.9.7_2ff4f18523_10.0.zip](https://hugeota.d.miui.com/20.9.7/miui_PYXIS_20.9.7_2ff4f18523_10.0.zip)    |
 | [miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip](https://hugeota.d.miui.com/20.9.3/miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip)    |
 | [miui_PYXIS_20.9.1_fc147415e7_10.0.zip](https://hugeota.d.miui.com/20.9.1/miui_PYXIS_20.9.1_fc147415e7_10.0.zip)    |
 | [miui_PYXIS_20.8.27_8f22f9ac7d_10.0.zip](https://hugeota.d.miui.com/20.8.27/miui_PYXIS_20.8.27_8f22f9ac7d_10.0.zip)    |
