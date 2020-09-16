@@ -1,5 +1,6 @@
 | Redmi Note8 Pro  开发版/内测版    |
 | ---- |
+| [miui_BEGONIA_20.9.16_c2ed43579e_10.0.zip](https://hugeota.d.miui.com/20.9.16/miui_BEGONIA_20.9.16_c2ed43579e_10.0.zip)    |
 | [miui_BEGONIA_20.9.15_726dc921d8_10.0.zip](https://hugeota.d.miui.com/20.9.15/miui_BEGONIA_20.9.15_726dc921d8_10.0.zip)    |
 | [miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip](https://hugeota.d.miui.com/20.9.10/miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip)    |
 | [miui_BEGONIA_20.9.9_11488001a6_10.0.zip](https://hugeota.d.miui.com/20.9.9/miui_BEGONIA_20.9.9_11488001a6_10.0.zip)    |
