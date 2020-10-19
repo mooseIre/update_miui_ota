@@ -1,6 +1,7 @@
 | Redmi 10X Pro  开发版/内测版    |
 | ---- |
 | [miui_BOMB_20.10.15_14b484479e_10.0.zip](https://hugeota.d.miui.com/20.10.15/miui_BOMB_20.10.15_14b484479e_10.0.zip)    |
+| [miui_BOMB_20.10.14_1d5e42bec4_10.0.zip](https://hugeota.d.miui.com/20.10.14/miui_BOMB_20.10.14_1d5e42bec4_10.0.zip)    |
 | [miui_BOMB_20.10.13_da172aa091_10.0.zip](https://hugeota.d.miui.com/20.10.13/miui_BOMB_20.10.13_da172aa091_10.0.zip)    |
 | [miui_BOMB_20.10.12_183a77a3c1_10.0.zip](https://hugeota.d.miui.com/20.10.12/miui_BOMB_20.10.12_183a77a3c1_10.0.zip)    |
 | [miui_BOMB_20.9.29_808f47eaad_10.0.zip](https://hugeota.d.miui.com/20.9.29/miui_BOMB_20.9.29_808f47eaad_10.0.zip)    |
