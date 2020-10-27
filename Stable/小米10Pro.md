@@ -1,6 +1,7 @@
 | 小米10Pro  稳定版    |
 | ---- |
 | [miui_CMI_V12.1.2.0.RJACNXM_1746badd76_11.0.zip](https://hugeota.d.miui.com/V12.1.2.0.RJACNXM/miui_CMI_V12.1.2.0.RJACNXM_1746badd76_11.0.zip)    |
+| [miui_CMI_V12.0.9.0.QJACNXM_c49cac94c1_10.0.zip](https://hugeota.d.miui.com/V12.0.9.0.QJACNXM/miui_CMI_V12.0.9.0.QJACNXM_c49cac94c1_10.0.zip)    |
 | [miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip](https://hugeota.d.miui.com/V12.0.6.0.QJACNXM/miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip)    |
 | [miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip](https://hugeota.d.miui.com/V12.0.4.0.QJACNXM/miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip)    |
 | [miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QJACNXM/miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip)    |
