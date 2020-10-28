@@ -1,5 +1,6 @@
 | Redmi Note7  开发版/内测版    |
 | ---- |
+| [miui_LAVENDER_20.10.28_38d9446a25_10.0.zip](https://hugeota.d.miui.com/20.10.28/miui_LAVENDER_20.10.28_38d9446a25_10.0.zip)    |
 | [miui_LAVENDER_20.10.27_b7a28eb89b_10.0.zip](https://hugeota.d.miui.com/20.10.27/miui_LAVENDER_20.10.27_b7a28eb89b_10.0.zip)    |
 | [miui_LAVENDER_20.10.26_3df9fbf2da_10.0.zip](https://hugeota.d.miui.com/20.10.26/miui_LAVENDER_20.10.26_3df9fbf2da_10.0.zip)    |
 | [miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip](https://hugeota.d.miui.com/20.10.22/miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip)    |
