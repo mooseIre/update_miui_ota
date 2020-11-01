@@ -84,3 +84,5 @@
 | [miui_GINKGO_20.1.7_bdfb2ff8bb_9.0.zip](https://hugeota.d.miui.com/20.1.7/miui_GINKGO_20.1.7_bdfb2ff8bb_9.0.zip)    |
 | [miui_GINKGO_20.1.3_c262a882cc_9.0.zip](https://hugeota.d.miui.com/20.1.3/miui_GINKGO_20.1.3_c262a882cc_9.0.zip)    |
 | [miui_GINKGO_20.1.2_55eef1616e_9.0.zip](https://hugeota.d.miui.com/20.1.2/miui_GINKGO_20.1.2_55eef1616e_9.0.zip)    |
+| [miui_GINKGO_9.12.26_cb1d70c6f9_9.0.zip](https://hugeota.d.miui.com/9.12.26/miui_GINKGO_9.12.26_cb1d70c6f9_9.0.zip) |
+| [miui_GINKGO_9.12.12_b085b46872_9.0.zip](https://hugeota.d.miui.com/9.12.12/miui_GINKGO_9.12.12_b085b46872_9.0.zip)
