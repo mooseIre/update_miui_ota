@@ -1,0 +1,21 @@
+| Redmi K30S  开发版/内测版    |
+| ---- |
+| [miui_APOLLO_20.12.29_fa48c89f4c_11.0.zip](https://hugeota.d.miui.com/20.12.29/miui_APOLLO_20.12.29_fa48c89f4c_11.0.zip)    |
+| [miui_APOLLO_20.12.25_d340d929ff_11.0.zip](https://hugeota.d.miui.com/20.12.25/miui_APOLLO_20.12.25_d340d929ff_11.0.zip)    |
+| [miui_APOLLO_20.12.9_7ec30be920_10.0.zip](https://hugeota.d.miui.com/20.12.9/miui_APOLLO_20.12.9_7ec30be920_10.0.zip)    |
+| [miui_APOLLO_20.12.8_f65cc78cca_10.0.zip](https://hugeota.d.miui.com/20.12.8/miui_APOLLO_20.12.8_f65cc78cca_10.0.zip)    |
+| [miui_APOLLO_20.12.7_208d730e2f_10.0.zip](https://hugeota.d.miui.com/20.12.7/miui_APOLLO_20.12.7_208d730e2f_10.0.zip)    |
+| [miui_APOLLO_20.12.4_699153e330_10.0.zip](https://hugeota.d.miui.com/20.12.4/miui_APOLLO_20.12.4_699153e330_10.0.zip)    |
+| [miui_APOLLO_20.12.2_1a36404c6c_10.0.zip](https://hugeota.d.miui.com/20.12.2/miui_APOLLO_20.12.2_1a36404c6c_10.0.zip)    |
+| [miui_APOLLO_20.12.1_8a4fb50d40_10.0.zip](https://hugeota.d.miui.com/20.12.1/miui_APOLLO_20.12.1_8a4fb50d40_10.0.zip)    |
+| [miui_APOLLO_20.11.30_0d327ba2c6_10.0.zip](https://hugeota.d.miui.com/20.11.30/miui_APOLLO_20.11.30_0d327ba2c6_10.0.zip)    |
+| [miui_APOLLO_20.11.25_4c857e3384_10.0.zip](https://hugeota.d.miui.com/20.11.25/miui_APOLLO_20.11.25_4c857e3384_10.0.zip)    |
+| [miui_APOLLO_20.11.24_d95616ebfd_10.0.zip](https://hugeota.d.miui.com/20.11.24/miui_APOLLO_20.11.24_d95616ebfd_10.0.zip)    |
+| [miui_APOLLO_20.11.23_14d6a6b446_10.0.zip](https://hugeota.d.miui.com/20.11.23/miui_APOLLO_20.11.23_14d6a6b446_10.0.zip)    |
+| [miui_APOLLO_20.11.20_bc0a286141_10.0.zip](https://hugeota.d.miui.com/20.11.20/miui_APOLLO_20.11.20_bc0a286141_10.0.zip)    |
+| [miui_APOLLO_20.11.19_7edb7cb4ff_10.0.zip](https://hugeota.d.miui.com/20.11.19/miui_APOLLO_20.11.19_7edb7cb4ff_10.0.zip)    |
+| [miui_APOLLO_20.11.18_d8c0f3620e_10.0.zip](https://hugeota.d.miui.com/20.11.18/miui_APOLLO_20.11.18_d8c0f3620e_10.0.zip)    |
+| [miui_APOLLO_20.11.17_0ed4204a83_10.0.zip](https://hugeota.d.miui.com/20.11.17/miui_APOLLO_20.11.17_0ed4204a83_10.0.zip)    |
+| [miui_APOLLO_20.11.16_bf3b537d36_10.0.zip](https://hugeota.d.miui.com/20.11.16/miui_APOLLO_20.11.16_bf3b537d36_10.0.zip)    |
+| [miui_APOLLO_20.11.13_c8c03cd761_10.0.zip](https://hugeota.d.miui.com/20.11.13/miui_APOLLO_20.11.13_c8c03cd761_10.0.zip)    |
+| [miui_APOLLO_20.11.11_bca86e08db_10.0.zip](https://hugeota.d.miui.com/20.11.11/miui_APOLLO_20.11.11_bca86e08db_10.0.zip)    |
