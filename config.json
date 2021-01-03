@@ -1,5 +1,5 @@
 {
-    "CANON": "小米11",
+    "VENUS": "小米11",
     "UMI": "小米10",
     "CMI": "小米10Pro",
     "CAS": "小米10 Ultra",
@@ -23,6 +23,9 @@
     "MI6X": "小米6X",
     "MINote3": "小米Note3",
     "LMI": "Redmi K30Pro",
+    "LIME": "Redmi Note 9 4G",
+    "CANNON": "Redmi Note 9",
+    "GAUGUIN": "Redmi Note 9 Pro",
     "PICASSO": "Redmi K30 5G",
     "PHOENIX": "Redmi K30",
     "CEZANNE": "Redmi K30 Ultra",
