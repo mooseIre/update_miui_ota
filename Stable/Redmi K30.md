@@ -1,5 +1,6 @@
 | Redmi K30  稳定版    |
 | ---- |
+| [miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip](https://hugeota.d.miui.com/V12.0.5.0.QGHCNXM/miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip)    |
 | [miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QGHCNXM/miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip)    |
 | [miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip](https://hugeota.d.miui.com/V11.0.15.0.QGHCNXM/miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip)    |
 | [miui_PHOENIX_V11.0.14.0.QGHCNXM_a9310deb3b_10.0.zip](https://hugeota.d.miui.com/V11.0.14.0.QGHCNXM/miui_PHOENIX_V11.0.14.0.QGHCNXM_a9310deb3b_10.0.zip)    |
