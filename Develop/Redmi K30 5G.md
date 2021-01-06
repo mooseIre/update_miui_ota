@@ -11,6 +11,13 @@
 | [miui_PICASSO_20.12.1_86e2aeff87_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_PICASSO_20.12.1_86e2aeff87_11.0.zip)    |
 | [miui_PICASSO_20.11.30_258aa6b490_11.0.zip](https://hugeota.d.miui.com/20.11.30/miui_PICASSO_20.11.30_258aa6b490_11.0.zip)    |
 | [miui_PICASSO_20.11.28_70d4a2370b_11.0.zip](https://hugeota.d.miui.com/20.11.28/miui_PICASSO_20.11.28_70d4a2370b_11.0.zip)    |
+| [miui_PICASSO_20.11.26_ef8fd541b9_11.0.zip](https://hugeota.d.miui.com/20.11.26/miui_PICASSO_20.11.26_ef8fd541b9_11.0.zip)    |
+| [miui_PICASSO_20.11.25_9a65db2d60_11.0.zip](https://hugeota.d.miui.com/20.11.25/miui_PICASSO_20.11.25_9a65db2d60_11.0.zip)    |
+| [miui_PICASSO_20.11.24_d6bd4a9ef8_11.0.zip](https://hugeota.d.miui.com/20.11.24/miui_PICASSO_20.11.24_d6bd4a9ef8_11.0.zip)    |
+| [miui_PICASSO_20.11.20_5ff94b07b1_11.0.zip](https://hugeota.d.miui.com/20.11.20/miui_PICASSO_20.11.20_5ff94b07b1_11.0.zip)    |
+| [miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip](https://hugeota.d.miui.com/20.11.18/miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip)    |
+| [miui_PICASSO_20.11.16_3225c5c42a_11.0.zip](https://hugeota.d.miui.com/20.11.16/miui_PICASSO_20.11.16_3225c5c42a_11.0.zip)    |
+| [miui_PICASSO_20.11.12_1f20772379_11.0.zip](https://hugeota.d.miui.com/20.11.12/miui_PICASSO_20.11.12_1f20772379_11.0.zip)    |
 | [miui_PICASSO_20.11.10_1df650d305_11.0.zip](https://hugeota.d.miui.com/20.11.10/miui_PICASSO_20.11.10_1df650d305_11.0.zip)    |
 | [miui_PICASSO_20.11.6_75583083a0_11.0.zip](https://hugeota.d.miui.com/20.11.6/miui_PICASSO_20.11.6_75583083a0_11.0.zip)    |
 | [miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip](https://hugeota.d.miui.com/20.11.5/miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip)    |

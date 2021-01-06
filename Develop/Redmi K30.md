@@ -7,8 +7,15 @@
 | [miui_PHOENIX_20.12.9_bc1d2a68fd_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_PHOENIX_20.12.9_bc1d2a68fd_11.0.zip)    |
 | [miui_PHOENIX_20.12.8_b46d5786fe_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_PHOENIX_20.12.8_b46d5786fe_11.0.zip)    |
 | [miui_PHOENIX_20.12.7_a2adff9d5d_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_PHOENIX_20.12.7_a2adff9d5d_11.0.zip)    |
+| [miui_PHOENIX_20.12.3_8032597833_11.0.zip](https://hugeota.d.miui.com/20.12.3/miui_PHOENIX_20.12.3_8032597833_11.0.zip)    |
 | [miui_PHOENIX_20.12.2_8d4c255753_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_PHOENIX_20.12.2_8d4c255753_11.0.zip)    |
 | [miui_PHOENIX_20.12.1_542d81fd01_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_PHOENIX_20.12.1_542d81fd01_11.0.zip)    |
+| [miui_PHOENIX_20.11.30_c491002f0e_11.0.zip](https://hugeota.d.miui.com/20.11.30/miui_PHOENIX_20.11.30_c491002f0e_11.0.zip)    |
+| [miui_PHOENIX_20.11.28_811eea0a34_11.0.zip](https://hugeota.d.miui.com/20.11.28/miui_PHOENIX_20.11.28_811eea0a34_11.0.zip)    |
+| [miui_PHOENIX_20.11.24_acd05fbfa8_11.0.zip](https://hugeota.d.miui.com/20.11.24/miui_PHOENIX_20.11.24_acd05fbfa8_11.0.zip)    |
+| [miui_PHOENIX_20.11.17_cca75ed6cd_11.0.zip](https://hugeota.d.miui.com/20.11.17/miui_PHOENIX_20.11.17_cca75ed6cd_11.0.zip)    |
+| [miui_PHOENIX_20.11.16_5d5bd21a44_11.0.zip](https://hugeota.d.miui.com/20.11.16/miui_PHOENIX_20.11.16_5d5bd21a44_11.0.zip)    |
+| [miui_PHOENIX_20.11.13_6a73eba3c4_11.0.zip](https://hugeota.d.miui.com/20.11.13/miui_PHOENIX_20.11.13_6a73eba3c4_11.0.zip)    |
 | [miui_PHOENIX_20.11.10_1d69cfcde4_11.0.zip](https://hugeota.d.miui.com/20.11.10/miui_PHOENIX_20.11.10_1d69cfcde4_11.0.zip)    |
 | [miui_PHOENIX_20.11.6_390438e1b5_11.0.zip](https://hugeota.d.miui.com/20.11.6/miui_PHOENIX_20.11.6_390438e1b5_11.0.zip)    |
 | [miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip](https://hugeota.d.miui.com/20.11.5/miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip)    |
