@@ -1,5 +1,7 @@
 | Redmi K20  开发版/内测版    |
 | ---- |
+| [miui_DAVINCI_21.1.5_ab14125894_11.0.zip](https://hugeota.d.miui.com/21.1.5/miui_DAVINCI_21.1.5_ab14125894_11.0.zip)    |
+| [miui_DAVINCI_21.1.4_8318d47b8b_11.0.zip](https://hugeota.d.miui.com/21.1.4/miui_DAVINCI_21.1.4_8318d47b8b_11.0.zip)    |
 | [miui_DAVINCI_20.12.30_3fc560e03d_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_DAVINCI_20.12.30_3fc560e03d_11.0.zip)    |
 | [miui_DAVINCI_20.12.28_e3f16c4598_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_DAVINCI_20.12.28_e3f16c4598_11.0.zip)    |
 | [miui_DAVINCI_20.12.26_e8b0d030c1_11.0.zip](https://hugeota.d.miui.com/20.12.26/miui_DAVINCI_20.12.26_e8b0d030c1_11.0.zip)    |
@@ -11,8 +13,13 @@
 | [miui_DAVINCI_20.12.2_4d74a7c4a1_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_DAVINCI_20.12.2_4d74a7c4a1_11.0.zip)    |
 | [miui_DAVINCI_20.11.30_afdcc6488a_11.0.zip](https://hugeota.d.miui.com/20.11.30/miui_DAVINCI_20.11.30_afdcc6488a_11.0.zip)    |
 | [miui_DAVINCI_20.11.26_0bc2c23a41_11.0.zip](https://hugeota.d.miui.com/20.11.26/miui_DAVINCI_20.11.26_0bc2c23a41_11.0.zip)    |
+| [miui_DAVINCI_20.11.25_924e578325_11.0.zip](https://hugeota.d.miui.com/20.11.25/miui_DAVINCI_20.11.25_924e578325_11.0.zip)    |
 | [miui_DAVINCI_20.11.18_cac6431179_11.0.zip](https://hugeota.d.miui.com/20.11.18/miui_DAVINCI_20.11.18_cac6431179_11.0.zip)    |
+| [miui_DAVINCI_20.11.17_30b518c64f_11.0.zip](https://hugeota.d.miui.com/20.11.17/miui_DAVINCI_20.11.17_30b518c64f_11.0.zip)    |
+| [miui_DAVINCI_20.11.16_a3be9b1296_11.0.zip](https://hugeota.d.miui.com/20.11.16/miui_DAVINCI_20.11.16_a3be9b1296_11.0.zip)    |
 | [miui_DAVINCI_20.11.13_aa48777a60_11.0.zip](https://hugeota.d.miui.com/20.11.13/miui_DAVINCI_20.11.13_aa48777a60_11.0.zip)    |
+| [miui_DAVINCI_20.11.12_b6bd41e7a5_11.0.zip](https://hugeota.d.miui.com/20.11.12/miui_DAVINCI_20.11.12_b6bd41e7a5_11.0.zip)    |
+| [miui_DAVINCI_20.11.11_815f2c92ac_11.0.zip](https://hugeota.d.miui.com/20.11.11/miui_DAVINCI_20.11.11_815f2c92ac_11.0.zip)    |
 | [miui_DAVINCI_20.11.10_46ae0d23d3_11.0.zip](https://hugeota.d.miui.com/20.11.10/miui_DAVINCI_20.11.10_46ae0d23d3_11.0.zip)    |
 | [miui_DAVINCI_20.10.30_98087cc27c_11.0.zip](https://hugeota.d.miui.com/20.10.30/miui_DAVINCI_20.10.30_98087cc27c_11.0.zip)    |
 | [miui_DAVINCI_20.10.27_93cde1a304_11.0.zip](https://hugeota.d.miui.com/20.10.27/miui_DAVINCI_20.10.27_93cde1a304_11.0.zip)    |

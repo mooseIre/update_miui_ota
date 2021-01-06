@@ -1,12 +1,21 @@
 | Redmi 10X Pro  开发版/内测版    |
 | ---- |
+| [miui_BOMB_21.1.5_8459235bf9_11.0.zip](https://hugeota.d.miui.com/21.1.5/miui_BOMB_21.1.5_8459235bf9_11.0.zip)    |
+| [miui_BOMB_21.1.4_66992845ba_11.0.zip](https://hugeota.d.miui.com/21.1.4/miui_BOMB_21.1.4_66992845ba_11.0.zip)    |
 | [miui_BOMB_20.12.30_1e14237a46_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_BOMB_20.12.30_1e14237a46_11.0.zip)    |
 | [miui_BOMB_20.12.28_cc956ebba4_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_BOMB_20.12.28_cc956ebba4_11.0.zip)    |
+| [miui_BOMB_20.12.25_b220fbb033_11.0.zip](https://hugeota.d.miui.com/20.12.25/miui_BOMB_20.12.25_b220fbb033_11.0.zip)    |
+| [miui_BOMB_20.12.16_cf86f8cf15_11.0.zip](https://hugeota.d.miui.com/20.12.16/miui_BOMB_20.12.16_cf86f8cf15_11.0.zip)    |
+| [miui_BOMB_20.12.15_a0a34ef47d_11.0.zip](https://hugeota.d.miui.com/20.12.15/miui_BOMB_20.12.15_a0a34ef47d_11.0.zip)    |
 | [miui_BOMB_20.12.14_3ae78e3084_11.0.zip](https://hugeota.d.miui.com/20.12.14/miui_BOMB_20.12.14_3ae78e3084_11.0.zip)    |
+| [miui_BOMB_20.12.11_35aa0ef475_11.0.zip](https://hugeota.d.miui.com/20.12.11/miui_BOMB_20.12.11_35aa0ef475_11.0.zip)    |
 | [miui_BOMB_20.12.10_ea5c5d1059_11.0.zip](https://hugeota.d.miui.com/20.12.10/miui_BOMB_20.12.10_ea5c5d1059_11.0.zip)    |
+| [miui_BOMB_20.12.9_775c8e6298_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_BOMB_20.12.9_775c8e6298_11.0.zip)    |
 | [miui_BOMB_20.12.8_ddd8b12ee6_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_BOMB_20.12.8_ddd8b12ee6_11.0.zip)    |
+| [miui_BOMB_20.12.7_42074e84cd_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_BOMB_20.12.7_42074e84cd_11.0.zip)    |
 | [miui_BOMB_20.12.4_f024336781_11.0.zip](https://hugeota.d.miui.com/20.12.4/miui_BOMB_20.12.4_f024336781_11.0.zip)    |
 | [miui_BOMB_20.12.2_ed40282ff1_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_BOMB_20.12.2_ed40282ff1_11.0.zip)    |
+| [miui_BOMB_20.12.1_41876abd88_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_BOMB_20.12.1_41876abd88_11.0.zip)    |
 | [miui_BOMB_20.11.27_eff5f107b6_11.0.zip](https://hugeota.d.miui.com/20.11.27/miui_BOMB_20.11.27_eff5f107b6_11.0.zip)    |
 | [miui_BOMB_20.11.6_d4f94f34d4_10.0.zip](https://hugeota.d.miui.com/20.11.6/miui_BOMB_20.11.6_d4f94f34d4_10.0.zip)    |
 | [miui_BOMB_20.11.5_cb2ed94db1_10.0.zip](https://hugeota.d.miui.com/20.11.5/miui_BOMB_20.11.5_cb2ed94db1_10.0.zip)    |

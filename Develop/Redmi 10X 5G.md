@@ -1,9 +1,21 @@
 | Redmi 10X 5G  开发版/内测版    |
 | ---- |
+| [miui_ATOM_21.1.5_a09b5b0efc_11.0.zip](https://hugeota.d.miui.com/21.1.5/miui_ATOM_21.1.5_a09b5b0efc_11.0.zip)    |
+| [miui_ATOM_21.1.4_d78dfc1505_11.0.zip](https://hugeota.d.miui.com/21.1.4/miui_ATOM_21.1.4_d78dfc1505_11.0.zip)    |
 | [miui_ATOM_20.12.30_139b28ef9f_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_ATOM_20.12.30_139b28ef9f_11.0.zip)    |
+| [miui_ATOM_20.12.28_a9c89730d2_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_ATOM_20.12.28_a9c89730d2_11.0.zip)    |
+| [miui_ATOM_20.12.25_97c2d7d345_11.0.zip](https://hugeota.d.miui.com/20.12.25/miui_ATOM_20.12.25_97c2d7d345_11.0.zip)    |
+| [miui_ATOM_20.12.16_244fa5b3c3_11.0.zip](https://hugeota.d.miui.com/20.12.16/miui_ATOM_20.12.16_244fa5b3c3_11.0.zip)    |
+| [miui_ATOM_20.12.15_70ecc023fa_11.0.zip](https://hugeota.d.miui.com/20.12.15/miui_ATOM_20.12.15_70ecc023fa_11.0.zip)    |
+| [miui_ATOM_20.12.14_c3014519d5_11.0.zip](https://hugeota.d.miui.com/20.12.14/miui_ATOM_20.12.14_c3014519d5_11.0.zip)    |
+| [miui_ATOM_20.12.11_09f7c8eba6_11.0.zip](https://hugeota.d.miui.com/20.12.11/miui_ATOM_20.12.11_09f7c8eba6_11.0.zip)    |
 | [miui_ATOM_20.12.10_c29c9cb36f_11.0.zip](https://hugeota.d.miui.com/20.12.10/miui_ATOM_20.12.10_c29c9cb36f_11.0.zip)    |
+| [miui_ATOM_20.12.9_be62219fef_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_ATOM_20.12.9_be62219fef_11.0.zip)    |
+| [miui_ATOM_20.12.8_4a69cfcce5_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_ATOM_20.12.8_4a69cfcce5_11.0.zip)    |
+| [miui_ATOM_20.12.7_578bb63900_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_ATOM_20.12.7_578bb63900_11.0.zip)    |
 | [miui_ATOM_20.12.5_c139bd8175_11.0.zip](https://hugeota.d.miui.com/20.12.5/miui_ATOM_20.12.5_c139bd8175_11.0.zip)    |
 | [miui_ATOM_20.11.27_808f7f268d_11.0.zip](https://hugeota.d.miui.com/20.11.27/miui_ATOM_20.11.27_808f7f268d_11.0.zip)    |
+| [miui_ATOM_20.11.25_6115d1f156_11.0.zip](https://hugeota.d.miui.com/20.11.25/miui_ATOM_20.11.25_6115d1f156_11.0.zip)    |
 | [miui_ATOM_20.11.24_1264bef54d_11.0.zip](https://hugeota.d.miui.com/20.11.24/miui_ATOM_20.11.24_1264bef54d_11.0.zip)    |
 | [miui_ATOM_20.11.6_92e8cd7928_10.0.zip](https://hugeota.d.miui.com/20.11.6/miui_ATOM_20.11.6_92e8cd7928_10.0.zip)    |
 | [miui_ATOM_20.11.5_d5863b14f6_10.0.zip](https://hugeota.d.miui.com/20.11.5/miui_ATOM_20.11.5_d5863b14f6_10.0.zip)    |
