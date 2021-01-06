@@ -1,5 +1,12 @@
 | Redmi K30 5G  开发版/内测版    |
 | ---- |
+| [miui_PICASSO_20.12.30_6e65e0dbc5_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_PICASSO_20.12.30_6e65e0dbc5_11.0.zip)    |
+| [miui_PICASSO_20.12.28_a20831a3af_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_PICASSO_20.12.28_a20831a3af_11.0.zip)    |
+| [miui_PICASSO_20.12.25_d7519d7e7d_11.0.zip](https://hugeota.d.miui.com/20.12.25/miui_PICASSO_20.12.25_d7519d7e7d_11.0.zip)    |
+| [miui_PICASSO_20.12.10_469cb4838a_11.0.zip](https://hugeota.d.miui.com/20.12.10/miui_PICASSO_20.12.10_469cb4838a_11.0.zip)    |
+| [miui_PICASSO_20.12.9_1e944cce7a_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_PICASSO_20.12.9_1e944cce7a_11.0.zip)    |
+| [miui_PICASSO_20.12.8_c074da99cf_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_PICASSO_20.12.8_c074da99cf_11.0.zip)    |
+| [miui_PICASSO_20.12.7_cc094e37d1_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_PICASSO_20.12.7_cc094e37d1_11.0.zip)    |
 | [miui_PICASSO_20.12.2_507e6fcb09_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_PICASSO_20.12.2_507e6fcb09_11.0.zip)    |
 | [miui_PICASSO_20.12.1_86e2aeff87_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_PICASSO_20.12.1_86e2aeff87_11.0.zip)    |
 | [miui_PICASSO_20.11.30_258aa6b490_11.0.zip](https://hugeota.d.miui.com/20.11.30/miui_PICASSO_20.11.30_258aa6b490_11.0.zip)    |

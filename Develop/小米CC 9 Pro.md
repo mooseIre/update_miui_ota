@@ -1,7 +1,11 @@
 | 小米CC 9 Pro  开发版/内测版    |
 | ---- |
+| [miui_TUCANA_20.12.30_0ffb76561a_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_TUCANA_20.12.30_0ffb76561a_11.0.zip)    |
+| [miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip)    |
+| [miui_TUCANA_20.12.26_3c94dcaa50_11.0.zip](https://hugeota.d.miui.com/20.12.26/miui_TUCANA_20.12.26_3c94dcaa50_11.0.zip)    |
 | [miui_TUCANA_20.12.9_be8a00e44c_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_TUCANA_20.12.9_be8a00e44c_11.0.zip)    |
 | [miui_TUCANA_20.12.8_31af851e2d_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_TUCANA_20.12.8_31af851e2d_11.0.zip)    |
+| [miui_TUCANA_20.12.7_afc306910b_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_TUCANA_20.12.7_afc306910b_11.0.zip)    |
 | [miui_TUCANA_20.12.2_05eac67851_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_TUCANA_20.12.2_05eac67851_11.0.zip)    |
 | [miui_TUCANA_20.12.1_0e352896d0_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_TUCANA_20.12.1_0e352896d0_11.0.zip)    |
 | [miui_TUCANA_20.11.30_6b390fa70d_11.0.zip](https://hugeota.d.miui.com/20.11.30/miui_TUCANA_20.11.30_6b390fa70d_11.0.zip)    |

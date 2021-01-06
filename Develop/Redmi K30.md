@@ -1,5 +1,12 @@
 | Redmi K30  开发版/内测版    |
 | ---- |
+| [miui_PHOENIX_20.12.30_01ee1ee3a4_11.0.zip](https://hugeota.d.miui.com/20.12.30/miui_PHOENIX_20.12.30_01ee1ee3a4_11.0.zip)    |
+| [miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip](https://hugeota.d.miui.com/20.12.28/miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip)    |
+| [miui_PHOENIX_20.12.26_c317132d85_11.0.zip](https://hugeota.d.miui.com/20.12.26/miui_PHOENIX_20.12.26_c317132d85_11.0.zip)    |
+| [miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip](https://hugeota.d.miui.com/20.12.10/miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip)    |
+| [miui_PHOENIX_20.12.9_bc1d2a68fd_11.0.zip](https://hugeota.d.miui.com/20.12.9/miui_PHOENIX_20.12.9_bc1d2a68fd_11.0.zip)    |
+| [miui_PHOENIX_20.12.8_b46d5786fe_11.0.zip](https://hugeota.d.miui.com/20.12.8/miui_PHOENIX_20.12.8_b46d5786fe_11.0.zip)    |
+| [miui_PHOENIX_20.12.7_a2adff9d5d_11.0.zip](https://hugeota.d.miui.com/20.12.7/miui_PHOENIX_20.12.7_a2adff9d5d_11.0.zip)    |
 | [miui_PHOENIX_20.12.2_8d4c255753_11.0.zip](https://hugeota.d.miui.com/20.12.2/miui_PHOENIX_20.12.2_8d4c255753_11.0.zip)    |
 | [miui_PHOENIX_20.12.1_542d81fd01_11.0.zip](https://hugeota.d.miui.com/20.12.1/miui_PHOENIX_20.12.1_542d81fd01_11.0.zip)    |
 | [miui_PHOENIX_20.11.10_1d69cfcde4_11.0.zip](https://hugeota.d.miui.com/20.11.10/miui_PHOENIX_20.11.10_1d69cfcde4_11.0.zip)    |
