@@ -1,5 +1,6 @@
 | Redmi Note8  开发版/内测版    |
 | ---- |
+| [miui_GINKGO_21.1.15_3304480838_11.0.zip](https://hugeota.d.miui.com/21.1.15/miui_GINKGO_21.1.15_3304480838_11.0.zip)    |
 | [miui_GINKGO_21.1.13_9741dd947a_11.0.zip](https://hugeota.d.miui.com/21.1.13/miui_GINKGO_21.1.13_9741dd947a_11.0.zip)    |
 | [miui_GINKGO_21.1.12_9b33435897_11.0.zip](https://hugeota.d.miui.com/21.1.12/miui_GINKGO_21.1.12_9b33435897_11.0.zip)    |
 | [miui_GINKGO_21.1.11_d9c1f350e4_11.0.zip](https://hugeota.d.miui.com/21.1.11/miui_GINKGO_21.1.11_d9c1f350e4_11.0.zip)    |
