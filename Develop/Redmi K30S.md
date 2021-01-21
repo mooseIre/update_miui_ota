@@ -1,5 +1,6 @@
 | Redmi K30S  开发版/内测版    |
 | ---- |
+| [miui_APOLLO_21.1.20_92a67f3e9e_11.0.zip](https://hugeota.d.miui.com/21.1.20/miui_APOLLO_21.1.20_92a67f3e9e_11.0.zip)    |
 | [miui_APOLLO_21.1.19_d30e81abc2_11.0.zip](https://hugeota.d.miui.com/21.1.19/miui_APOLLO_21.1.19_d30e81abc2_11.0.zip)    |
 | [miui_APOLLO_21.1.18_77862af781_11.0.zip](https://hugeota.d.miui.com/21.1.18/miui_APOLLO_21.1.18_77862af781_11.0.zip)    |
 | [miui_APOLLO_21.1.15_ceac39421e_11.0.zip](https://hugeota.d.miui.com/21.1.15/miui_APOLLO_21.1.15_ceac39421e_11.0.zip)    |
