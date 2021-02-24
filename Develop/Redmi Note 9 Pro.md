@@ -1,5 +1,6 @@
 | Redmi Note 9 Pro  开发版/内测版    |
 | ---- |
+| [miui_GAUGUIN_21.2.23_263a9f5696_11.0.zip](https://hugeota.d.miui.com/21.2.23/miui_GAUGUIN_21.2.23_263a9f5696_11.0.zip)    |
 | [miui_GAUGUIN_21.2.22_43fe72c308_11.0.zip](https://hugeota.d.miui.com/21.2.22/miui_GAUGUIN_21.2.22_43fe72c308_11.0.zip)    |
 | [miui_GAUGUIN_21.2.19_1bae4b3e2d_11.0.zip](https://hugeota.d.miui.com/21.2.19/miui_GAUGUIN_21.2.19_1bae4b3e2d_11.0.zip)    |
 | [miui_GAUGUIN_21.2.3_cfb0f4714f_11.0.zip](https://hugeota.d.miui.com/21.2.3/miui_GAUGUIN_21.2.3_cfb0f4714f_11.0.zip)    |
