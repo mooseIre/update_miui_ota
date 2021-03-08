@@ -1,5 +1,7 @@
 | 小米CC 9  开发版/内测版    |
 | ---- |
+| [miui_PYXIS_21.3.6_009ccf6ada_11.0.zip](https://hugeota.d.miui.com/21.3.6/miui_PYXIS_21.3.6_009ccf6ada_11.0.zip)    |
+| [miui_PYXIS_21.3.5_abcf9c5058_11.0.zip](https://hugeota.d.miui.com/21.3.5/miui_PYXIS_21.3.5_abcf9c5058_11.0.zip)    |
 | [miui_PYXIS_21.3.2_761ed18e15_11.0.zip](https://hugeota.d.miui.com/21.3.2/miui_PYXIS_21.3.2_761ed18e15_11.0.zip)    |
 | [miui_PYXIS_21.3.1_d0dfd03eb3_11.0.zip](https://hugeota.d.miui.com/21.3.1/miui_PYXIS_21.3.1_d0dfd03eb3_11.0.zip)    |
 | [miui_PYXIS_21.2.26_ab166fcd04_11.0.zip](https://hugeota.d.miui.com/21.2.26/miui_PYXIS_21.2.26_ab166fcd04_11.0.zip)    |
