@@ -46,5 +46,6 @@
 |Redmi 10X 5G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X%205G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X%205G.md)|
 |Redmi 10X Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X%20Pro.md)|
 |Redmi 10X| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X.md)|
+|小米10S| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10S.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10S.md)|
  ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。
