@@ -1,5 +1,6 @@
 | 小米CC 9e  开发版/内测版    |
 | ---- |
+| [miui_LAURUS_21.3.12_871b12d3c1_10.0.zip](https://hugeota.d.miui.com/21.3.12/miui_LAURUS_21.3.12_871b12d3c1_10.0.zip)    |
 | [miui_LAURUS_21.3.9_b59facf20a_10.0.zip](https://hugeota.d.miui.com/21.3.9/miui_LAURUS_21.3.9_b59facf20a_10.0.zip)    |
 | [miui_LAURUS_21.3.8_f969e75afa_10.0.zip](https://hugeota.d.miui.com/21.3.8/miui_LAURUS_21.3.8_f969e75afa_10.0.zip)    |
 | [miui_LAURUS_21.3.5_ed0e776a22_10.0.zip](https://hugeota.d.miui.com/21.3.5/miui_LAURUS_21.3.5_ed0e776a22_10.0.zip)    |
