@@ -6,6 +6,7 @@
 |Redmi K40| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40.md)|
 |Redmi K40 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40%20Pro.md)|
 |小米11| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米11.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米11.md)|
+|小米11 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米11%20Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米11%20Ultra.md)|
 |小米10| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)|
 |小米10Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)|
 |小米10 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10%20Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10%20Ultra.md)|
