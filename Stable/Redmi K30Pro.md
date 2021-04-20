@@ -1,5 +1,6 @@
 | Redmi K30Pro  稳定版    |
 | ---- |
+| [miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip](https://hugeota.d.miui.com/V12.2.4.0.RJKCNXM/miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip)    |
 | [miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip](https://hugeota.d.miui.com/V12.2.3.0.RJKCNXM/miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip)    |
 | [miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip](https://hugeota.d.miui.com/V12.2.2.0.RJKCNXM/miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip)    |
 | [miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip](https://hugeota.d.miui.com/V12.2.1.0.RJKCNXM/miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip)    |
