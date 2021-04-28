@@ -1,5 +1,6 @@
 | 小米CC 9美图定制版  开发版/内测版    |
 | ---- |
+| [miui_VELA_21.4.27_b7bcf0579a_11.0.zip](https://hugeota.d.miui.com/21.4.27/miui_VELA_21.4.27_b7bcf0579a_11.0.zip)    |
 | [miui_VELA_21.4.26_6e62f33f80_11.0.zip](https://hugeota.d.miui.com/21.4.26/miui_VELA_21.4.26_6e62f33f80_11.0.zip)    |
 | [miui_VELA_21.4.23_acf8f387d9_11.0.zip](https://hugeota.d.miui.com/21.4.23/miui_VELA_21.4.23_acf8f387d9_11.0.zip)    |
 | [miui_VELA_21.4.21_93e6d4af7f_11.0.zip](https://hugeota.d.miui.com/21.4.21/miui_VELA_21.4.21_93e6d4af7f_11.0.zip)    |
