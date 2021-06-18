@@ -1,5 +1,6 @@
 | Redmi K40  开发版/内测版    |
 | ---- |
+| [miui_ALIOTH_21.6.17_c96230ac05_11.0.zip](https://hugeota.d.miui.com/21.6.17/miui_ALIOTH_21.6.17_c96230ac05_11.0.zip)    |
 | [miui_ALIOTH_21.6.16_52e52b4721_11.0.zip](https://hugeota.d.miui.com/21.6.16/miui_ALIOTH_21.6.16_52e52b4721_11.0.zip)    |
 | [miui_ALIOTH_21.6.15_e9fbbf6f36_11.0.zip](https://hugeota.d.miui.com/21.6.15/miui_ALIOTH_21.6.15_e9fbbf6f36_11.0.zip)    |
 | [miui_ALIOTH_21.6.11_7c21590559_11.0.zip](https://hugeota.d.miui.com/21.6.11/miui_ALIOTH_21.6.11_7c21590559_11.0.zip)    |
