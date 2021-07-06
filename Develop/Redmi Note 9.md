@@ -1,5 +1,6 @@
 | Redmi Note 9  开发版/内测版    |
 | ---- |
+| [miui_CANNON_21.7.5_78887b41e9_11.0.zip](https://hugeota.d.miui.com/21.7.5/miui_CANNON_21.7.5_78887b41e9_11.0.zip)    |
 | [miui_CANNON_21.7.2_7370f17e04_11.0.zip](https://hugeota.d.miui.com/21.7.2/miui_CANNON_21.7.2_7370f17e04_11.0.zip)    |
 | [miui_CANNON_21.6.30_b0c48a1fdb_11.0.zip](https://hugeota.d.miui.com/21.6.30/miui_CANNON_21.6.30_b0c48a1fdb_11.0.zip)    |
 | [miui_CANNON_21.6.28_74bf574b00_11.0.zip](https://hugeota.d.miui.com/21.6.28/miui_CANNON_21.6.28_74bf574b00_11.0.zip)    |
