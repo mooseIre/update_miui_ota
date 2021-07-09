@@ -1,5 +1,6 @@
 | 小米CC 9  稳定版    |
 | ---- |
+| [miui_PYXIS_V12.5.3.0.RFCCNXM_123bbbed28_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RFCCNXM/miui_PYXIS_V12.5.3.0.RFCCNXM_123bbbed28_11.0.zip)    |
 | [miui_PYXIS_V12.0.2.0.QFCCNXM_b122bf39b6_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QFCCNXM/miui_PYXIS_V12.0.2.0.QFCCNXM_b122bf39b6_10.0.zip)    |
 | [miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip](https://hugeota.d.miui.com/V11.3.3.0.PFCCNXM/miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip)    |
 | [miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip](https://hugeota.d.miui.com/V11.3.2.0.PFCCNXM/miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip)    |
