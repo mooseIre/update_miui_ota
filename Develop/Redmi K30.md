@@ -1,5 +1,6 @@
 | Redmi K30  开发版/内测版    |
 | ---- |
+| [miui_PHOENIX_21.7.9_f6022541e5_11.0.zip](https://hugeota.d.miui.com/21.7.9/miui_PHOENIX_21.7.9_f6022541e5_11.0.zip)    |
 | [miui_PHOENIX_21.7.6_20e1a38a50_11.0.zip](https://hugeota.d.miui.com/21.7.6/miui_PHOENIX_21.7.6_20e1a38a50_11.0.zip)    |
 | [miui_PHOENIX_21.7.5_51a299b4b4_11.0.zip](https://hugeota.d.miui.com/21.7.5/miui_PHOENIX_21.7.5_51a299b4b4_11.0.zip)    |
 | [miui_PHOENIX_21.7.2_485c56a6bc_11.0.zip](https://hugeota.d.miui.com/21.7.2/miui_PHOENIX_21.7.2_485c56a6bc_11.0.zip)    |
