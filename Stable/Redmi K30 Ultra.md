@@ -1,5 +1,6 @@
 | Redmi K30 Ultra  稳定版    |
 | ---- |
+| [miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RJNCNXM/miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip)    |
 | [miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJNCNXM/miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip)    |
 | [miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJNCNXM/miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip)    |
 | [miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip](https://hugeota.d.miui.com/V12.0.21.0.QJNCNXM/miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip)    |
