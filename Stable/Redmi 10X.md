@@ -1,5 +1,6 @@
 | Redmi 10X  稳定版    |
 | ---- |
+| [miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RJOCNXM/miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip)    |
 | [miui_MERLIN_V12.0.8.0.QJOCNXM_468d5166c9_10.0.zip](https://hugeota.d.miui.com/V12.0.8.0.QJOCNXM/miui_MERLIN_V12.0.8.0.QJOCNXM_468d5166c9_10.0.zip)    |
 | [miui_MERLIN_V12.0.7.0.QJOCNXM_b6abbc0445_10.0.zip](https://hugeota.d.miui.com/V12.0.7.0.QJOCNXM/miui_MERLIN_V12.0.7.0.QJOCNXM_b6abbc0445_10.0.zip)    |
 | [miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip](https://hugeota.d.miui.com/V12.0.5.0.RJOCNXM/miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip)    |
