@@ -1,5 +1,6 @@
 | Redmi Note 9 4G  开发版/内测版    |
 | ---- |
+| [miui_LIME_21.7.26_4ef06e2009_11.0.zip](https://hugeota.d.miui.com/21.7.26/miui_LIME_21.7.26_4ef06e2009_11.0.zip)    |
 | [miui_LIME_21.7.23_4a401d6a87_11.0.zip](https://hugeota.d.miui.com/21.7.23/miui_LIME_21.7.23_4a401d6a87_11.0.zip)    |
 | [miui_LIME_21.7.21_1d1da2fa8a_11.0.zip](https://hugeota.d.miui.com/21.7.21/miui_LIME_21.7.21_1d1da2fa8a_11.0.zip)    |
 | [miui_LIME_21.7.20_cd33ee7068_11.0.zip](https://hugeota.d.miui.com/21.7.20/miui_LIME_21.7.20_cd33ee7068_11.0.zip)    |
