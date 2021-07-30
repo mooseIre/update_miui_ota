@@ -1,5 +1,6 @@
 | Redmi K20 Pro  稳定版    |
 | ---- |
+| [miui_RAPHAEL_V12.5.5.0.RFKCNXM_f3919faa90_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RFKCNXM/miui_RAPHAEL_V12.5.5.0.RFKCNXM_f3919faa90_11.0.zip)    |
 | [miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RFKCNXM/miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip)    |
 | [miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip](https://hugeota.d.miui.com/V12.0.6.0.QFKCNXM/miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip)    |
 | [miui_RAPHAEL_V12.0.5.0.QFKCNXM_d03168fb55_10.0.zip](https://hugeota.d.miui.com/V12.0.5.0.QFKCNXM/miui_RAPHAEL_V12.0.5.0.QFKCNXM_d03168fb55_10.0.zip)    |
