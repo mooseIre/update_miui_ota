@@ -1,5 +1,6 @@
 | Redmi K20 Pro  开发版/内测版    |
 | ---- |
+| [miui_RAPHAEL_21.8.3_184c15eb6d_11.0.zip](https://hugeota.d.miui.com/21.8.3/miui_RAPHAEL_21.8.3_184c15eb6d_11.0.zip)    |
 | [miui_RAPHAEL_21.8.2_ff0f3e16dd_11.0.zip](https://hugeota.d.miui.com/21.8.2/miui_RAPHAEL_21.8.2_ff0f3e16dd_11.0.zip)    |
 | [miui_RAPHAEL_21.7.30_698ac853e4_11.0.zip](https://hugeota.d.miui.com/21.7.30/miui_RAPHAEL_21.7.30_698ac853e4_11.0.zip)    |
 | [miui_RAPHAEL_21.7.28_6ef475da38_11.0.zip](https://hugeota.d.miui.com/21.7.28/miui_RAPHAEL_21.7.28_6ef475da38_11.0.zip)    |
