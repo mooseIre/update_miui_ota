@@ -1,5 +1,6 @@
 | Redmi Note 9  稳定版    |
 | ---- |
+| [miui_CANNON_V12.5.6.0.RJECNXM_03e11a1f94_11.0.zip](https://hugeota.d.miui.com/V12.5.6.0.RJECNXM/miui_CANNON_V12.5.6.0.RJECNXM_03e11a1f94_11.0.zip)    |
 | [miui_CANNON_V12.5.4.0.RJECNXM_f248e88994_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJECNXM/miui_CANNON_V12.5.4.0.RJECNXM_f248e88994_11.0.zip)    |
 | [miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJECNXM/miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip)    |
 | [miui_CANNON_V12.5.2.0.RJECNXM_577e820250_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RJECNXM/miui_CANNON_V12.5.2.0.RJECNXM_577e820250_11.0.zip)    |
