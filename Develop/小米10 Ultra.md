@@ -1,5 +1,6 @@
 | 小米10 Ultra  开发版/内测版    |
 | ---- |
+| [miui_CAS_21.8.20_63749cfbe3_11.0.zip](https://hugeota.d.miui.com/21.8.20/miui_CAS_21.8.20_63749cfbe3_11.0.zip)    |
 | [miui_CAS_21.8.18_4a82d33f35_11.0.zip](https://hugeota.d.miui.com/21.8.18/miui_CAS_21.8.18_4a82d33f35_11.0.zip)    |
 | [miui_CAS_21.8.17_652c46bcfa_11.0.zip](https://hugeota.d.miui.com/21.8.17/miui_CAS_21.8.17_652c46bcfa_11.0.zip)    |
 | [miui_CAS_21.8.16_46804ccf31_11.0.zip](https://hugeota.d.miui.com/21.8.16/miui_CAS_21.8.16_46804ccf31_11.0.zip)    |
