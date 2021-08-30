@@ -1,5 +1,6 @@
 | Redmi Note8  稳定版    |
 | ---- |
+| [miui_GINKGO_V12.5.1.0.RCOCNXM_474fdd5c54_11.0.zip](https://hugeota.d.miui.com/V12.5.1.0.RCOCNXM/miui_GINKGO_V12.5.1.0.RCOCNXM_474fdd5c54_11.0.zip)    |
 | [miui_GINKGO_V12.0.3.0.RCOCNXM_dea616152f_11.0.zip](https://hugeota.d.miui.com/V12.0.3.0.RCOCNXM/miui_GINKGO_V12.0.3.0.RCOCNXM_dea616152f_11.0.zip)    |
 | [miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QCOCNXM/miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip)    |
 | [miui_GINKGO_V12.0.2.0.QCOCNXM_fad5afbf68_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QCOCNXM/miui_GINKGO_V12.0.2.0.QCOCNXM_fad5afbf68_10.0.zip)    |
