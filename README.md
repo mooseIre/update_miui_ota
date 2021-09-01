@@ -28,8 +28,8 @@
 |小米9 SE| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米9%20SE.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米9%20SE.md)|
 |小米CC 9| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米CC%209.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米CC%209.md)|
 |小米CC 9 Pro| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米CC%209%20Pro.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米CC%209%20Pro.md)|
-|小米CC 9E| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米CC%209E.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米CC%209E.md)|
-|小米 CC9 美图定制版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米%20CC9%20美图定制版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米%20CC9%20美图定制版.md)|
+|小米CC 9e| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米CC%209e.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米CC%209e.md)|
+|小米CC 9 美图定制版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米CC%209%20美图定制版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米CC%209%20美图定制版.md)|
 |小米8| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米8.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米8.md)|
 |小米8 SE| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米8%20SE.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米8%20SE.md)|
 |小米8 青春版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米8%20青春版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米8%20青春版.md)|
