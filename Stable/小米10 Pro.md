@@ -1,5 +1,16 @@
 | 小米10 Pro  稳定版    |
 | ---- |
+| [miui_CMI_V12.5.7.0.RJACNXM_e895dd1b1a_11.0.zip](https://bigota.d.miui.com/V12.5.7.0.RJACNXM/miui_CMI_V12.5.7.0.RJACNXM_e895dd1b1a_11.0.zip)    |
+| [miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip](https://bigota.d.miui.com/V12.5.6.0.RJACNXM/miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip)    |
+| [miui_CMI_V12.5.5.0.RJACNXM_28647342d5_11.0.zip](https://bigota.d.miui.com/V12.5.5.0.RJACNXM/miui_CMI_V12.5.5.0.RJACNXM_28647342d5_11.0.zip)    |
+| [miui_CMI_V12.5.4.0.RJACNXM_d137a06cff_11.0.zip](https://bigota.d.miui.com/V12.5.4.0.RJACNXM/miui_CMI_V12.5.4.0.RJACNXM_d137a06cff_11.0.zip)    |
+| [miui_CMI_V12.5.3.0.RJACNXM_357977a6aa_11.0.zip](https://bigota.d.miui.com/V12.5.3.0.RJACNXM/miui_CMI_V12.5.3.0.RJACNXM_357977a6aa_11.0.zip)    |
+| [miui_CMI_V12.2.4.0.RJACNXM_d9426d5699_11.0.zip](https://bigota.d.miui.com/V12.2.4.0.RJACNXM/miui_CMI_V12.2.4.0.RJACNXM_d9426d5699_11.0.zip)    |
+| [miui_CMI_V12.2.3.0.RJACNXM_685cd1374b_11.0.zip](https://bigota.d.miui.com/V12.2.3.0.RJACNXM/miui_CMI_V12.2.3.0.RJACNXM_685cd1374b_11.0.zip)    |
+| [miui_CMI_V12.2.2.0.RJACNXM_07a38c8116_11.0.zip](https://bigota.d.miui.com/V12.2.2.0.RJACNXM/miui_CMI_V12.2.2.0.RJACNXM_07a38c8116_11.0.zip)    |
+| [miui_CMI_V12.2.1.0.RJACNXM_ba44ca3b4f_11.0.zip](https://bigota.d.miui.com/V12.2.1.0.RJACNXM/miui_CMI_V12.2.1.0.RJACNXM_ba44ca3b4f_11.0.zip)    |
+| [miui_CMI_V12.1.3.0.RJACNXM_c1ef0028e8_11.0.zip](https://bigota.d.miui.com/V12.1.3.0.RJACNXM/miui_CMI_V12.1.3.0.RJACNXM_c1ef0028e8_11.0.zip)    |
+| [miui_CMI_V12.1.2.0.RJACNXM_1746badd76_11.0.zip](https://bigota.d.miui.com/V12.1.2.0.RJACNXM/miui_CMI_V12.1.2.0.RJACNXM_1746badd76_11.0.zip)    |
 | [miui_CMI_V12.0.9.0.QJACNXM_c49cac94c1_10.0.zip](https://bigota.d.miui.com/V12.0.9.0.QJACNXM/miui_CMI_V12.0.9.0.QJACNXM_c49cac94c1_10.0.zip)    |
 | [miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip](https://bigota.d.miui.com/V12.0.6.0.QJACNXM/miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip)    |
 | [miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip](https://bigota.d.miui.com/V12.0.4.0.QJACNXM/miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip)    |

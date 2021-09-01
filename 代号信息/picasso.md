@@ -10,7 +10,5 @@ Release="2019-12-10"
 #出厂MIUI版本
 Initial_Version=11
 
-#出厂安卓版本
 Min_Android="Q"
-#最高安卓版本
 Max_Android="R"
