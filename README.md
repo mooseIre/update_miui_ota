@@ -9,7 +9,7 @@
 |机型|开发版|稳定版|
 | :----: | :----: | :----: |
 |小米MIX4| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX4.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX4.md)|
-|MIX FOLD 小米折叠屏| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/MIX%20FOLD%20小米折叠屏.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/MIX%20FOLD%20小米折叠屏.md)|
+|小米MIX FOLD折叠屏| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX%20FOLD折叠屏.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX%20FOLD折叠屏.md)|
 |Redmi K40| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40.md)|
 |Redmi K40 Pro| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40%20Pro.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40%20Pro.md)|
 |Redmi K40 游戏增强版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40%20游戏增强版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40%20游戏增强版.md)|

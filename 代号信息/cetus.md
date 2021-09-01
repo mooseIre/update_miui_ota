@@ -1,6 +1,6 @@
 #信息(仅供参考)
-Model="MIX FOLD 小米折叠屏"
-Model_CN="MIX FOLD 小米折叠屏"
+Model="小米MIX FOLD折叠屏"
+Model_CN="小米MIX FOLD折叠屏"
 Model_EN="mi-mix-fold-cetus"
 Edition="JTCNXM"
 
