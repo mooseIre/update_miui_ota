@@ -1,6 +1,9 @@
 ## MIUI OTA UPDATE
 
-### 尝试接手维护
+### 尝试接手维护，原项目地址：[update_miui_ota](https://github.com/mooseIre/update_miui_ota)
+
+- 开发版 Develop
+- 稳定版 Stable
 
  ---- 
 |机型|开发版|稳定版|
