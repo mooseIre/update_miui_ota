@@ -1,12 +1,12 @@
 | 小米10 Pro  开发版/内测版    |
 | ---- |
+| [miui_CMI_21.8.31_d017e57a81_11.0.zip](https://bigota.d.miui.com/21.8.31/miui_CMI_21.8.31_d017e57a81_11.0.zip)    |
 | [miui_CMI_21.8.30_f51f8ad87c_11.0.zip](https://bigota.d.miui.com/21.8.30/miui_CMI_21.8.30_f51f8ad87c_11.0.zip)    |
 | [miui_CMI_21.8.27_bb2ce3f146_11.0.zip](https://bigota.d.miui.com/21.8.27/miui_CMI_21.8.27_bb2ce3f146_11.0.zip)    |
 | [miui_CMI_21.8.25_b22352a099_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_CMI_21.8.25_b22352a099_11.0.zip)    |
 | [miui_CMI_21.8.24_d201937f38_11.0.zip](https://bigota.d.miui.com/21.8.24/miui_CMI_21.8.24_d201937f38_11.0.zip)    |
 | [miui_CMI_21.8.23_028fc28827_11.0.zip](https://bigota.d.miui.com/21.8.23/miui_CMI_21.8.23_028fc28827_11.0.zip)    |
 | [miui_CMI_21.8.20_09530bd1db_11.0.zip](https://bigota.d.miui.com/21.8.20/miui_CMI_21.8.20_09530bd1db_11.0.zip)    |
-| [miui](https://bigota.d.miui.com/21.8.18/cmi_images_21.8.18_20210818.0000.00_11.0_cn_f0b8cd422c.tgz)    |
 | [miui_CMI_21.8.17_766fd79b33_11.0.zip](https://bigota.d.miui.com/21.8.17/miui_CMI_21.8.17_766fd79b33_11.0.zip)    |
 | [miui_CMI_21.8.16_a2e4bac1c9_11.0.zip](https://bigota.d.miui.com/21.8.16/miui_CMI_21.8.16_a2e4bac1c9_11.0.zip)    |
 | [miui_CMI_21.8.13_d1e0f42dc2_11.0.zip](https://bigota.d.miui.com/21.8.13/miui_CMI_21.8.13_d1e0f42dc2_11.0.zip)    |

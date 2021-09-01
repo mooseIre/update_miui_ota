@@ -1,5 +1,6 @@
 | 小米9 Pro  开发版/内测版    |
 | ---- |
+| [miui_CRUX_21.8.31_6d262fff7c_11.0.zip](https://bigota.d.miui.com/21.8.31/miui_CRUX_21.8.31_6d262fff7c_11.0.zip)    |
 | [miui_CRUX_21.8.30_1a854aa047_11.0.zip](https://bigota.d.miui.com/21.8.30/miui_CRUX_21.8.30_1a854aa047_11.0.zip)    |
 | [miui_CRUX_21.8.27_f25704775e_11.0.zip](https://bigota.d.miui.com/21.8.27/miui_CRUX_21.8.27_f25704775e_11.0.zip)    |
 | [miui_CRUX_21.8.25_17a3572ed0_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_CRUX_21.8.25_17a3572ed0_11.0.zip)    |
