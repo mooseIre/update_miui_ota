@@ -1,6 +1,6 @@
 #信息(仅供参考)
-Model="小米 CC9 美图定制版"
-Model_CN="小米 CC9 美图定制版"
+Model="小米CC 9 美图定制版"
+Model_CN="小米CC 9 美图定制版"
 Model_EN="mi-cc-9-meitu-edition-vela"
 Edition="FECNXM"
 

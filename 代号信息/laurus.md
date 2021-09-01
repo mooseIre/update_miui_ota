@@ -1,6 +1,6 @@
 #信息(仅供参考)
-Model="小米CC 9E"
-Model_CN="小米CC 9E"
+Model="小米CC 9e"
+Model_CN="小米CC 9e"
 Model_EN="mi-cc-9e-laurus"
 Edition="FMCNXM"
 
