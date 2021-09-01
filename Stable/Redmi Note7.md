@@ -1,11 +1,23 @@
-| Redmi Note7  稳定版    |
+| 红米 Note7  稳定版    |
 | ---- |
-| [miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip](https://hugeota.d.miui.com/V12.5.3.0.QFGCNXM/miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip)    |
-| [miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip)    |
-| [miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QFGCNXM/miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip)    |
-| [miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip](https://hugeota.d.miui.com/V11.0.7.0.PFGCNXM/miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip)    |
-| [miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip](https://hugeota.d.miui.com/V11.0.4.0.PFGCNXM/miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip)    |
-| [miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip](https://hugeota.d.miui.com/V11.0.3.0.PFGCNXM/miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip)    |
-| [miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip](https://hugeota.d.miui.com/V11.0.2.0.QFGCNXM/miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip)    |
-| [miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip](https://hugeota.d.miui.com/V10.3.4.0.PFGCNXM/miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip)    |
-| [miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip](https://hugeota.d.miui.com/V10.3.3.0.PFGCNXM/miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip)    |
+| [miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip](https://bigota.d.miui.com/V12.5.3.0.QFGCNXM/miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip)    |
+| [miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip](https://bigota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip)    |
+| [miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip](https://bigota.d.miui.com/V12.0.2.0.QFGCNXM/miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip)    |
+| [miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip](https://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip)    |
+| [miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip](https://bigota.d.miui.com/V11.0.2.0.QFGCNXM/miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip)    |
+| [miui_LAVENDER_V11.0.1.0.QFGCNXM_0248df5ccd_10.0.zip](https://bigota.d.miui.com/V11.0.1.0.QFGCNXM/miui_LAVENDER_V11.0.1.0.QFGCNXM_0248df5ccd_10.0.zip)    |
+| [miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip](https://bigota.d.miui.com/V11.0.7.0.PFGCNXM/miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip)    |
+| [miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip](https://bigota.d.miui.com/V11.0.6.0.PFGCNXM/miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip)    |
+| [miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip](https://bigota.d.miui.com/V11.0.4.0.PFGCNXM/miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip)    |
+| [miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip](https://bigota.d.miui.com/V11.0.3.0.PFGCNXM/miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip)    |
+| [miui_LAVENDER_V11.0.2.0.PFGCNXM_a379ae321e_9.0.zip](https://bigota.d.miui.com/V11.0.2.0.PFGCNXM/miui_LAVENDER_V11.0.2.0.PFGCNXM_a379ae321e_9.0.zip)    |
+| [miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip](https://bigota.d.miui.com/V10.3.4.0.PFGCNXM/miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip)    |
+| [miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip](https://bigota.d.miui.com/V10.3.3.0.PFGCNXM/miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip)    |
+| [miui_LAVENDER_V10.3.2.0.PFGCNXM_7b8f383ce7_9.0.zip](https://bigota.d.miui.com/V10.3.2.0.PFGCNXM/miui_LAVENDER_V10.3.2.0.PFGCNXM_7b8f383ce7_9.0.zip)    |
+| [miui_LAVENDER_V10.3.1.0.PFGCNXM_bf965f4564_9.0.zip](https://bigota.d.miui.com/V10.3.1.0.PFGCNXM/miui_LAVENDER_V10.3.1.0.PFGCNXM_bf965f4564_9.0.zip)    |
+| [miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip](https://bigota.d.miui.com/V10.2.13.0.PFGCNXM/miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip)    |
+| [miui_LAVENDER_V10.2.10.0.PFGCNXM_6dbabed819_9.0.zip](https://bigota.d.miui.com/V10.2.10.0.PFGCNXM/miui_LAVENDER_V10.2.10.0.PFGCNXM_6dbabed819_9.0.zip)    |
+| [miui_LAVENDER_V10.2.9.0.PFGCNXM_c634d2dbad_9.0.zip](https://bigota.d.miui.com/V10.2.9.0.PFGCNXM/miui_LAVENDER_V10.2.9.0.PFGCNXM_c634d2dbad_9.0.zip)    |
+| [miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip](https://bigota.d.miui.com/V10.2.8.0.PFGCNXM/miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip)    |
+| [miui_LAVENDER_V10.2.5.0.PFGCNXM_ee368a734c_9.0.zip](https://bigota.d.miui.com/V10.2.5.0.PFGCNXM/miui_LAVENDER_V10.2.5.0.PFGCNXM_ee368a734c_9.0.zip)    |
+| [miui_LAVENDER_V10.2.3.0.PFGCNXM_2ed0f498ec_9.0.zip](https://bigota.d.miui.com/V10.2.3.0.PFGCNXM/miui_LAVENDER_V10.2.3.0.PFGCNXM_2ed0f498ec_9.0.zip)    |
