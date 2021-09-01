@@ -9,15 +9,17 @@
 |机型|开发版|稳定版|
 | :----: | :----: | :----: |
 |小米MIX4| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX4.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX4.md)|
-|Redmi K40 游戏增强版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40%20游戏增强版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40%20游戏增强版.md)|
 |MIX FOLD 小米折叠屏| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/MIX%20FOLD%20小米折叠屏.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/MIX%20FOLD%20小米折叠屏.md)|
 |Redmi K40| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40.md)|
 |Redmi K40 Pro| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40%20Pro.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40%20Pro.md)|
+|Redmi K40 游戏增强版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%20K40%20游戏增强版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%20K40%20游戏增强版.md)|
 |小米11| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米11.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米11.md)|
 |小米11 Ultra| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米11%20Ultra.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米11%20Ultra.md)|
 |小米10| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米10.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米10.md)|
 |小米10 Pro| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米10%20Pro.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米10%20Pro.md)|
 |小米10 Ultra| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米10%20Ultra.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米10%20Ultra.md)|
+|小米10S| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米10S.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米10S.md)|
+|小米10 青春版| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米10%20青春版.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米10%20青春版.md)|
 |小米MIX3| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX3.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX3.md)|
 |小米MIX2| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX2.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX2.md)|
 |小米MIX2S| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/小米MIX2S.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/小米MIX2S.md)|
