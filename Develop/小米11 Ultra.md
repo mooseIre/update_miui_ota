@@ -1,5 +1,6 @@
 | 小米11 Ultra  开发版/内测版    |
 | ---- |
+| [miui_STAR_21.9.1_fa273755ce_11.0.zip](https://hugeota.d.miui.com/21.9.1/miui_STAR_21.9.1_fa273755ce_11.0.zip)    |
 | [miui_STAR_21.8.31_9f518bfb4b_11.0.zip](https://hugeota.d.miui.com/21.8.31/miui_STAR_21.8.31_9f518bfb4b_11.0.zip)    |
 | [miui_STAR_21.8.30_1127c02147_11.0.zip](https://hugeota.d.miui.com/21.8.30/miui_STAR_21.8.30_1127c02147_11.0.zip)    |
 | [miui_STAR_21.8.27_f295644968_11.0.zip](https://hugeota.d.miui.com/21.8.27/miui_STAR_21.8.27_f295644968_11.0.zip)    |
