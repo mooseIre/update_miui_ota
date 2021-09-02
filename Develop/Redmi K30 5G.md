@@ -1,5 +1,6 @@
 | 红米 K30 5G  开发版/内测版    |
 | ---- |
+| [miui_PICASSO_21.9.1_331b3a6916_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_PICASSO_21.9.1_331b3a6916_11.0.zip)    |
 | [miui_PICASSO_21.8.31_e9355a5296_11.0.zip](https://bigota.d.miui.com/21.8.31/miui_PICASSO_21.8.31_e9355a5296_11.0.zip)    |
 | [miui_PICASSO_21.8.30_97014323f2_11.0.zip](https://bigota.d.miui.com/21.8.30/miui_PICASSO_21.8.30_97014323f2_11.0.zip)    |
 | [miui_PICASSO_21.8.27_fdf373cc54_11.0.zip](https://bigota.d.miui.com/21.8.27/miui_PICASSO_21.8.27_fdf373cc54_11.0.zip)    |
