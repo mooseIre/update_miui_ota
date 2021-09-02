@@ -1,5 +1,6 @@
 | 红米 Note9 Pro  开发版/内测版    |
 | ---- |
+| [miui_GAUGUIN_21.9.1_ea4fff47f8_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_GAUGUIN_21.9.1_ea4fff47f8_11.0.zip)    |
 | [miui_GAUGUIN_21.8.25_221ddd6737_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_GAUGUIN_21.8.25_221ddd6737_11.0.zip)    |
 | [miui_GAUGUIN_21.8.18_5b68f9c5c3_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_GAUGUIN_21.8.18_5b68f9c5c3_11.0.zip)    |
 | [miui_GAUGUIN_21.8.11_559598857a_11.0.zip](https://bigota.d.miui.com/21.8.11/miui_GAUGUIN_21.8.11_559598857a_11.0.zip)    |

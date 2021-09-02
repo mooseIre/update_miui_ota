@@ -1,5 +1,6 @@
 | 红米 Note8 Pro  开发版/内测版    |
 | ---- |
+| [miui_BEGONIA_21.9.1_38cc1dff52_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_BEGONIA_21.9.1_38cc1dff52_11.0.zip)    |
 | [miui_BEGONIA_21.8.25_229dbf4972_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_BEGONIA_21.8.25_229dbf4972_11.0.zip)    |
 | [miui_BEGONIA_21.8.20_d84d724228_11.0.zip](https://bigota.d.miui.com/21.8.20/miui_BEGONIA_21.8.20_d84d724228_11.0.zip)    |
 | [miui_BEGONIA_21.8.18_350a1377a0_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_BEGONIA_21.8.18_350a1377a0_11.0.zip)    |

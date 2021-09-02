@@ -1,5 +1,6 @@
 | 红米 K20  开发版/内测版    |
 | ---- |
+| [miui_DAVINCI_21.9.1_079993ab98_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_DAVINCI_21.9.1_079993ab98_11.0.zip)    |
 | [miui_DAVINCI_21.8.30_19bb3c8a26_11.0.zip](https://bigota.d.miui.com/21.8.30/miui_DAVINCI_21.8.30_19bb3c8a26_11.0.zip)    |
 | [miui_DAVINCI_21.8.25_6cd41b2685_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_DAVINCI_21.8.25_6cd41b2685_11.0.zip)    |
 | [miui_DAVINCI_21.8.18_892a01b689_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_DAVINCI_21.8.18_892a01b689_11.0.zip)    |

@@ -1,5 +1,6 @@
 | 红米 K40 游戏增强版  开发版/内测版    |
 | ---- |
+| [miui_ARES_21.8.31_02c5cc5a24_11.0.zip](https://bigota.d.miui.com/21.8.31/miui_ARES_21.8.31_02c5cc5a24_11.0.zip)    |
 | [miui_ARES_21.8.30_33c8e3b88f_11.0.zip](https://bigota.d.miui.com/21.8.30/miui_ARES_21.8.30_33c8e3b88f_11.0.zip)    |
 | [miui_ARES_21.8.27_0e76453d79_11.0.zip](https://bigota.d.miui.com/21.8.27/miui_ARES_21.8.27_0e76453d79_11.0.zip)    |
 | [miui_ARES_21.8.25_4edc065bc1_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_ARES_21.8.25_4edc065bc1_11.0.zip)    |

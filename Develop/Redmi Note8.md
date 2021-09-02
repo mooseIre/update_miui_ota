@@ -1,5 +1,6 @@
 | 红米 Note8  开发版/内测版    |
 | ---- |
+| [miui_GINKGO_21.9.1_4717e8648a_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_GINKGO_21.9.1_4717e8648a_11.0.zip)    |
 | [miui_GINKGO_21.8.25_b3e5fac4ad_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_GINKGO_21.8.25_b3e5fac4ad_11.0.zip)    |
 | [miui_GINKGO_21.8.18_bf2d7d9c92_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_GINKGO_21.8.18_bf2d7d9c92_11.0.zip)    |
 | [miui_GINKGO_21.8.11_0f88ce0f8a_11.0.zip](https://bigota.d.miui.com/21.8.11/miui_GINKGO_21.8.11_0f88ce0f8a_11.0.zip)    |

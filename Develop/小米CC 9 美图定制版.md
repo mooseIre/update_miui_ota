@@ -1,5 +1,6 @@
 | 小米 CC9 美图定制版  开发版/内测版    |
 | ---- |
+| [miui_VELA_21.9.1_6b749c4f0b_11.0.zip](https://bigota.d.miui.com/21.9.1/miui_VELA_21.9.1_6b749c4f0b_11.0.zip)    |
 | [miui_VELA_21.8.25_f27923052d_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_VELA_21.8.25_f27923052d_11.0.zip)    |
 | [miui_VELA_21.8.18_d814ff78ee_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_VELA_21.8.18_d814ff78ee_11.0.zip)    |
 | [miui_VELA_21.8.11_092a5d8b00_11.0.zip](https://bigota.d.miui.com/21.8.11/miui_VELA_21.8.11_092a5d8b00_11.0.zip)    |
