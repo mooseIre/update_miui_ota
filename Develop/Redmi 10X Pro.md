@@ -1,5 +1,6 @@
 | 红米 10X Pro  开发版/内测版    |
 | ---- |
+| [miui_BOMB_21.9.2_aeaad3ca4e_11.0.zip](https://bigota.d.miui.com/21.9.2/miui_BOMB_21.9.2_aeaad3ca4e_11.0.zip)    |
 | [miui_BOMB_21.8.25_7f4d0d2ac3_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_BOMB_21.8.25_7f4d0d2ac3_11.0.zip)    |
 | [miui_BOMB_21.8.18_bdc11743a7_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_BOMB_21.8.18_bdc11743a7_11.0.zip)    |
 | [miui_BOMB_21.8.12_8e8dcf2fb9_11.0.zip](https://bigota.d.miui.com/21.8.12/miui_BOMB_21.8.12_8e8dcf2fb9_11.0.zip)    |

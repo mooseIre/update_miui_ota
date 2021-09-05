@@ -1,5 +1,6 @@
 | 红米 Note9  开发版/内测版    |
 | ---- |
+| [miui_CANNON_21.9.2_894fbd10db_11.0.zip](https://bigota.d.miui.com/21.9.2/miui_CANNON_21.9.2_894fbd10db_11.0.zip)    |
 | [miui_CANNON_21.8.25_7347a22ec0_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_CANNON_21.8.25_7347a22ec0_11.0.zip)    |
 | [miui_CANNON_21.8.18_1942f3103b_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_CANNON_21.8.18_1942f3103b_11.0.zip)    |
 | [miui_CANNON_21.8.12_cf542c8ece_11.0.zip](https://bigota.d.miui.com/21.8.12/miui_CANNON_21.8.12_cf542c8ece_11.0.zip)    |

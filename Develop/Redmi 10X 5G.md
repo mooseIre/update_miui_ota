@@ -1,5 +1,6 @@
 | 红米 10X 5G  开发版/内测版    |
 | ---- |
+| [miui_ATOM_21.9.2_ca593e9cb6_11.0.zip](https://bigota.d.miui.com/21.9.2/miui_ATOM_21.9.2_ca593e9cb6_11.0.zip)    |
 | [miui_ATOM_21.8.25_9eb5d87d90_11.0.zip](https://bigota.d.miui.com/21.8.25/miui_ATOM_21.8.25_9eb5d87d90_11.0.zip)    |
 | [miui_ATOM_21.8.18_22a47b0522_11.0.zip](https://bigota.d.miui.com/21.8.18/miui_ATOM_21.8.18_22a47b0522_11.0.zip)    |
 | [miui_ATOM_21.8.12_cfa1e6c4db_11.0.zip](https://bigota.d.miui.com/21.8.12/miui_ATOM_21.8.12_cfa1e6c4db_11.0.zip)    |
