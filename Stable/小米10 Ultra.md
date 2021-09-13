@@ -1,5 +1,6 @@
 | 小米10 Ultra  稳定版    |
 | ---- |
+| [miui_CAS_V12.5.6.0.RJJCNXM_603cff371c_11.0.zip](https://hugeota.d.miui.com/V12.5.6.0.RJJCNXM/miui_CAS_V12.5.6.0.RJJCNXM_603cff371c_11.0.zip)    |
 | [miui_CAS_V12.5.5.0.RJJCNXM_6b787052df_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RJJCNXM/miui_CAS_V12.5.5.0.RJJCNXM_6b787052df_11.0.zip)    |
 | [miui_CAS_V12.5.4.0.RJJCNXM_55172411ad_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJJCNXM/miui_CAS_V12.5.4.0.RJJCNXM_55172411ad_11.0.zip)    |
 | [miui_CAS_V12.5.3.0.RJJCNXM_8f15332589_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJJCNXM/miui_CAS_V12.5.3.0.RJJCNXM_8f15332589_11.0.zip)    |
