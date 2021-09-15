@@ -1,5 +1,6 @@
 | Redmi K30 Ultra  开发版/内测版    |
 | ---- |
+| [miui_CEZANNE_21.9.14_3c20c13a40_11.0.zip](https://hugeota.d.miui.com/21.9.14/miui_CEZANNE_21.9.14_3c20c13a40_11.0.zip)    |
 | [miui_CEZANNE_21.9.13_a29faced52_11.0.zip](https://hugeota.d.miui.com/21.9.13/miui_CEZANNE_21.9.13_a29faced52_11.0.zip)    |
 | [miui_CEZANNE_21.9.12_9a5da04f17_11.0.zip](https://hugeota.d.miui.com/21.9.12/miui_CEZANNE_21.9.12_9a5da04f17_11.0.zip)    |
 | [miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip](https://hugeota.d.miui.com/21.9.8/miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip)    |
