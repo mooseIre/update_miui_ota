@@ -1,5 +1,6 @@
 | 小米11 Ultra  稳定版    |
 | ---- |
+| [miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip](https://hugeota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip)    |
 | [miui_STAR_V12.5.12.0.RKACNXM_4e6eedfcf3_11.0.zip](https://hugeota.d.miui.com/V12.5.12.0.RKACNXM/miui_STAR_V12.5.12.0.RKACNXM_4e6eedfcf3_11.0.zip)    |
 | [miui_STAR_V12.5.11.0.RKACNXM_5995927bf0_11.0.zip](https://hugeota.d.miui.com/V12.5.11.0.RKACNXM/miui_STAR_V12.5.11.0.RKACNXM_5995927bf0_11.0.zip)    |
 | [miui_STAR_V12.5.10.0.RKACNXM_0416179b27_11.0.zip](https://hugeota.d.miui.com/V12.5.10.0.RKACNXM/miui_STAR_V12.5.10.0.RKACNXM_0416179b27_11.0.zip)    |
