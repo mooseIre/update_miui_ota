@@ -1,5 +1,6 @@
 | Redmi K40 Pro  开发版/内测版    |
 | ---- |
+| [miui_HAYDN_21.10.18_6e67d757ea_12.0.zip](https://hugeota.d.miui.com/21.10.18/miui_HAYDN_21.10.18_6e67d757ea_12.0.zip)    |
 | [miui_HAYDN_21.10.13_ea44c395ce_12.0.zip](https://hugeota.d.miui.com/21.10.13/miui_HAYDN_21.10.13_ea44c395ce_12.0.zip)    |
 | [miui_HAYDN_21.9.29_2ed8826b69_12.0.zip](https://hugeota.d.miui.com/21.9.29/miui_HAYDN_21.9.29_2ed8826b69_12.0.zip)    |
 | [miui_HAYDN_21.9.22_bd3a5c60da_12.0.zip](https://hugeota.d.miui.com/21.9.22/miui_HAYDN_21.9.22_bd3a5c60da_12.0.zip)    |
