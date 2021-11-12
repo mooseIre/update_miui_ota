@@ -1,5 +1,6 @@
 | Redmi 10X Pro  稳定版    |
 | ---- |
+| [miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip](https://hugeota.d.miui.com/V12.5.6.0.RJLCNXM/miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip)    |
 | [miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJLCNXM/miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip)    |
 | [miui_BOMB_V12.5.3.0.RJLCNXM_d30b2b76aa_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJLCNXM/miui_BOMB_V12.5.3.0.RJLCNXM_d30b2b76aa_11.0.zip)    |
 | [miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RJLCNXM/miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip)    |
