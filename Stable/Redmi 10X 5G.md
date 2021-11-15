@@ -1,5 +1,6 @@
 | Redmi 10X 5G  稳定版    |
 | ---- |
+| [miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RJHCNXM/miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip)    |
 | [miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJHCNXM/miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip)    |
 | [miui_ATOM_V12.5.3.0.RJHCNXM_64a4fd241c_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJHCNXM/miui_ATOM_V12.5.3.0.RJHCNXM_64a4fd241c_11.0.zip)    |
 | [miui_ATOM_V12.5.2.0.RJHCNXM_e1b466363c_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RJHCNXM/miui_ATOM_V12.5.2.0.RJHCNXM_e1b466363c_11.0.zip)    |
