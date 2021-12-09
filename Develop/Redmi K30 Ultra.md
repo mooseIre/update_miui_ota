@@ -1,5 +1,12 @@
 | Redmi K30 Ultra  开发版/内测版    |
 | ---- |
+| [miui_CEZANNE_21.12.8_e72219465b_11.0.zip](https://bigota.d.miui.com/21.12.8/miui_CEZANNE_21.12.8_e72219465b_11.0.zip)    |
+| [miui_CEZANNE_21.12.7_3aeffc9397_11.0.zip](https://bigota.d.miui.com/21.12.7/miui_CEZANNE_21.12.7_3aeffc9397_11.0.zip)    |
+| [miui_CEZANNE_21.12.6_cf522e36ed_11.0.zip](https://bigota.d.miui.com/21.12.6/miui_CEZANNE_21.12.6_cf522e36ed_11.0.zip)    |
+| [miui_CEZANNE_21.12.3_30c38f4f01_11.0.zip](https://bigota.d.miui.com/21.12.3/miui_CEZANNE_21.12.3_30c38f4f01_11.0.zip)    |
+| [miui_CEZANNE_21.12.1_153c564842_11.0.zip](https://bigota.d.miui.com/21.12.1/miui_CEZANNE_21.12.1_153c564842_11.0.zip)    |
+| [miui_CEZANNE_21.12.3_30c38f4f01_11.0.zip](https://bigota.d.miui.com/21.12.3/miui_CEZANNE_21.12.3_30c38f4f01_11.0.zip)    |
+| [miui_CEZANNE_21.11.24_2a6d420895_11.0.zip](https://hugeota.d.miui.com/21.11.24/miui_CEZANNE_21.11.24_2a6d420895_11.0.zip)    |
 | [miui_CEZANNE_21.11.24_2a6d420895_11.0.zip](https://hugeota.d.miui.com/21.11.24/miui_CEZANNE_21.11.24_2a6d420895_11.0.zip)    |
 | [miui_CEZANNE_21.11.23_91341e367d_11.0.zip](https://hugeota.d.miui.com/21.11.23/miui_CEZANNE_21.11.23_91341e367d_11.0.zip)    |
 | [miui_CEZANNE_21.11.19_c127a58d4f_11.0.zip](https://hugeota.d.miui.com/21.11.19/miui_CEZANNE_21.11.19_c127a58d4f_11.0.zip)    |
