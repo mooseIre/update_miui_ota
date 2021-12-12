@@ -1,5 +1,11 @@
 | 小米10 Ultra  开发版/内测版    |
 | ---- |
+| [miui_CAS_21.12.8_1e8b3aaa27_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_CAS_21.12.8_1e8b3aaa27_12.0.zip)    |
+| [miui_CAS_21.12.7_66efa2edac_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_CAS_21.12.7_66efa2edac_12.0.zip)    |
+| [miui_CAS_21.12.6_ffe6981676_12.0.zip](https://hugeota.d.miui.com/21.12.6/miui_CAS_21.12.6_ffe6981676_12.0.zip)    |
+| [miui_CAS_21.12.4_05749e5873_12.0.zip](https://hugeota.d.miui.com/21.12.4/miui_CAS_21.12.4_05749e5873_12.0.zip)    |
+| [miui_CAS_21.12.1_64687a5b86_12.0.zip](https://hugeota.d.miui.com/21.12.1/miui_CAS_21.12.1_64687a5b86_12.0.zip)    |
+| [miui_CAS_21.11.29_88eee58ab6_12.0.zip](https://hugeota.d.miui.com/21.11.29/miui_CAS_21.11.29_88eee58ab6_12.0.zip)    |
 | [miui_CAS_21.11.25_757adccbb0_12.0.zip](https://hugeota.d.miui.com/21.11.25/miui_CAS_21.11.25_757adccbb0_12.0.zip)    |
 | [miui_CAS_21.11.24_21f2c2286e_12.0.zip](https://hugeota.d.miui.com/21.11.24/miui_CAS_21.11.24_21f2c2286e_12.0.zip)    |
 | [miui_CAS_21.11.22_03546a6950_12.0.zip](https://hugeota.d.miui.com/21.11.22/miui_CAS_21.11.22_03546a6950_12.0.zip)    |

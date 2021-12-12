@@ -1,5 +1,10 @@
 | Redmi K40 Pro  开发版/内测版    |
 | ---- |
+| [miui_HAYDN_21.12.8_d0390386e0_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_HAYDN_21.12.8_d0390386e0_12.0.zip)    |
+| [miui_HAYDN_21.12.7_e4d47e539e_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_HAYDN_21.12.7_e4d47e539e_12.0.zip)    |
+| [miui_HAYDN_21.12.4_053c79f63f_12.0.zip](https://hugeota.d.miui.com/21.12.4/miui_HAYDN_21.12.4_053c79f63f_12.0.zip)    |
+| [miui_HAYDN_21.12.1_5724e93c18_12.0.zip](https://hugeota.d.miui.com/21.12.1/miui_HAYDN_21.12.1_5724e93c18_12.0.zip)    |
+| [miui_HAYDN_21.11.29_cb97942e0c_12.0.zip](https://hugeota.d.miui.com/21.11.29/miui_HAYDN_21.11.29_cb97942e0c_12.0.zip)    |
 | [miui_HAYDN_21.11.25_45b2fc03e5_12.0.zip](https://hugeota.d.miui.com/21.11.25/miui_HAYDN_21.11.25_45b2fc03e5_12.0.zip)    |
 | [miui_HAYDN_21.11.22_b0ef388ec7_12.0.zip](https://hugeota.d.miui.com/21.11.22/miui_HAYDN_21.11.22_b0ef388ec7_12.0.zip)    |
 | [miui_HAYDN_21.11.19_9b9fd40e84_12.0.zip](https://hugeota.d.miui.com/21.11.19/miui_HAYDN_21.11.19_9b9fd40e84_12.0.zip)    |

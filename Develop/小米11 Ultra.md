@@ -1,5 +1,11 @@
 | 小米11 Ultra  开发版/内测版    |
 | ---- |
+| [miui_STAR_21.12.8_fb4f09cd73_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_STAR_21.12.8_fb4f09cd73_12.0.zip)    |
+| [miui_STAR_21.12.7_6e4ebdddd0_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_STAR_21.12.7_6e4ebdddd0_12.0.zip)    |
+| [miui_STAR_21.12.6_4330207550_12.0.zip](https://hugeota.d.miui.com/21.12.6/miui_STAR_21.12.6_4330207550_12.0.zip)    |
+| [miui_STAR_21.12.4_ad6ce1cf07_12.0.zip](https://hugeota.d.miui.com/21.12.4/miui_STAR_21.12.4_ad6ce1cf07_12.0.zip)    |
+| [miui_STAR_21.12.1_5b7aac6246_12.0.zip](https://hugeota.d.miui.com/21.12.1/miui_STAR_21.12.1_5b7aac6246_12.0.zip)    |
+| [miui_STAR_21.11.29_2b9e29c3f1_12.0.zip](https://hugeota.d.miui.com/21.11.29/miui_STAR_21.11.29_2b9e29c3f1_12.0.zip)    |
 | [miui_STAR_21.11.25_e6bfea0371_12.0.zip](https://hugeota.d.miui.com/21.11.25/miui_STAR_21.11.25_e6bfea0371_12.0.zip)    |
 | [miui_STAR_21.11.24_9f82bc2118_12.0.zip](https://hugeota.d.miui.com/21.11.24/miui_STAR_21.11.24_9f82bc2118_12.0.zip)    |
 | [miui_STAR_21.11.22_77d5cc6681_12.0.zip](https://hugeota.d.miui.com/21.11.22/miui_STAR_21.11.22_77d5cc6681_12.0.zip)    |

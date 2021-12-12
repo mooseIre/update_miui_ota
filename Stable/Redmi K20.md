@@ -1,5 +1,6 @@
 | Redmi K20  稳定版    |
 | ---- |
+| [miui_DAVINCI_V12.5.2.0.RFJCNXM_8e20b56805_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RFJCNXM/miui_DAVINCI_V12.5.2.0.RFJCNXM_8e20b56805_11.0.zip)    |
 | [miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip](https://hugeota.d.miui.com/V12.5.1.0.RFJCNXM/miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip)    |
 | [miui_DAVINCI_V12.1.2.0.RFJCNXM_cbafd0e088_11.0.zip](https://hugeota.d.miui.com/V12.1.2.0.RFJCNXM/miui_DAVINCI_V12.1.2.0.RFJCNXM_cbafd0e088_11.0.zip)    |
 | [miui_DAVINCI_V12.1.1.0.RFJCNXM_471ae2cf60_11.0.zip](https://hugeota.d.miui.com/V12.1.1.0.RFJCNXM/miui_DAVINCI_V12.1.1.0.RFJCNXM_471ae2cf60_11.0.zip)    |

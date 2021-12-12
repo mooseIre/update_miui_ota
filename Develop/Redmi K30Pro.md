@@ -1,5 +1,11 @@
 | Redmi K30Pro  开发版/内测版    |
 | ---- |
+| [miui_LMI_21.12.9_a41e63c8a5_12.0.zip](https://hugeota.d.miui.com/21.12.9/miui_LMI_21.12.9_a41e63c8a5_12.0.zip)    |
+| [miui_LMI_21.12.8_a24cf741bc_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_LMI_21.12.8_a24cf741bc_12.0.zip)    |
+| [miui_LMI_21.12.7_89e1584204_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_LMI_21.12.7_89e1584204_12.0.zip)    |
+| [miui_LMI_21.12.6_e177e3e57a_12.0.zip](https://hugeota.d.miui.com/21.12.6/miui_LMI_21.12.6_e177e3e57a_12.0.zip)    |
+| [miui_LMI_21.12.4_c445a306b9_12.0.zip](https://hugeota.d.miui.com/21.12.4/miui_LMI_21.12.4_c445a306b9_12.0.zip)    |
+| [miui_LMI_21.11.30_56722ba572_12.0.zip](https://hugeota.d.miui.com/21.11.30/miui_LMI_21.11.30_56722ba572_12.0.zip)    |
 | [miui_LMI_21.11.3_d6464f494e_11.0.zip](https://hugeota.d.miui.com/21.11.3/miui_LMI_21.11.3_d6464f494e_11.0.zip)    |
 | [miui_LMI_21.11.2_255e75397e_11.0.zip](https://hugeota.d.miui.com/21.11.2/miui_LMI_21.11.2_255e75397e_11.0.zip)    |
 | [miui_LMI_21.11.1_c7447aa9d9_11.0.zip](https://hugeota.d.miui.com/21.11.1/miui_LMI_21.11.1_c7447aa9d9_11.0.zip)    |

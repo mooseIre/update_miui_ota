@@ -1,5 +1,11 @@
 | Redmi K40  开发版/内测版    |
 | ---- |
+| [miui_ALIOTH_21.12.8_78fafd0681_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_ALIOTH_21.12.8_78fafd0681_12.0.zip)    |
+| [miui_ALIOTH_21.12.7_8604b0cd3e_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_ALIOTH_21.12.7_8604b0cd3e_12.0.zip)    |
+| [miui_ALIOTH_21.12.6_09e6465a56_12.0.zip](https://hugeota.d.miui.com/21.12.6/miui_ALIOTH_21.12.6_09e6465a56_12.0.zip)    |
+| [miui_ALIOTH_21.12.4_43367860b0_12.0.zip](https://hugeota.d.miui.com/21.12.4/miui_ALIOTH_21.12.4_43367860b0_12.0.zip)    |
+| [miui_ALIOTH_21.12.1_bd9cb304e1_12.0.zip](https://hugeota.d.miui.com/21.12.1/miui_ALIOTH_21.12.1_bd9cb304e1_12.0.zip)    |
+| [miui_ALIOTH_21.11.29_cc344ec494_12.0.zip](https://hugeota.d.miui.com/21.11.29/miui_ALIOTH_21.11.29_cc344ec494_12.0.zip)    |
 | [miui_ALIOTH_21.11.25_aa8b314fe6_12.0.zip](https://hugeota.d.miui.com/21.11.25/miui_ALIOTH_21.11.25_aa8b314fe6_12.0.zip)    |
 | [miui_ALIOTH_21.11.24_dd5f4b82f5_12.0.zip](https://hugeota.d.miui.com/21.11.24/miui_ALIOTH_21.11.24_dd5f4b82f5_12.0.zip)    |
 | [miui_ALIOTH_21.11.22_b938ff6aaa_12.0.zip](https://hugeota.d.miui.com/21.11.22/miui_ALIOTH_21.11.22_b938ff6aaa_12.0.zip)    |

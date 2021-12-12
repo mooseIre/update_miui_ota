@@ -1,5 +1,6 @@
 | Redmi Note7  稳定版    |
 | ---- |
+| [miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip](https://hugeota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip)    |
 | [miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip](https://hugeota.d.miui.com/V12.5.3.0.QFGCNXM/miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip)    |
 | [miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip)    |
 | [miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QFGCNXM/miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip)    |
