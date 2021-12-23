@@ -1,5 +1,6 @@
 | Redmi K40  稳定版    |
 | ---- |
+| [miui_ALIOTH_V12.5.19.0.RKHCNXM_bdf07af7bf_11.0.zip](https://hugeota.d.miui.com/V12.5.19.0.RKHCNXM/miui_ALIOTH_V12.5.19.0.RKHCNXM_bdf07af7bf_11.0.zip)    |
 | [miui_ALIOTH_V12.5.18.0.RKHCNXM_1117d9a159_11.0.zip](https://hugeota.d.miui.com/V12.5.18.0.RKHCNXM/miui_ALIOTH_V12.5.18.0.RKHCNXM_1117d9a159_11.0.zip)    |
 | [miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip](https://hugeota.d.miui.com/V12.5.14.0.RKHCNXM/miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip)    |
 | [miui_ALIOTH_V12.5.6.0.RKHCNXM_b6739f027b_11.0.zip](https://hugeota.d.miui.com/V12.5.6.0.RKHCNXM/miui_ALIOTH_V12.5.6.0.RKHCNXM_b6739f027b_11.0.zip)    |
