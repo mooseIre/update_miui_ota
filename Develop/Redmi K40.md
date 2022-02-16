@@ -1,5 +1,23 @@
 | Redmi K40  开发版/内测版    |
 | ---- |
+| [miui_ALIOTHPRE_22.2.15_13ffdf7f67_12.0.zip](https://bigota.d.miui.com/22.2.15/miui_ALIOTHPRE_22.2.15_13ffdf7f67_12.0.zip)    |
+| [miui_ALIOTHPRE_22.2.10_db1e8fd13a_12.0.zip](https://bigota.d.miui.com/22.2.10/miui_ALIOTHPRE_22.2.10_db1e8fd13a_12.0.zip)    |
+| [miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip](https://bigota.d.miui.com/22.2.9/miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip)    |
+| [miui_ALIOTHPRE_22.2.8_0a18943572_12.0.zip](https://bigota.d.miui.com/22.2.8/miui_ALIOTHPRE_22.2.8_0a18943572_12.0.zip)    |
+| [miui_ALIOTHPRE_22.2.7_894f5896c8_12.0.zip](https://bigota.d.miui.com/22.2.7/miui_ALIOTHPRE_22.2.7_894f5896c8_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.24_b7f6010e4e_12.0.zip](https://bigota.d.miui.com/22.1.24/miui_ALIOTHPRE_22.1.24_b7f6010e4e_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip](https://bigota.d.miui.com/22.1.19/miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.18_282e2674d1_12.0.zip](https://bigota.d.miui.com/22.1.18/miui_ALIOTHPRE_22.1.18_282e2674d1_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.17_db139c66da_12.0.zip](https://bigota.d.miui.com/22.1.17/miui_ALIOTHPRE_22.1.17_db139c66da_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.14_b76e3bc599_12.0.zip](https://bigota.d.miui.com/22.1.14/miui_ALIOTHPRE_22.1.14_b76e3bc599_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.13_1a7a0bab1b_12.0.zip](https://bigota.d.miui.com/22.1.13/miui_ALIOTHPRE_22.1.13_1a7a0bab1b_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.12_cd7ad07651_12.0.zip](https://bigota.d.miui.com/22.1.12/miui_ALIOTHPRE_22.1.12_cd7ad07651_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.11_84102d2d07_12.0.zip](https://bigota.d.miui.com/22.1.11/miui_ALIOTHPRE_22.1.11_84102d2d07_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.8_a7336eb61e_12.0.zip](https://bigota.d.miui.com/22.1.8/miui_ALIOTHPRE_22.1.8_a7336eb61e_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.6_90e2c3797b_12.0.zip](https://bigota.d.miui.com/22.1.6/miui_ALIOTHPRE_22.1.6_90e2c3797b_12.0.zip)    |
+| [miui_ALIOTHPRE_22.1.5_30bdcf91fd_12.0.zip](https://bigota.d.miui.com/22.1.5/miui_ALIOTHPRE_22.1.5_30bdcf91fd_12.0.zip)    |
+| [miui_ALIOTHPRE_21.12.30_0ce79571b9_12.0.zip](https://bigota.d.miui.com/21.12.30/miui_ALIOTHPRE_21.12.30_0ce79571b9_12.0.zip)    |
+| [miui_ALIOTHPRE_21.12.27_9e4dec9ebc_12.0.zip](https://hugeota.d.miui.com/21.12.27/miui_ALIOTHPRE_21.12.27_9e4dec9ebc_12.0.zip)    |
 | [miui_ALIOTH_21.12.9_9b3db7a316_12.0.zip](https://hugeota.d.miui.com/21.12.9/miui_ALIOTH_21.12.9_9b3db7a316_12.0.zip)    |
 | [miui_ALIOTH_21.12.8_78fafd0681_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_ALIOTH_21.12.8_78fafd0681_12.0.zip)    |
 | [miui_ALIOTH_21.12.7_8604b0cd3e_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_ALIOTH_21.12.7_8604b0cd3e_12.0.zip)    |
